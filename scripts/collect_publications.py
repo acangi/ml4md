@@ -83,8 +83,22 @@ for w in cr:
             "href":    f"https://doi.org/{w.get('DOI')}" if w.get("DOI") else None,
         }
     )
+# ── 3-A  Bulk BibTeX → dict(doi → author list) ───────────────────────────
+bib_url = f"https://pub.orcid.org/v3.0/{ORCID}/works?format=bibtex"
+bib_tex = session.get(bib_url,
+                      headers={"Accept": "application/x-bibtex"},
+                      timeout=30).text
 
-# ── 3  Merge (prefer Crossref, keep put-code) ──────────────────────────────
+doi_to_authors = {}
+for entry in bibtexparser.loads(bib_tex).entries:
+    raw_doi = entry.get("doi") or entry.get("DOI") or ""
+    doi     = raw_doi.lower().strip()
+    authstr = re.sub(r"[{}]", "", entry.get("author", ""))
+    names   = "; ".join([p.strip() for p in authstr.split(" and ") if p.strip()])
+    if doi:
+        doi_to_authors[doi] = names
+
+# ── 3-B  Merge (prefer Crossref; keep put-code) ───────────────────────────
 by_doi = {r["doi"].lower(): r for r in cross if r.get("doi")}
 merged = cross.copy()
 
@@ -94,21 +108,18 @@ for r in orc:
         base = by_doi[key]
         if r.get("put") and not base.get("put"):
             base["put"] = r["put"]
-        for f in ("title", "year", "journal", "author"):
+        for f in ("title", "year", "journal"):
             if not base.get(f):
                 base[f] = r.get(f)
     else:
         merged.append(r)
 
-# ── 4  Fetch BibTeX when author still blank ────────────────────────────────
-needs = [m for m in merged if not m["author"] and m.get("put")]
-
-for m in needs:
-    bib = session.get(
-        f"https://pub.orcid.org/v3.0/{ORCID}/work/{m['put']}/bibtex",
-        headers={"Accept": "application/x-bibtex"}, timeout=30).text
-    m["author"] = parse_bibtex_authors(bib)
-    time.sleep(0.2)        # stay well under ORCID’s public limit
+# ── 4  Back-fill *any* blank author from the BibTeX map ───────────────────
+for m in merged:
+    if not m.get("author"):
+        doi_key = (m.get("doi") or "").lower()
+        if doi_key in doi_to_authors:
+            m["author"] = doi_to_authors[doi_key]
 
 # ── 5  Finalise & write YAML ───────────────────────────────────────────────
 for r in merged:
