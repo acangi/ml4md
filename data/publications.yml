@@ -1,11 +1,107 @@
-- title: Room‑temperature superconductivity in computationally designed hydrides
-  author: Jane Q. Smith; John Doe
+- title: Strong geometry dependence of the X-ray Thomson Scattering Spectrum in single
+    crystal silicon
+  author: Gawne, Thomas; Moldabekov, Zhandos A; Humphries, Oliver S; Appel, Karen;
+    Baehtz, Carsten; Bouffetier, Victorien; Brambrink, Erik; Cangi, Attila; Cr{\'e}pisson,
+    Celine; G{\"o}de, Sebastian; others
+  year: 2025
+  journal: arXiv preprint arXiv:2501.19276
+- title: Machine learning-driven structure prediction for iron hydrides
+  author: Tahmasbi, Hossein; Ramakrishna, Kushal; Lokamani, Mani; Cangi, Attila
   year: 2024
-  journal: Nature
-  doi: 10.1038/s41586-024-01234-5
-  href: https://doi.org/10.1038/s41586-024-01234-5
-- title: Accelerating Density Functional Theory with Machine‑Learned Potentials
-  author: Attila Cangi; Alex Miller
+  journal: Physical Review Materials
+- title: Probing iron in Earth’s core with molecular-spin dynamics
+  author: Nikolov, Svetoslav; Ramakrishna, Kushal; Rohskopf, Andrew; Lokamani, Mani;
+    Tranchida, Julien; Carpenter, John; Cangi, Attila; Wood, Mitchell A
+  year: 2024
+  journal: Proceedings of the National Academy of Sciences
+- title: 'Applying an Explicit Temperature-dependent Generalized Gradient Approximation
+    to Warm Dense Matter: Thermal PBE'
+  author: Ramakrishna, Kushal; Lokamani, Mani; Cangi, Attila
+  year: 2024
+  journal: APS March Meeting Abstracts
+- title: Physics-Informed Machine Learning for Addressing Challenges in Static and
+    Time-Dependent Density Functional Theory
+  author: Shah, Karan; Cangi, Attila
+  year: 2024
+  journal: APS March Meeting Abstracts
+- title: Inverting the Kohn--Sham equations with physics-informed machine learning
+  author: Martinetto, Vincent; Shah, Karan; Cangi, Attila; Pribram-Jones, Aurora
+  year: 2024
+  journal: 'Machine Learning: Science and Technology'
+- title: Predicting the electronic structure of matter at scale with machine learning
+  author: Cangi, Attila
+  year: 2024
+  journal: APS March Meeting Abstracts
+- title: Structure prediction of iron hydrides across pressure range with transferable
+    machine-learned interatomic potential
+  author: Tahmasbi, Hossein; Ramakrishna, Kushal; Lokamani, Mani; Cangi, Attila
+  year: 2024
+  journal: APS March Meeting Abstracts
+- title: Ultrahigh resolution x-ray Thomson scattering measurements of electronic
+    structures
+  author: Gawne, Thomas; Moldabekov, Zhandos A; Humphries, Oliver S; Appel, Karen;
+    B{\"a}htz, Carsten; Bouffetier, Victorien; Brambrink, Erik; Cangi, Attila; G{\"o}de,
+    Sebastian; Kon{\^o}pkov{\'a}, Zuzana; others
+  year: 2024
+  journal: arXiv e-prints
+- title: Effects of mosaic crystal instrument functions on x-ray Thomson scattering
+    diagnostics
+  author: Gawne, Thomas; Bellenbaum, Hannah; Fletcher, Luke B; Appel, Karen; Baehtz,
+    Carsten; Bouffetier, Victorien; Brambrink, Erik; Brown, Danielle; Cangi, Attila;
+    Descamps, Adrien; others
+  year: 2024
+  journal: Journal of Applied Physics
+- title: Ultrahigh resolution x-ray Thomson scattering measurements at the European
+    X-ray Free Electron Laser
+  author: Gawne, Thomas; Moldabekov, Zhandos A; Humphries, Oliver S; Appel, Karen;
+    Baehtz, Carsten; Bouffetier, Victorien; Brambrink, Erik; Cangi, Attila; G{\"o}de,
+    Sebastian; Kon{\^o}pkov{\'a}, Zuzana; others
+  year: 2024
+  journal: Physical Review B
+- title: Accelerating Electron Dynamics Simulations through Machine Learned Time Propagators
+  author: Shah, Karan; Cangi, Attila
+  year: 2024
+  journal: arXiv preprint arXiv:2407.09628
+- title: Electrical conductivity of warm dense hydrogen from ohm’s law and time-dependent
+    density functional theory
+  author: Ramakrishna, Kushal; Lokamani, Mani; Cangi, Attila
+  year: 2024
+  journal: Electronic Structure
+- title: Bridging the gap in electronic structure calculations via machine learning
+  author: Cangi, Attila
+  year: 2024
+  journal: Nature Computational Science
+- title: 'Materials Learning Algorithms (MALA): Scalable Machine Learning for Electronic
+    Structure Calculations in Large-Scale Atomistic Simulations'
+  author: Cangi, Attila; Fiedler, Lenz; Brzoza, Bartosz; Shah, Karan; Callow, Timothy
+    J; Kotik, Daniel; Schmerler, Steve; Barry, Matthew C; Goff, James M; Rohskopf,
+    Andrew; others
+  year: 2024
+  journal: arXiv preprint arXiv:2411.19617
+- title: Ultrahigh Resolution X-ray Thomson Scattering Measurements at the European
+    XFEL
+  author: Gawne, Thomas; Moldabekov, Zhandos A; Humphries, Oliver S; Appel, Karen;
+    B{\"a}htz, Carsten; Bouffetier, Victorien; Brambrink, Erik; Cangi, Attila; G{\"o}de,
+    Sebastian; Kon{\^o}pkov{\'a}, Zuzana; others
+  year: 2024
+  journal: arXiv preprint arXiv:2403.02776
+- title: Physics-enhanced neural networks for equation-of-state calculations
+  author: Callow, Timothy J; Nikl, Jan; Kraisler, Eli; Cangi, Attila
   year: 2023
-  journal: NeurIPS
-  pdf: /static/papers/2023_dft_ml.pdf
+  journal: 'Machine Learning: Science and Technology'
+- title: Ab initio insights on the ultrafast strong-field dynamics of anatase TiO
+    2
+  author: SB, Sruthil Lal; Lokamani; Ramakrishna, Kushal; Cangi, Attila; Murali, D;
+    Posselt, Matthias; Devi, Assa Aravindh Sasikala; Sharan, Alok
+  year: 2023
+  journal: Physical Review B
+- title: 'Impact of electronic correlations on high-pressure iron: insights from time-dependent
+    density functional theory'
+  author: Ramakrishna, Kushal; Lokamani, Mani; Baczewski, Andrew; Vorberger, Jan;
+    Cangi, Attila
+  year: 2023
+  journal: Electronic Structure
+- title: Ab initio insights on the ultrafast strong-field dynamics of anatase TiO2
+  author: Sruthil Lal, SB; Ramakrishna, Kushal; Cangi, Attila; Murali, D; Posselt,
+    Matthias; Sasikala Devi, Assa Aravindh; Sharan, Alok; others
+  year: 2023
