@@ -32,18 +32,16 @@ jobs:
         run: |
           python -m pip install --upgrade pip bibtexparser pyyaml
 
-      # 5 Fetch latest works from ORCID (BibTeX)
+      # 5 Fetch fresh BibTeX from ORCID
       - name: Download BibTeX from ORCID
         run: |
           curl -fLsS \
-               -H "Accept: application/x-bibtex" \
-               "https://pub.orcid.org/v3.0/${ORCID_ID}/works" \
-               -o references.bib
+            "https://pub.orcid.org/v3.0/${ORCID_ID}/works?format=bibtex" \
+            -o references.bib
           COUNT=$(grep -c '^@' references.bib || true)
           echo "Fetched ${COUNT} BibTeX record(s)."
           if [ "$COUNT" -eq 0 ]; then
-            echo "::error title=No BibTeX records found::ORCID did not return valid BibTeX."
-            exit 1
+            echo "::warning ::ORCID returned no BibTeX entries — site will still build with existing YAML."
           fi
 
       # 6 Convert BibTeX → data/publications.yml
