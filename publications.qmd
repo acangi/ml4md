@@ -7,6 +7,7 @@ listing:
   contents: data/publications.yml      # YAML file with publication metadata
   sort: "year desc"
   filter-ui: true                      # live search box
+  where: kind == "paper" 
   fields: [year, title, author, journal, doi]   # columns to show
   field-display-names:                # optional prettier headers
     author: "Authors"
