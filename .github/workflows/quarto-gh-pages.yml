@@ -30,23 +30,19 @@ jobs:
       # 4 Python deps for BibTeX → YAML
       - name: Install Python packages
         run: |
-          python -m pip install --upgrade pip bibtexparser pyyaml
+          python -m pip install --upgrade pip bibtexparser pyyaml jq
 
-      # 5 Fetch fresh BibTeX from ORCID
-      - name: Download BibTeX from ORCID
+      # 5 Fetch works from Crossref by ORCID
+      - name: Download works JSON via Crossref
         run: |
           curl -fLsS \
-            "https://pub.orcid.org/v3.0/${ORCID_ID}/works?format=bibtex" \
-            -o references.bib
-          COUNT=$(grep -c '^@' references.bib || true)
-          echo "Fetched ${COUNT} BibTeX record(s)."
-          if [ "$COUNT" -eq 0 ]; then
-            echo "::warning ::ORCID returned no BibTeX entries — site will still build with existing YAML."
-          fi
+            "https://api.crossref.org/works?filter=orcid:${ORCID_ID}&mailto=a.cangi@hzdr.de&rows=1000" \
+            -o works.json
+          jq '.message.items | length' works.json
 
       # 6 Convert BibTeX → data/publications.yml
-      - name: Convert BibTeX to YAML
-        run: python scripts/bib_to_yaml.py
+      - name: Convert Crossref JSON to YAML
+        run: python scripts/crossref_to_yaml.py
 
       # 7 Render the Quarto site
       - name: Render site
