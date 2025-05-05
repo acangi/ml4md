@@ -40,9 +40,15 @@ jobs:
             -o works.json
           jq '.message.items | length' works.json
 
-      # 6 Convert BibTeX → data/publications.yml
-      - name: Convert Crossref JSON to YAML
-        run: python scripts/crossref_to_yaml.py
+      # after the "Download works JSON via Crossref" step (optional—you may drop it)
+      - name: Collect & merge ORCID + Crossref → YAML
+        env:
+          CONTACT_EMAIL: a.cangi@hzdr.de       # polite-pool address for Crossref
+        run: python scripts/collect_publications.py
+
+      ## 6 Convert BibTeX → data/publications.yml
+      #- name: Convert Crossref JSON to YAML
+      #  run: python scripts/crossref_to_yaml.py
 
       # 7 Render the Quarto site
       - name: Render site

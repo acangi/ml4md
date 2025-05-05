@@ -1,5 +1,7 @@
 project:
   type: website
+  pre-render:
+    - python scripts/collect_publications.py
 
 website:
   title: "Machine Learning for Materials Design"
