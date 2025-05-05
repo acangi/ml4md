@@ -20,13 +20,30 @@ while url:
         if w["id"] in seen:
             continue
         seen.add(w["id"])
-
+        
         authors = "; ".join(a["author"]["display_name"] for a in w["authorships"])
+        
+        # --- classify ------------------------------------------------------------
+        # OpenAlex uses a controlled vocabulary in w["type"]
+        # • "journal-article"          → peer-reviewed paper
+        # • "posted-content"           → preprint (arXiv, bioRxiv, ChemRxiv…)
+        # • "proceedings-article"      → conference paper / talk abstract
+        # • everything else            → leave as-is for now
+        kind_map = {
+            "journal-article"   : "paper",
+            "book-chapter"      : "paper",
+            "book"              : "paper",
+            "posted-content"    : "preprint",
+            "proceedings-article": "talk",          # e.g. Bulletin of the APS
+        }
+        kind = kind_map.get(w["type"], w["type"])    # fall back to raw type
 
+        # -------- safe journal lookup (can be None) ------------------------------
         pl   = w.get("primary_location") or {}
         src  = pl.get("source") or {}
         journal = src.get("display_name")
 
+        # -------- assemble record -------------------------------------------------
         rec = dict(
             title   = w["title"],
             author  = authors,
@@ -34,8 +51,10 @@ while url:
             journal = journal,
             doi     = w.get("doi"),
             href    = f"https://doi.org/{w['doi']}" if w.get("doi") else w["id"],
+            kind    = kind,                         # ← NEW TAG
         )
         records.append(rec)
+
     cursor = page.get("meta", {}).get("next_cursor")
     url = f"{base}&cursor={cursor}" if cursor else None
 
