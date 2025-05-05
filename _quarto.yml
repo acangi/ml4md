@@ -1,7 +1,8 @@
 project:
   type: website
   pre-render:
-    - python scripts/collect_publications.py
+    - python scripts/openalex_to_yaml.py
+
 
 website:
   title: "Machine Learning for Materials Design"

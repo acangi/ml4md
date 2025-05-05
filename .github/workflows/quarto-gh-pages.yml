@@ -30,36 +30,23 @@ jobs:
       # 4 Python deps for BibTeX → YAML
       - name: Install Python packages
         run: |
-          python -m pip install --upgrade pip bibtexparser pyyaml jq
+          python -m pip install --upgrade pip pyyaml requests
 
-      # 5 Fetch works from Crossref by ORCID
-      - name: Download works JSON via Crossref
-        run: |
-          curl -fLsS \
-            "https://api.crossref.org/works?filter=orcid:${ORCID_ID}&mailto=a.cangi@hzdr.de&rows=1000" \
-            -o works.json
-          jq '.message.items | length' works.json
 
-      # after the "Download works JSON via Crossref" step (optional—you may drop it)
-      - name: Collect & merge ORCID + Crossref → YAML
-        env:
-          CONTACT_EMAIL: a.cangi@hzdr.de       # polite-pool address for Crossref
-        run: python scripts/collect_publications.py
+      # 5 Harvest publications from OpenAlex
+      - name: Harvest publications from OpenAlex
+        run: python scripts/openalex_to_yaml.py
 
-      ## 6 Convert BibTeX → data/publications.yml
-      #- name: Convert Crossref JSON to YAML
-      #  run: python scripts/crossref_to_yaml.py
-
-      # 7 Render the Quarto site
+      # 6 Render the Quarto site
       - name: Render site
         run: quarto render
 
-      # 8 Upload the built site as a Pages artifact
+      # 7 Upload the built site as a Pages artifact
       - name: Upload GitHub Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
           path: _site
 
-      # 9 Deploy to Pages
+      # 8 Deploy to Pages
       - name: Deploy to GitHub Pages
         uses: actions/deploy-pages@v4
