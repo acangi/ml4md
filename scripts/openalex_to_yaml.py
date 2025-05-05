@@ -20,11 +20,16 @@ while url:
         seen.add(w["id"])
 
         authors = "; ".join(a["author"]["display_name"] for a in w["authorships"])
+
+        pl   = w.get("primary_location") or {}
+        src  = pl.get("source") or {}
+        journal = src.get("display_name")
+
         rec = dict(
             title   = w["title"],
             author  = authors,
             year    = w["publication_year"],
-            journal = w.get("primary_location", {}).get("source", {}).get("display_name"),
+            journal = journal,
             doi     = w.get("doi"),
             href    = f"https://doi.org/{w['doi']}" if w.get("doi") else w["id"],
         )
