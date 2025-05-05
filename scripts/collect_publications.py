@@ -54,7 +54,7 @@ def author_str(a_json):
 
 # ── config & session ──────────────────────────────────────────────────────
 ORCID = os.getenv("ORCID_ID") or sys.exit("Missing ORCID_ID env var")
-EMAIL = os.getenv("CONTACT_EMAIL", "webmaster@example.org")
+EMAIL = os.getenv("CONTACT_EMAIL", "a.cangi@hzdr.de")
 
 root = Path(__file__).resolve().parent.parent
 data_dir = root / "data"
