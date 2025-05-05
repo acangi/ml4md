@@ -114,23 +114,27 @@ for r in orc:
     else:
         merged.append(r)
 
-# ── 4  Back-fill *any* blank author from the BibTeX map ───────────────────
+# ── 4  Back-fill any blank or empty author from the BibTeX map ────────────
 for m in merged:
+    # treat None, '', or missing key as “no author”
     if not m.get("author"):
         doi_key = (m.get("doi") or "").lower()
-        if doi_key in doi_to_authors:
-            m["author"] = doi_to_authors[doi_key]
+        bib_auth = doi_to_authors.get(doi_key)
+        if bib_auth:
+            m["author"] = bib_auth
 
-# ── 4-B  Call ORCID per-work BibTeX only if author is STILL missing ──────
-needs = [m for m in merged if not m.get("author") and m.get("put")]
+# ── 4-B  Last-chance per-work BibTeX (very few calls, only when STILL blank)
+needs = [r for r in merged if not r.get("author") and r.get("put")]
 
-for m in needs:
+for r in needs:
     work_bib = session.get(
-        f"https://pub.orcid.org/v3.0/{ORCID}/work/{m['put']}/bibtex",
-        headers={"Accept": "application/x-bibtex"}, timeout=30).text
-    m["author"] = parse_bibtex_authors(work_bib)
-    time.sleep(0.2)   # polite: 5 requests / s
-
+        f"https://pub.orcid.org/v3.0/{ORCID}/work/{r['put']}/bibtex",
+        headers={"Accept": "application/x-bibtex"}, timeout=30
+    ).text
+    parsed = parse_bibtex_authors(work_bib)
+    if parsed:
+        r["author"] = parsed
+    time.sleep(0.2)          # ≤5 req/s → well under the public limit
 
 # ── 5  Finalise & write YAML ───────────────────────────────────────────────
 for r in merged:
