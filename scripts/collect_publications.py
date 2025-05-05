@@ -108,7 +108,7 @@ for r in orc:
         base = by_doi[key]
         if r.get("put") and not base.get("put"):
             base["put"] = r["put"]
-        for f in ("title", "year", "journal"):
+        for f in ("title", "year", "journal", "author"):
             if not base.get(f):
                 base[f] = r.get(f)
     else:
@@ -120,6 +120,17 @@ for m in merged:
         doi_key = (m.get("doi") or "").lower()
         if doi_key in doi_to_authors:
             m["author"] = doi_to_authors[doi_key]
+
+# ── 4-B  Call ORCID per-work BibTeX only if author is STILL missing ──────
+needs = [m for m in merged if not m.get("author") and m.get("put")]
+
+for m in needs:
+    work_bib = session.get(
+        f"https://pub.orcid.org/v3.0/{ORCID}/work/{m['put']}/bibtex",
+        headers={"Accept": "application/x-bibtex"}, timeout=30).text
+    m["author"] = parse_bibtex_authors(work_bib)
+    time.sleep(0.2)   # polite: 5 requests / s
+
 
 # ── 5  Finalise & write YAML ───────────────────────────────────────────────
 for r in merged:
