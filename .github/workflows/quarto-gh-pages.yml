@@ -1,0 +1,59 @@
+name: Build & Publish Quarto site to GitHub Pages
+
+on:
+  push:
+    branches: [main]          # rebuild on every push to main
+  workflow_dispatch:          # …and allow manual runs
+
+# minimal permissions for the built-in GITHUB_TOKEN
+permissions:
+  contents: read
+  pages:    write
+  id-token: write
+
+env:
+  ORCID_ID: ${{ secrets.ORCID_ID }}   # ← add this secret in repo Settings ➜ Secrets & variables
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      # 1️⃣ Check out the repo
+      - uses: actions/checkout@v4
+
+      # 2️⃣ Install Quarto CLI (latest v2 tag) :contentReference[oaicite:0]{index=0}
+      - uses: quarto-dev/quarto-actions/setup@v2
+
+      # 3️⃣ Python deps for the BibTeX → YAML converter
+      - name: Install Python packages
+        run: |
+          python -m pip install --upgrade pip bibtexparser pyyaml
+
+      # 4️⃣ Fetch fresh BibTeX from ORCID
+      - name: Download BibTeX from ORCID
+        run: |
+          curl -sSL -H "Accept: application/x-bibtex" \
+            "https://pub.orcid.org/v3.0/${ORCID_ID}/works?format=bibtex" \
+            -o references.bib
+          echo "Fetched $(grep -c @ references.bib) records."
+
+      # 5️⃣ Convert BibTeX → data/publications.yml for the listing
+      - name: Convert BibTeX to YAML
+        run: python scripts/bib_to_yaml.py
+
+      # 6️⃣ Render the Quarto site (builds into _site/)
+      - name: Render site
+        run: quarto render
+
+      # 7️⃣ Upload _site/ as an artifact for Pages
+      - name: Upload GitHub Pages artifact
+        uses: actions/upload-pages-artifact@v2
+        with:
+          path: _site
+
+      # 8️⃣ Deploy to GitHub Pages
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v3
+
