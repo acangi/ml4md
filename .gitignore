@@ -4,3 +4,73 @@ _site/
 .ipynb_checkpoints/
 
 /.quarto/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Logs and temporary files
+*.log
+*.tmp
+*.swp
+*.swo
+*.bak
+*.old
+*.orig
+
+# Byte-compiled Python files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Python virtual environments
+env/
+venv/
+.venv/
+ENV/
+.Python
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# VS Code project files
+.vscode/
+
+# Build directories
+build/
+dist/
+*.egg-info/
+
+# Installer logs
+pip-log.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.cache
+.pytest_cache/
+
+# Environment variable files
+.env
+.env.*
+
+# Node.js (if applicable)
+node_modules/
+npm-debug.log*
+
+# Compiled shared libraries
+*.so
+*.dll
+*.dylib
+
+# Backup files
+*.~*
+
+# Git-specific
+.git/
+
+# Ignore notebooks outputs (optional, if collaborating)
+**/*.ipynb
+
