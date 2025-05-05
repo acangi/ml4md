@@ -114,27 +114,60 @@ for r in orc:
     else:
         merged.append(r)
 
-# ── 4  Back-fill any blank or empty author from the BibTeX map ────────────
-for m in merged:
-    # treat None, '', or missing key as “no author”
-    if not m.get("author"):
-        doi_key = (m.get("doi") or "").lower()
-        bib_auth = doi_to_authors.get(doi_key)
-        if bib_auth:
-            m["author"] = bib_auth
+# ── 4  Robust author back-fill  ────────────────────────────────────────────
+import unicodedata, string
 
-# ── 4-B  Last-chance per-work BibTeX (very few calls, only when STILL blank)
+def norm_doi(d):
+    if not d:
+        return ""
+    d = d.strip().lower()
+    return d.removeprefix("https://doi.org/").removeprefix("http://doi.org/")
+
+def norm_title(t):
+    t = t or ""
+    t = unicodedata.normalize("NFKD", t).lower()
+    t = t.translate(str.maketrans("", "", string.punctuation))
+    return " ".join(t.split())[:80]        # first 80 chars enough for hash
+
+# Build two maps from the **bulk BibTeX**
+doi_auth   = {}
+title_auth = {}
+for entry in bibtexparser.loads(bib_tex).entries:
+    auths = parse_bibtex_authors(entry.get("author", ""))
+    if not auths:
+        continue
+    doi = norm_doi(entry.get("doi") or entry.get("DOI"))
+    if doi:
+        doi_auth[doi] = auths
+    title_auth[norm_title(entry.get("title"))] = auths
+
+# Pass 1 – via DOI
+for rec in merged:
+    if rec.get("author"):
+        continue
+    doi_key = norm_doi(rec.get("doi"))
+    if doi_key and doi_key in doi_auth:
+        rec["author"] = doi_auth[doi_key]
+
+# Pass 2 – via (fuzzy) title match
+for rec in merged:
+    if rec.get("author"):
+        continue
+    tkey = norm_title(rec.get("title"))
+    if tkey in title_auth:
+        rec["author"] = title_auth[tkey]
+
+# Pass 3 – still empty?  Load per-work BibTeX (rare, but catches no-DOI cases)
 needs = [r for r in merged if not r.get("author") and r.get("put")]
-
 for r in needs:
-    work_bib = session.get(
+    bib = session.get(
         f"https://pub.orcid.org/v3.0/{ORCID}/work/{r['put']}/bibtex",
         headers={"Accept": "application/x-bibtex"}, timeout=30
     ).text
-    parsed = parse_bibtex_authors(work_bib)
-    if parsed:
-        r["author"] = parsed
-    time.sleep(0.2)          # ≤5 req/s → well under the public limit
+    auths = parse_bibtex_authors(bib)
+    if auths:
+        r["author"] = auths
+    time.sleep(0.2)      # ≤5 req/s
 
 # ── 5  Finalise & write YAML ───────────────────────────────────────────────
 for r in merged:
