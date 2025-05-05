@@ -4,7 +4,7 @@
 Usage:
     python scripts/bib_to_yaml.py
 """
-import bibtexparser, yaml, os, re, datetime
+import bibtexparser, yaml, os, re, datetime, sys
 from pathlib import Path
 
 BIB = Path('references.bib')
