@@ -1,21 +1,19 @@
 ---
 title: "Publications"
 page-layout: full
-bibliography: references.bib          # ← keep this filename or update path
-# csl: nature.csl                     # optional: drop a CSL file for a custom style
-nocite: |
-  @*                                  # show *all* entries even if not cited
-format:
-  html:
-    toc: false
+listing:
+  type: table
+  contents: data/publications.yml       # YAML file with publication metadata
+  sort: "year desc"
+  filter-ui: true
+  table:
+    columns: [year, title, author, journal, doi]   # customise which fields show
+  field-display-names:
+    author: "Authors"
+    journal: "Venue"
+    year: "Year"
+    doi: "DOI"
 ---
 
-::: {.callout-tip collapse="true"}
-## How this works
-1. Edit **`references.bib`** to add or remove BibTeX records.  
-2. Commit & push. Quarto will rebuild the page and this list updates automatically.
-3. You can change the citation style by adding a CSL file and referencing it in the front‑matter.
-:::
-
-```{bibliography}
-```
+Use the search box or column headers to filter and sort our publications.  
+To add new items, just append records to **`data/publications.yml`** and rebuild the site.

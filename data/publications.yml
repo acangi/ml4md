@@ -1,0 +1,11 @@
+- title: Room‑temperature superconductivity in computationally designed hydrides
+  author: Jane Q. Smith; John Doe
+  year: 2024
+  journal: Nature
+  doi: 10.1038/s41586-024-01234-5
+  href: https://doi.org/10.1038/s41586-024-01234-5
+- title: Accelerating Density Functional Theory with Machine‑Learned Potentials
+  author: Attila Cangi; Alex Miller
+  year: 2023
+  journal: NeurIPS
+  pdf: /static/papers/2023_dft_ml.pdf
