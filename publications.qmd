@@ -1,8 +1,21 @@
 ---
-title: "Selected Publications"
+title: "Publications"
+page-layout: full
+bibliography: references.bib          # ← keep this filename or update path
+# csl: nature.csl                     # optional: drop a CSL file for a custom style
+nocite: |
+  @*                                  # show *all* entries even if not cited
+format:
+  html:
+    toc: false
 ---
+
+::: {.callout-tip collapse="true"}
+## How this works
+1. Edit **`references.bib`** to add or remove BibTeX records.  
+2. Commit & push. Quarto will rebuild the page and this list updates automatically.
+3. You can change the citation style by adding a CSL file and referencing it in the front‑matter.
+:::
 
 ```{bibliography}
 ```
-
-*The list above is auto‑generated from `references.bib`—drop your BibTeX there and Quarto will handle the rest.*
