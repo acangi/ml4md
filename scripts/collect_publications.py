@@ -130,20 +130,23 @@ for r in orc:
 
 print(f"Merged unique records   : {len(merged)}")
 
-# ── 4. ALWAYS fetch per-work BibTeX to get authors ───────────────────────
+# ── 4. Fetch per-work BibTeX only when we **have** a put-code ────────────
 filled = 0
 for rec in merged:
+    # Skip if authors already present or no put-code available
+    if rec.get("author") or not rec.get("put"):
+        continue
     bib = session.get(
         f"https://pub.orcid.org/v3.0/{ORCID}/work/{rec['put']}/bibtex",
-        headers={"Accept": "application/x-bibtex"}, timeout=30
+        headers={"Accept": "application/x-bibtex"},
+        timeout=30
     ).text
-    auths = parse_bibtex_authors(bib)
-    if auths:
-        rec["author"] = auths
+    authors = parse_bibtex_authors(bib)
+    if authors:
+        rec["author"] = authors
         filled += 1
-    time.sleep(0.2)    # 5 requests / s
-
-print(f"Author filled via BibTeX: {filled}")
+    time.sleep(0.2)   # 5 requests / s = polite
+print(f"Author filled via per-work BibTeX: {filled}")
 
 # ── 5. Write YAML ─────────────────────────────────────────────────────────
 for rec in merged:
