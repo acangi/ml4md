@@ -11,6 +11,10 @@ BIB = Path('references.bib')
 OUT = Path('data/publications.yml')
 OUT.parent.mkdir(parents=True, exist_ok=True)
 
+text = BIB.read_text(encoding="utf-8")
+if not re.search(r"^@", text, flags=re.M):
+    sys.exit("No BibTeX entries found in references.bib — aborting.")
+
 with open(BIB, 'r', encoding='utf-8') as bibfile:
     db = bibtexparser.load(bibfile)
 
