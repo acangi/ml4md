@@ -1,0 +1,18 @@
+---
+title: "Machine Learning for Materials Design"
+image: logo.png
+about: 
+  template: jolla
+  image-shape: round
+---
+
+Welcome to Machine Learning for Materials Design!  
+
+
+The Machine Learning for Materials Design department leverages artificial intelligence and high-performance computing simulations to address challenges in materials science, with a focus on the development of sustainable materials. 
+
+Our team develops scalable machine learning methods that accelerate first-principles simulations of electronic and atomistic structures, facilitating the discovery and improvement of novel materials. 
+
+Accurate modeling of the electronic structure is essential as it profoundly determines key material properties such as strength, conductivity, and magnetism. Our target application areas include semiconductor devices, spintronics, neuromorphic systems, and thermoelectric materials.
+
+Our research group is a [research department](https://www.casus.science/?page_id=4660){target="_blank"} of the [Center for Advanced Systems Understanding](https://www.casus.science){target="_blank"} at the [Helmholtz-Zentrum Dresden-Rossendorf](https://www.hzdr.de){target="_blank"}.

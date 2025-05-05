@@ -1,0 +1,12 @@
+---
+title: "Research Overview"
+---
+
+Our department is organised in several research thrusts:
+
+- Quantum Many‑Body Theory  
+- Computational Materials Discovery  
+- High‑Performance Simulation Algorithms  
+- Machine Learning for Physical Sciences  
+
+More detailed pages coming soon!

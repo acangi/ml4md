@@ -1,0 +1,8 @@
+---
+title: "Selected Publications"
+---
+
+```{bibliography}
+```
+
+*The list above is auto‑generated from `references.bib`—drop your BibTeX there and Quarto will handle the rest.*

@@ -1,0 +1,37 @@
+project:
+  type: website
+
+website:
+  title: "Machine Learning for Materials Design"
+  site-url: "https://example.org"          # ← replace with your real domain
+  navbar:
+    left:
+      #- href: index.qmd
+      #  text: Home
+      - text: Research
+        menu:
+          - href: research/index.qmd
+            text: Overview
+        icon: rocket-takeoff
+      - href: people.qmd
+        text: People
+        icon: people-fill
+      - href: publications.qmd
+        text: Publications
+        icon: book
+      - href: news/index.qmd
+        text: News
+        icon: chat-left-text
+      - href: contact.qmd
+        text: Contact
+        icon: globe
+  page-footer:
+    center: "© 2025 Attila Cangi · Built with [Quarto](https://quarto.org)"
+
+format:
+  html:
+    theme: cosmo
+    toc: false
+
+markdown_extensions:
+  - attr_list

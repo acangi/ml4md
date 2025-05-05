@@ -1,0 +1,6 @@
+_site/
+.quarto/
+.Rhistory
+.ipynb_checkpoints/
+
+/.quarto/

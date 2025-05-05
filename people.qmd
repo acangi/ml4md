@@ -1,0 +1,10 @@
+---
+title: "People"
+---
+
+Below is a list of team members.  
+You can maintain the roster in `people.yml` and render it dynamically.
+
+```{=html}
+<div class="alert alert-info">Dynamic people listing goes here.</div>
+```
