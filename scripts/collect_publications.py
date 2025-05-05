@@ -63,8 +63,16 @@ for w in requests.get(url, timeout=30).json()["message"]["items"]:
 
 # ── merge ────────────────────────────────────────────────────────────────
 by_doi = {r["doi"].lower(): r for r in cross if r.get("doi")}
-merged = cross + [r for r in orcid if not (r.get("doi") or "").lower() in by_doi]
-merged.sort(key=lambda r: int(r["year"]) if r.get("year") else 0, reverse=True)
+for r in orcid_recs:
+    doi = (r.get("doi") or "").lower()
+    if doi and doi in by_doi:
+        base = by_doi[doi]
+        # fill any blanks in Crossref record with ORCID data
+        for field in ("title", "year", "journal", "author"):
+            if not base.get(field):
+                base[field] = r.get(field)
+    else:
+        merged.append(r)
 
 yaml.dump(merged, out.open("w",encoding="utf-8"), allow_unicode=True, sort_keys=False)
 print(f"Wrote {len(merged)} items to {out}")
