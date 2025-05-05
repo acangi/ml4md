@@ -89,14 +89,20 @@ crossref_records = [
 by_doi = {r["doi"].lower(): r for r in crossref_records if r.get("doi")}
 merged = crossref_records.copy()
 
+# ── 3. Merge: prefer Crossref; fill *all* blanks from ORCID and keep put-code
 for r in orcid_records:
-    key = (r.get("doi") or "").lower()
-    if key and key in by_doi:
-        base = by_doi[key]
-        for fld in ("title", "year", "journal"):
+    doi_key = (r.get("doi") or "").lower()
+    if doi_key and doi_key in by_doi:
+        base = by_doi[doi_key]
+
+        # keep the ORCID put-code so we can fetch authors later
+        if r.get("put-code") and not base.get("put-code"):
+            base["put-code"] = r["put-code"]
+
+        # copy any missing fields, *including author*
+        for fld in ("title", "year", "journal", "author"):
             if not base.get(fld):
                 base[fld] = r.get(fld)
-        # author stays — Crossref usually richer
     else:
         merged.append(r)
 
