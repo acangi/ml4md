@@ -1,73 +1,89 @@
 #!/usr/bin/env python3
-"""Create data/publications.yml by merging ORCID and Crossref results."""
-import json, yaml, os, re, requests, sys, itertools
+"""Create data/publications.yml by merging ORCID and Crossref records."""
+import json, yaml, os, re, requests, sys
 from pathlib import Path
 
-ORCID_ID = os.environ.get("ORCID_ID") or sys.exit("Missing ORCID_ID env var")
-EMAIL    = os.environ.get("CONTACT_EMAIL", "webmaster@example.org")  # polite pool
+# ── helpers ────────────────────────────────────────────────────────────────
+def g(node, *path):
+    """Safe nested .get() that returns None if any link is missing."""
+    for key in path:
+        if not isinstance(node, dict):
+            return None
+        node = node.get(key)
+    return node
 
-root = Path(__file__).parent.parent
-data_dir = root / "data"
-data_dir.mkdir(exist_ok=True)
-out_yaml = data_dir / "publications.yml"
+def author_str(crossref_authors):
+    return "; ".join(
+        f"{a.get('given','').strip()} {a.get('family','').strip()}".strip()
+        for a in crossref_authors
+    )
 
-### 1 ───────── pull works from ORCID
-orcid_url = f"https://pub.orcid.org/v3.0/{ORCID_ID}/works"
-orcid_json = requests.get(orcid_url, headers={"Accept": "application/json"}, timeout=30).json()
+# ── config ─────────────────────────────────────────────────────────────────
+ORCID_ID = os.getenv("ORCID_ID") or sys.exit("Missing ORCID_ID env var")
+EMAIL    = os.getenv("CONTACT_EMAIL", "webmaster@example.org")    # polite-pool
 
-orcid_items = []
-for w in orcid_json.get("group", []):
-    summary = w["work-summary"][0]
+root      = Path(__file__).resolve().parent.parent
+data_dir  = root / "data"
+data_dir.mkdir(exist_ok=True, parents=True)
+out_yaml  = data_dir / "publications.yml"
 
-    # basic fields
+# ── 1. ORCID works (all visibility = public) ───────────────────────────────
+orcid_url  = f"https://pub.orcid.org/v3.0/{ORCID_ID}/works"
+orcid_json = requests.get(
+    orcid_url,
+    headers={"Accept": "application/json"},
+    timeout=30
+).json()
+
+orcid_recs = []
+for grp in orcid_json.get("group", []):
+    summary = grp["work-summary"][0]        # each group has at least 1 summary
     rec = {
-        "title":    summary["title"]["title"]["value"],
-        "year":     summary.get("publication-date", {}).get("year", {}).get("value"),
-        "journal":  summary.get("journal-title", {}).get("value"),
+        "title":   g(summary, "title", "title", "value") or "",
+        "year":    g(summary, "publication-date", "year", "value"),
+        "journal": g(summary, "journal-title", "value") or "",
+        "author":  "",                       # ORCID summary call lacks authors
     }
 
-    # authors aren’t included in the summary call; leave blank
-    rec["author"] = ""
-
-    # external-ids may include DOI, arXiv, ISBN, etc.
-    for x in summary.get("external-ids", {}).get("external-id", []):
-        if x["external-id-type"].lower() == "doi":
-            doi = x["external-id-value"].lower()
+    # external IDs may include DOI, ISBN, arXiv …
+    for xid in g(summary, "external-ids", "external-id") or []:
+        if xid["external-id-type"].lower() == "doi":
+            doi = xid["external-id-value"].lower()
             rec["doi"]  = doi
             rec["href"] = f"https://doi.org/{doi}"
             break
-    orcid_items.append(rec)
+    orcid_recs.append(rec)
 
-### 2 ───────── pull works from Crossref (covers only Crossref DOIs)
-cr_url = f"https://api.crossref.org/works?filter=orcid:{ORCID_ID}&mailto={EMAIL}&rows=1000"
-cr_items = []
-for w in requests.get(cr_url, timeout=30).json()["message"]["items"]:
-    cr_items.append(
-        {
-            "title":   w.get("title", [""])[0],
-            "author":  "; ".join(f"{a.get('given','')} {a.get('family','')}".strip()
-                                 for a in w.get("author", [])),
-            "year":    w.get("issued", {}).get("date-parts", [[None]])[0][0],
-            "journal": w.get("container-title", [""])[0] or w.get("publisher"),
-            "doi":     w.get("DOI"),
-            "href":    f"https://doi.org/{w.get('DOI')}" if w.get("DOI") else None,
-        }
-    )
+# ── 2. Crossref works (only Crossref-registered DOIs) ──────────────────────
+cr_url   = f"https://api.crossref.org/works?filter=orcid:{ORCID_ID}&mailto={EMAIL}&rows=1000"
+cr_items = requests.get(cr_url, timeout=30).json()["message"]["items"]
 
-### 3 ───────── merge (keep Crossref record if DOI overlaps, otherwise ORCID)
-by_doi = {rec["doi"].lower(): rec for rec in cr_items if rec.get("doi")}
-merged = cr_items.copy()
+crossref_recs = [
+    {
+        "title":   g(w, "title", 0) or "",
+        "author":  author_str(w.get("author", [])),
+        "year":    g(w, "issued", "date-parts", 0, 0),
+        "journal": g(w, "container-title", 0) or w.get("publisher", ""),
+        "doi":     w.get("DOI"),
+        "href":    f"https://doi.org/{w.get('DOI')}" if w.get("DOI") else None,
+    }
+    for w in cr_items
+]
 
-for rec in orcid_items:
-    doi = rec.get("doi", "").lower()
+# ── 3. Merge: prefer Crossref when DOI overlaps ────────────────────────────
+by_doi = {r["doi"].lower(): r for r in crossref_recs if r.get("doi")}
+merged = crossref_recs.copy()
+
+for r in orcid_recs:
+    doi = (r.get("doi") or "").lower()
     if doi and doi in by_doi:
-        continue                 # already have richer Crossref metadata
-    merged.append(rec)
+        continue          # richer Crossref record already covers it
+    merged.append(r)
 
-# sort newest → oldest
-merged.sort(key=lambda r: r.get("year") or 0, reverse=True)
+# ── 4. Sort & write YAML ───────────────────────────────────────────────────
+merged.sort(key=lambda r: int(r["year"]) if r.get("year") else 0, reverse=True)
 
 yaml.dump(merged, out_yaml.open("w", encoding="utf-8"),
           allow_unicode=True, sort_keys=False)
 
-print(f"Wrote {len(merged)} items to {out_yaml}")
+print(f"Wrote {len(merged)} items → {out_yaml}")
