@@ -8,9 +8,11 @@ import os, requests, yaml, textwrap, sys, pathlib
 ORCID_ID = os.getenv("ORCID_ID") or sys.exit("Missing ORCID_ID env var")
 
 # OpenAlex returns up to 200 items per page; loop until 'next' is null
-url = f"https://api.openalex.org/works?filter=author.orcid:{ORCID_ID}&per-page=200"
+base = f"https://api.openalex.org/works?filter=author.orcid:{ORCID_ID}&per-page=200"
+url  = base + "&cursor=*"
 
 records, seen = [], set()
+
 while url:
     page = requests.get(url, timeout=30).json()
     for w in page["results"]:
@@ -34,7 +36,8 @@ while url:
             href    = f"https://doi.org/{w['doi']}" if w.get("doi") else w["id"],
         )
         records.append(rec)
-    url = page["meta"]["next_cursor_url"]
+    cursor = page.get("meta", {}).get("next_cursor")
+    url = f"{base}&cursor={cursor}" if cursor else None
 
 # newest → oldest
 records.sort(key=lambda r: r["year"] or 0, reverse=True)
