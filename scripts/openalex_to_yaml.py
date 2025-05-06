@@ -30,10 +30,11 @@ while url:
         # • "proceedings-article"      → conference paper / talk abstract
         # • everything else            → leave as-is for now
         kind_map = {
-            "journal-article"   : "paper",
-            "book-chapter"      : "paper",
-            "book"              : "paper",
-            "posted-content"    : "preprint",
+            "article"   : "article",
+            "report"   : "report",
+            "book-chapter"      : "chapter",
+            "book"              : "book",
+            "preprint"    : "preprint",
             "proceedings-article": "talk",          # e.g. Bulletin of the APS
         }
         kind = kind_map.get(w["type"], w["type"])    # fall back to raw type
@@ -48,6 +49,7 @@ while url:
             title   = w["title"],
             author  = authors,
             year    = w["publication_year"],
+            date    = w["publication_date"],
             journal = journal,
             doi     = w.get("doi"),
             href    = f"https://doi.org/{w['doi']}" if w.get("doi") else w["id"],
@@ -67,3 +69,22 @@ yaml.safe_dump(records, out.open("w", encoding="utf-8"),
                allow_unicode=True, sort_keys=False)
 
 print(f"Wrote {len(records)} records → {out}")
+
+# --- after the big records list is finished ------------------------------
+articles = [r for r in records if r["kind"] == "article"]
+preprints = [r for r in records if r["kind"] == "preprint"]
+others = [r for r in records if r["kind"] != "paper"]
+
+out_dir = pathlib.Path("data")
+out_dir.mkdir(exist_ok=True, parents=True)
+
+yaml.safe_dump(articles, (out_dir / "articles.yml").open("w", encoding="utf-8"),
+               allow_unicode=True, sort_keys=False)
+yaml.safe_dump(preprints, (out_dir / "preprints.yml").open("w", encoding="utf-8"),
+               allow_unicode=True, sort_keys=False)
+yaml.safe_dump(others, (out_dir / "others.yml").open("w", encoding="utf-8"),
+               allow_unicode=True, sort_keys=False)
+
+print(f"Wrote {len(articles)} peer-reviewed articles → data/papers.yml")
+print(f"Wrote {len(preprints)} preprints → data/preprints.yml")
+print(f"Wrote {len(others)} others → data/others.yml")

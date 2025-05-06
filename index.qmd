@@ -6,9 +6,6 @@ about:
   image-shape: round
 ---
 
-Welcome to Machine Learning for Materials Design!  
-
-
 The Machine Learning for Materials Design department leverages artificial intelligence and high-performance computing simulations to address challenges in materials science, with a focus on the development of sustainable materials. 
 
 Our team develops scalable machine learning methods that accelerate first-principles simulations of electronic and atomistic structures, facilitating the discovery and improvement of novel materials. 

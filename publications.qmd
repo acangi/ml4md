@@ -4,17 +4,13 @@ page-layout: full
 
 listing:
   type: table
-  contents: data/publications.yml      # YAML file with publication metadata
-  sort: "year desc"
+  contents: data/articles.yml      # YAML file with publication metadata
+  sort: "date desc"
   filter-ui: true                      # live search box
-  where: kind == "paper" 
-  fields: [year, title, author, journal, doi]   # columns to show
+  fields: [year, date, title, author, journal, doi]   # columns to show
   field-display-names:                # optional prettier headers
     author: "Authors"
     journal: "Journal"
     year:   "Year"
     doi:    "DOI"
 ---
-
-Use the search box or column headers to filter and sort our publications.  
-To add new items, just append records to **`data/publications.yml`** and rebuild the site.
