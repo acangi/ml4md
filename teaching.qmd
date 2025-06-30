@@ -1,0 +1,10 @@
+---
+title: "Teaching"
+toc: true
+listing:
+  contents: "teaching/**/index.qmd"
+  sort: "date desc"
+  type: default
+  categories: false
+  image-height: 150px
+---

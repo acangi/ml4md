@@ -11,12 +11,15 @@ website:
   title: "Machine Learning for Materials Design — Cangi Lab"
   site-url: "https://example.org"          # ← replace with your real domain
   page-navigation: true
-  open-graph: true          # social cards
+  open-graph: true                          # social cards
   search: true
   navbar:
     left:
       #- href: index.qmd
       #  text: Home
+      - href: news.qmd
+        text: News
+        icon: chat-left-text
       - text: Research
         menu:
           - href: research/index.qmd
@@ -28,9 +31,9 @@ website:
       - href: publications.qmd
         text: Publications
         icon: book
-      - href: news.qmd
-        text: News
-        icon: chat-left-text
+      - href: teaching.qmd
+        text: Teaching
+        icon: mortarboard
       - href: contact.qmd
         text: Contact
         icon: globe

@@ -10,6 +10,7 @@
   journal: arXiv (Cornell University)
   doi: https://doi.org/10.48550/arxiv.2501.19276
   href: https://doi.org/https://doi.org/10.48550/arxiv.2501.19276
+  path: https://doi.org/10.48550/arxiv.2501.19276
   kind: preprint
 - title: Strong geometry dependence of the X-ray Thomson Scattering Spectrum in single
     crystal silicon
@@ -23,6 +24,7 @@
   journal: Electronic Structure
   doi: https://doi.org/10.1088/2516-1075/adc054
   href: https://doi.org/https://doi.org/10.1088/2516-1075/adc054
+  path: https://doi.org/10.1088/2516-1075/adc054
   kind: article
 - title: 'Materials Learning Algorithms (MALA): Scalable machine learning for electronic
     structure calculations in large-scale atomistic simulations'
@@ -34,6 +36,7 @@
   journal: Computer Physics Communications
   doi: https://doi.org/10.1016/j.cpc.2025.109654
   href: https://doi.org/https://doi.org/10.1016/j.cpc.2025.109654
+  path: https://doi.org/10.1016/j.cpc.2025.109654
   kind: article
 - title: Ultrahigh resolution x-ray Thomson scattering measurements at the European
     X-ray Free Electron Laser
@@ -47,6 +50,7 @@
   journal: Physical review. B./Physical review. B
   doi: https://doi.org/10.1103/physrevb.109.l241112
   href: https://doi.org/https://doi.org/10.1103/physrevb.109.l241112
+  path: https://doi.org/10.1103/physrevb.109.l241112
   kind: article
 - title: Effects of mosaic crystal instrument functions on x-ray Thomson scattering
     diagnostics
@@ -63,6 +67,7 @@
   journal: Journal of Applied Physics
   doi: https://doi.org/10.1063/5.0222072
   href: https://doi.org/https://doi.org/10.1063/5.0222072
+  path: https://doi.org/10.1063/5.0222072
   kind: article
 - title: Inverting the Kohn-Sham equations with physics-informed machine learning
   author: Vincent Martinetto; Karan Shah; Attila Cangi; Aurora Pribram‐Jones
@@ -71,6 +76,7 @@
   journal: Machine Learning Science and Technology
   doi: https://doi.org/10.1088/2632-2153/ad3159
   href: https://doi.org/https://doi.org/10.1088/2632-2153/ad3159
+  path: https://doi.org/10.1088/2632-2153/ad3159
   kind: article
 - title: "Ultrahigh Resolution X-ray Thomson Scattering Measurements of Electronic\n\
     \  Structures"
@@ -84,6 +90,7 @@
   journal: arXiv (Cornell University)
   doi: https://doi.org/10.48550/arxiv.2403.02776
   href: https://doi.org/https://doi.org/10.48550/arxiv.2403.02776
+  path: https://doi.org/10.48550/arxiv.2403.02776
   kind: preprint
 - title: Machine learning-driven structure prediction for iron hydrides
   author: Hossein Tahmasbi; Kushal Ramakrishna; Mani Lokamani; Attila Cangi
@@ -92,6 +99,7 @@
   journal: Physical Review Materials
   doi: https://doi.org/10.1103/physrevmaterials.8.033803
   href: https://doi.org/https://doi.org/10.1103/physrevmaterials.8.033803
+  path: https://doi.org/10.1103/physrevmaterials.8.033803
   kind: article
 - title: Bridging the gap in electronic structure calculations via machine learning
   author: Attila Cangi
@@ -100,6 +108,7 @@
   journal: Nature Computational Science
   doi: https://doi.org/10.1038/s43588-024-00707-3
   href: https://doi.org/https://doi.org/10.1038/s43588-024-00707-3
+  path: https://doi.org/10.1038/s43588-024-00707-3
   kind: article
 - title: Electrical conductivity of warm dense hydrogen from Ohm’s law and time-dependent
     density functional theory
@@ -109,6 +118,7 @@
   journal: Electronic Structure
   doi: https://doi.org/10.1088/2516-1075/ad912b
   href: https://doi.org/https://doi.org/10.1088/2516-1075/ad912b
+  path: https://doi.org/10.1088/2516-1075/ad912b
   kind: article
 - title: "Effects of Mosaic Crystal Instrument Functions on X-ray Thomson\n  Scattering\
     \ Diagnostics"
@@ -125,6 +135,7 @@
   journal: arXiv (Cornell University)
   doi: https://doi.org/10.48550/arxiv.2406.03301
   href: https://doi.org/https://doi.org/10.48550/arxiv.2406.03301
+  path: https://doi.org/10.48550/arxiv.2406.03301
   kind: preprint
 - title: "Accelerating Electron Dynamics Simulations through Machine Learned Time\n\
     \  Propagators"
@@ -134,6 +145,7 @@
   journal: arXiv (Cornell University)
   doi: https://doi.org/10.48550/arxiv.2407.09628
   href: https://doi.org/https://doi.org/10.48550/arxiv.2407.09628
+  path: https://doi.org/10.48550/arxiv.2407.09628
   kind: preprint
 - title: "Electrical Conductivity of Warm Dense Hydrogen from Ohm's Law and\n  Time-Dependent\
     \ Density Functional Theory"
@@ -143,6 +155,7 @@
   journal: arXiv (Cornell University)
   doi: https://doi.org/10.48550/arxiv.2409.15160
   href: https://doi.org/https://doi.org/10.48550/arxiv.2409.15160
+  path: https://doi.org/10.48550/arxiv.2409.15160
   kind: preprint
 - title: "Materials Learning Algorithms (MALA): Scalable Machine Learning for\n  Electronic\
     \ Structure Calculations in Large-Scale Atomistic Simulations"
@@ -154,6 +167,7 @@
   journal: arXiv (Cornell University)
   doi: https://doi.org/10.48550/arxiv.2411.19617
   href: https://doi.org/https://doi.org/10.48550/arxiv.2411.19617
+  path: https://doi.org/10.48550/arxiv.2411.19617
   kind: preprint
 - title: Probing iron in Earth’s core with molecular-spin dynamics
   author: Svetoslav Nikolov; Kushal Ramakrishna; Andrew Rohskopf; Mani Lokamani; Julien
@@ -163,6 +177,7 @@
   journal: Proceedings of the National Academy of Sciences
   doi: https://doi.org/10.1073/pnas.2408897121
   href: https://doi.org/https://doi.org/10.1073/pnas.2408897121
+  path: https://doi.org/10.1073/pnas.2408897121
   kind: article
 - title: Electronic density response of warm dense matter
   author: Tobias Dornheim; Zhandos A. Moldabekov; Kushal Ramakrishna; P. Tolias; Andrew
@@ -173,6 +188,7 @@
   journal: Physics of Plasmas
   doi: https://doi.org/10.1063/5.0138955
   href: https://doi.org/https://doi.org/10.1063/5.0138955
+  path: https://doi.org/10.1063/5.0138955
   kind: article
 - title: A shallow hybrid classical–quantum spiking feedforward neural network for
     noise-robust image classification
@@ -183,6 +199,7 @@
   journal: Applied Soft Computing
   doi: https://doi.org/10.1016/j.asoc.2023.110099
   href: https://doi.org/https://doi.org/10.1016/j.asoc.2023.110099
+  path: https://doi.org/10.1016/j.asoc.2023.110099
   kind: article
 - title: Predicting electronic structures at any length scale with machine learning
   author: Lenz Fiedler; Normand A. Modine; Steve Schmerler; Dayton J. Vogel; Gabriel
@@ -192,6 +209,7 @@
   journal: npj Computational Materials
   doi: https://doi.org/10.1038/s41524-023-01070-z
   href: https://doi.org/https://doi.org/10.1038/s41524-023-01070-z
+  path: https://doi.org/10.1038/s41524-023-01070-z
   kind: article
 - title: 'Imaginary-time correlation function thermometry: A new, high-accuracy and
     model-free temperature analysis technique for x-ray Thomson scattering data'
@@ -202,6 +220,7 @@
   journal: Physics of Plasmas
   doi: https://doi.org/10.1063/5.0139560
   href: https://doi.org/https://doi.org/10.1063/5.0139560
+  path: https://doi.org/10.1063/5.0139560
   kind: article
 - title: Non-empirical Mixing Coefficient for Hybrid XC Functionals from Analysis
     of the XC Kernel
@@ -212,6 +231,7 @@
   journal: The Journal of Physical Chemistry Letters
   doi: https://doi.org/10.1021/acs.jpclett.2c03670
   href: https://doi.org/https://doi.org/10.1021/acs.jpclett.2c03670
+  path: https://doi.org/10.1021/acs.jpclett.2c03670
   kind: article
 - title: Assessing the accuracy of hybrid exchange-correlation functionals for the
     density response of warm dense electrons
@@ -222,6 +242,7 @@
   journal: The Journal of Chemical Physics
   doi: https://doi.org/10.1063/5.0135729
   href: https://doi.org/https://doi.org/10.1063/5.0135729
+  path: https://doi.org/10.1063/5.0135729
   kind: article
 - title: Electrical conductivity of iron in Earth's core from microscopic Ohm's law
   author: Kushal Ramakrishna; Mani Lokamani; Andrew Baczewski; Jan Vorberger; Attila
@@ -231,6 +252,7 @@
   journal: Physical review. B./Physical review. B
   doi: https://doi.org/10.1103/physrevb.107.115131
   href: https://doi.org/https://doi.org/10.1103/physrevb.107.115131
+  path: https://doi.org/10.1103/physrevb.107.115131
   kind: article
 - title: 'Improving dynamic collision frequencies: Impacts on dynamic structure factors
     and stopping powers in warm dense matter'
@@ -241,6 +263,7 @@
   journal: Physics of Plasmas
   doi: https://doi.org/10.1063/5.0143738
   href: https://doi.org/https://doi.org/10.1063/5.0143738
+  path: https://doi.org/10.1063/5.0143738
   kind: article
 - title: Improved calculations of mean ionization states with an average-atom model
   author: Timothy J. Callow; Eli Kraisler; Attila Cangi
@@ -249,6 +272,7 @@
   journal: Physical Review Research
   doi: https://doi.org/10.1103/physrevresearch.5.013049
   href: https://doi.org/https://doi.org/10.1103/physrevresearch.5.013049
+  path: https://doi.org/10.1103/physrevresearch.5.013049
   kind: article
 - title: Transferable interatomic potential for aluminum from ambient conditions to
     warm dense matter
@@ -259,6 +283,7 @@
   journal: Physical Review Research
   doi: https://doi.org/10.1103/physrevresearch.5.033162
   href: https://doi.org/https://doi.org/10.1103/physrevresearch.5.033162
+  path: https://doi.org/10.1103/physrevresearch.5.033162
   kind: article
 - title: Random Quantum Neural Networks for Noisy Image Recognition
   author: Debanjan Konar; Erol Gelenbe; Soham Bhandary; Aditya Das Sarma; Attila Cangi
@@ -268,6 +293,7 @@
     (QCE)
   doi: https://doi.org/10.1109/qce57702.2023.10240
   href: https://doi.org/https://doi.org/10.1109/qce57702.2023.10240
+  path: https://doi.org/10.1109/qce57702.2023.10240
   kind: article
 - title: 'Impact of electronic correlations on high-pressure iron: insights from time-dependent
     density functional theory'
@@ -278,6 +304,7 @@
   journal: Electronic Structure
   doi: https://doi.org/10.1088/2516-1075/acfd75
   href: https://doi.org/https://doi.org/10.1088/2516-1075/acfd75
+  path: https://doi.org/10.1088/2516-1075/acfd75
   kind: article
 - title: Deep Spiking Quantum Neural Network for Noisy Image Classification
   author: Debanjan Konar; Vaneet Aggarwal; Aditya Das Sarma; Soham Bhandary; Siddhartha
@@ -287,6 +314,7 @@
   journal: 2022 International Joint Conference on Neural Networks (IJCNN)
   doi: https://doi.org/10.1109/ijcnn54540.2023.10191509
   href: https://doi.org/https://doi.org/10.1109/ijcnn54540.2023.10191509
+  path: https://doi.org/10.1109/ijcnn54540.2023.10191509
   kind: article
 - title: Machine learning the electronic structure of matter across temperatures
   author: Lenz Fiedler; Normand A. Modine; Kyle D. Miller; Attila Cangi
@@ -295,6 +323,7 @@
   journal: Physical review. B./Physical review. B
   doi: https://doi.org/10.1103/physrevb.108.125146
   href: https://doi.org/https://doi.org/10.1103/physrevb.108.125146
+  path: https://doi.org/10.1103/physrevb.108.125146
   kind: article
 - title: Ab initio insights on the ultrafast strong-field dynamics of anatase TiO$_2$
   author: Sruthil Lal S. B; Lokamani; Kushal Ramakrishna; Attila Cangi; D. Murali;
@@ -304,6 +333,7 @@
   journal: arXiv (Cornell University)
   doi: https://doi.org/10.48550/arxiv.2306.17554
   href: https://doi.org/https://doi.org/10.48550/arxiv.2306.17554
+  path: https://doi.org/10.48550/arxiv.2306.17554
   kind: preprint
 - title: 'Cover Picture: Contrib. Plasma Phys. 06/2023'
   author: M. Bönitz; K. Krieger; Garching Keudell; Péter Hartmann; Budapest Kovacevic;
@@ -313,6 +343,7 @@
   journal: Contributions to Plasma Physics
   doi: https://doi.org/10.1002/ctpp.202390007
   href: https://doi.org/https://doi.org/10.1002/ctpp.202390007
+  path: https://doi.org/10.1002/ctpp.202390007
   kind: paratext
 - title: Probing Iron in Earth's Core With Molecular-Spin Dynamics
   author: Svetoslav Nikolov; Kushal Ramakrishna; Andrew Rohskopf; Mani Lokamani; Julien
@@ -322,6 +353,7 @@
   journal: arXiv (Cornell University)
   doi: https://doi.org/10.48550/arxiv.2311.08737
   href: https://doi.org/https://doi.org/10.48550/arxiv.2311.08737
+  path: https://doi.org/10.48550/arxiv.2311.08737
   kind: preprint
 - title: <i>Ab initio</i> insights on the ultrafast strong-field dynamics of anatase
     <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML"><mml:msub><mml:mi mathvariant="normal">TiO</mml:mi><mml:mn>2</mml:mn></mml:msub></mml:math>
@@ -332,6 +364,7 @@
   journal: Physical review. B./Physical review. B
   doi: https://doi.org/10.1103/physrevb.108.195149
   href: https://doi.org/https://doi.org/10.1103/physrevb.108.195149
+  path: https://doi.org/10.1103/physrevb.108.195149
   kind: article
 - title: 'Improving dynamic collision frequencies: impacts on dynamic structure factors
     and stopping powers in warm dense matter'
@@ -342,6 +375,7 @@
   journal: arXiv (Cornell University)
   doi: https://doi.org/10.48550/arxiv.2301.09700
   href: https://doi.org/https://doi.org/10.48550/arxiv.2301.09700
+  path: https://doi.org/10.48550/arxiv.2301.09700
   kind: preprint
 - title: Transferable Interatomic Potentials for Aluminum from Ambient Conditions
     to Warm Dense Matter
@@ -352,6 +386,7 @@
   journal: arXiv (Cornell University)
   doi: https://doi.org/10.48550/arxiv.2304.09703
   href: https://doi.org/https://doi.org/10.48550/arxiv.2304.09703
+  path: https://doi.org/10.48550/arxiv.2304.09703
   kind: preprint
 - title: Physics-enhanced neural networks for equation-of-state calculations
   author: Timothy J. Callow; Jan Nikl; Eli Kraisler; Attila Cangi
@@ -360,6 +395,7 @@
   journal: arXiv (Cornell University)
   doi: https://doi.org/10.48550/arxiv.2305.06856
   href: https://doi.org/https://doi.org/10.48550/arxiv.2305.06856
+  path: https://doi.org/10.48550/arxiv.2305.06856
   kind: preprint
 - title: Machine learning the electronic structure of matter across temperatures
   author: Lenz Fiedler; Normand A. Modine; Kyle D. Miller; Attila Cangi
@@ -368,6 +404,7 @@
   journal: arXiv (Cornell University)
   doi: https://doi.org/10.48550/arxiv.2306.06032
   href: https://doi.org/https://doi.org/10.48550/arxiv.2306.06032
+  path: https://doi.org/10.48550/arxiv.2306.06032
   kind: preprint
 - title: Machine-Learning for Static and Dynamic Electronic Structure Theory
   author: Lenz Fiedler; Karan Shah; Attila Cangi
@@ -376,6 +413,7 @@
   journal: Challenges and advances in computational chemistry and physics
   doi: https://doi.org/10.1007/978-3-031-37196-7_5
   href: https://doi.org/https://doi.org/10.1007/978-3-031-37196-7_5
+  path: https://doi.org/10.1007/978-3-031-37196-7_5
   kind: chapter
 - title: International Conference on “Strongly Coupled Coulomb Systems” (July 24–29,
     2022, Görlitz, Germany)
@@ -385,6 +423,7 @@
   journal: Contributions to Plasma Physics
   doi: https://doi.org/10.1002/ctpp.202300110
   href: https://doi.org/https://doi.org/10.1002/ctpp.202300110
+  path: https://doi.org/10.1002/ctpp.202300110
   kind: article
 - title: Machine Learning-Driven Structure Prediction for Iron Hydrides
   author: Hossein Tahmasbi; Kushal Ramakrishna; Mani Lokamani; Attila Cangi
@@ -393,6 +432,7 @@
   journal: arXiv (Cornell University)
   doi: https://doi.org/10.48550/arxiv.2311.06010
   href: https://doi.org/https://doi.org/10.48550/arxiv.2311.06010
+  path: https://doi.org/10.48550/arxiv.2311.06010
   kind: preprint
 - title: Physics-enhanced neural networks for equation-of-state calculations
   author: Timothy J. Callow; Jan Nikl; Eli Kraisler; Attila Cangi
@@ -401,6 +441,7 @@
   journal: Machine Learning Science and Technology
   doi: https://doi.org/10.1088/2632-2153/ad13b9
   href: https://doi.org/https://doi.org/10.1088/2632-2153/ad13b9
+  path: https://doi.org/10.1088/2632-2153/ad13b9
   kind: article
 - title: Inverting the Kohn-Sham equations with physics-informed machine learning
   author: Vincent Martinetto; Karan Shah; Attila Cangi; Aurora Pribram‐Jones
@@ -409,6 +450,7 @@
   journal: arXiv (Cornell University)
   doi: https://doi.org/10.48550/arxiv.2312.15301
   href: https://doi.org/https://doi.org/10.48550/arxiv.2312.15301
+  path: https://doi.org/10.48550/arxiv.2312.15301
   kind: preprint
 - title: Examining the Alpha-Epsilon Transition in Iron Using Molecular-spin Dynamics
   author: Svetoslav Nikolov; Julien Tranchida; Aidan P. Thompson; Attila Cangi; Kushal
@@ -418,6 +460,7 @@
   journal: null
   doi: https://doi.org/10.2172/2431651
   href: https://doi.org/https://doi.org/10.2172/2431651
+  path: https://doi.org/10.2172/2431651
   kind: article
 - title: Leveraging Data Driven Frameworks to Build Transferable Interatomic Potentials
   author: Svetoslav Nikolov; John H. Carpenter; Mitchell Wood; Julien Tranchida; Kyle
@@ -428,6 +471,7 @@
   journal: null
   doi: https://doi.org/10.2172/2430436
   href: https://doi.org/https://doi.org/10.2172/2430436
+  path: https://doi.org/10.2172/2430436
   kind: article
 - title: Deep dive into machine learning density functional theory for materials science
     and chemistry
@@ -437,6 +481,7 @@
   journal: Physical Review Materials
   doi: https://doi.org/10.1103/physrevmaterials.6.040301
   href: https://doi.org/https://doi.org/10.1103/physrevmaterials.6.040301
+  path: https://doi.org/10.1103/physrevmaterials.6.040301
   kind: article
 - title: Benchmarking exchange-correlation functionals in the spin-polarized inhomogeneous
     electron gas under warm dense conditions
@@ -446,6 +491,7 @@
   journal: Physical review. B./Physical review. B
   doi: https://doi.org/10.1103/physrevb.105.035134
   href: https://doi.org/https://doi.org/10.1103/physrevb.105.035134
+  path: https://doi.org/10.1103/physrevb.105.035134
   kind: article
 - title: Effective electronic forces and potentials from <i>ab initio</i> path integral
     Monte Carlo simulations
@@ -455,6 +501,7 @@
   journal: The Journal of Chemical Physics
   doi: https://doi.org/10.1063/5.0097768
   href: https://doi.org/https://doi.org/10.1063/5.0097768
+  path: https://doi.org/10.1063/5.0097768
   kind: article
 - title: Towards a quantum fluid theory of correlated many-fermion systems from first
     principles
@@ -465,6 +512,7 @@
   journal: SciPost Physics
   doi: https://doi.org/10.21468/scipostphys.12.2.062
   href: https://doi.org/https://doi.org/10.21468/scipostphys.12.2.062
+  path: https://doi.org/10.21468/scipostphys.12.2.062
   kind: article
 - title: Accelerating equilibration in first-principles molecular dynamics with orbital-free
     density functional theory
@@ -475,6 +523,7 @@
   journal: Physical Review Research
   doi: https://doi.org/10.1103/physrevresearch.4.043033
   href: https://doi.org/https://doi.org/10.1103/physrevresearch.4.043033
+  path: https://doi.org/10.1103/physrevresearch.4.043033
   kind: article
 - title: Thermal excitation signals in the inhomogeneous warm dense electron gas
   author: Zhandos A. Moldabekov; Tobias Dornheim; Attila Cangi
@@ -483,6 +532,7 @@
   journal: Scientific Reports
   doi: https://doi.org/10.1038/s41598-022-05034-z
   href: https://doi.org/https://doi.org/10.1038/s41598-022-05034-z
+  path: https://doi.org/10.1038/s41598-022-05034-z
   kind: article
 - title: <i>Ab initio</i> study of shock-compressed copper
   author: Maximilian Schörner; B. B. L. Witte; Andrew Baczewski; Attila Cangi; R.
@@ -492,6 +542,7 @@
   journal: Physical review. B./Physical review. B
   doi: https://doi.org/10.1103/physrevb.106.054304
   href: https://doi.org/https://doi.org/10.1103/physrevb.106.054304
+  path: https://doi.org/10.1103/physrevb.106.054304
   kind: article
 - title: First-principles derivation and properties of density-functional average-atom
     models
@@ -501,6 +552,7 @@
   journal: Physical Review Research
   doi: https://doi.org/10.1103/physrevresearch.4.023055
   href: https://doi.org/https://doi.org/10.1103/physrevresearch.4.023055
+  path: https://doi.org/10.1103/physrevresearch.4.023055
   kind: article
 - title: 'Dissociating the phononic, magnetic and electronic contributions to thermal
     conductivity: a computational study in alpha-iron'
@@ -511,6 +563,7 @@
   journal: Journal of Materials Science
   doi: https://doi.org/10.1007/s10853-021-06865-3
   href: https://doi.org/https://doi.org/10.1007/s10853-021-06865-3
+  path: https://doi.org/10.1007/s10853-021-06865-3
   kind: article
 - title: Training-free hyperparameter optimization of neural networks for electronic
     structures in matter
@@ -521,6 +574,7 @@
   journal: Machine Learning Science and Technology
   doi: https://doi.org/10.1088/2632-2153/ac9956
   href: https://doi.org/https://doi.org/10.1088/2632-2153/ac9956
+  path: https://doi.org/10.1088/2632-2153/ac9956
   kind: article
 - title: Random Quantum Neural Networks (RQNN) for Noisy Image Recognition
   author: Debanjan Konar; Erol Gelenbe; Soham Bhandary; Aditya Das Sarma; Attila Cangi
@@ -529,6 +583,7 @@
   journal: arXiv (Cornell University)
   doi: https://doi.org/10.48550/arxiv.2203.01764
   href: https://doi.org/https://doi.org/10.48550/arxiv.2203.01764
+  path: https://doi.org/10.48550/arxiv.2203.01764
   kind: preprint
 - title: 'atoMEC: An open-source average-atom Python code'
   author: Timothy J. Callow; Daniel Kotik; Eli Kraisler; Attila Cangi
@@ -537,6 +592,7 @@
   journal: Proceedings of the Python in Science Conferences
   doi: https://doi.org/10.25080/majora-212e5952-006
   href: https://doi.org/https://doi.org/10.25080/majora-212e5952-006
+  path: https://doi.org/10.25080/majora-212e5952-006
   kind: article
 - title: Improving Predictive Capability in REHEDS Simulations with Fast, Accurate,
     and Consistent Non-Equilibrium Material Properties
@@ -548,6 +604,7 @@
   journal: null
   doi: https://doi.org/10.2172/1890268
   href: https://doi.org/https://doi.org/10.2172/1890268
+  path: https://doi.org/10.2172/1890268
   kind: report
 - title: A Scalable 5,6-Qubit Grover's Quantum Search Algorithm
   author: Dinesh Reddy Vemula; Debanjan Konar; Sudeep Satheesan; Sri Mounica Kalidasu;
@@ -557,6 +614,7 @@
   journal: arXiv (Cornell University)
   doi: https://doi.org/10.48550/arxiv.2205.00117
   href: https://doi.org/https://doi.org/10.48550/arxiv.2205.00117
+  path: https://doi.org/10.48550/arxiv.2205.00117
   kind: preprint
 - title: Improved calculations of mean ionization states with an average-atom model
   author: Timothy J. Callow; Eli Kraisler; Attila Cangi
@@ -565,6 +623,7 @@
   journal: arXiv (Cornell University)
   doi: https://doi.org/10.48550/arxiv.2203.05863
   href: https://doi.org/https://doi.org/10.48550/arxiv.2203.05863
+  path: https://doi.org/10.48550/arxiv.2203.05863
   kind: preprint
 - title: 'Impact of Electronic Correlations on High-Pressure Iron: Insights from Time-Dependent
     Density Functional Theory'
@@ -575,6 +634,7 @@
   journal: arXiv (Cornell University)
   doi: https://doi.org/10.48550/arxiv.2210.10132
   href: https://doi.org/https://doi.org/10.48550/arxiv.2210.10132
+  path: https://doi.org/10.48550/arxiv.2210.10132
   kind: preprint
 - title: Predicting electronic structures at any length scale with machine learning
   author: Lenz Fiedler; Normand A. Modine; Steve Schmerler; Dayton J. Vogel; Gabriel
@@ -584,6 +644,7 @@
   journal: arXiv (Cornell University)
   doi: https://doi.org/10.48550/arxiv.2210.11343
   href: https://doi.org/https://doi.org/10.48550/arxiv.2210.11343
+  path: https://doi.org/10.48550/arxiv.2210.11343
   kind: preprint
 - title: Assessing the accuracy of hybrid exchange-correlation functionals for the
     density response of warm dense electrons
@@ -594,6 +655,7 @@
   journal: arXiv (Cornell University)
   doi: https://doi.org/10.48550/arxiv.2211.11688
   href: https://doi.org/https://doi.org/10.48550/arxiv.2211.11688
+  path: https://doi.org/10.48550/arxiv.2211.11688
   kind: preprint
 - title: Predicting the Electronic Structure of Matter on Ultra-Large Scales
   author: Lenz Fiedler; Normand A. Modine; Steve Schmerler; Dayton J. Vogel; Gabriel
@@ -603,6 +665,7 @@
   journal: null
   doi: https://doi.org/10.2172/1895024
   href: https://doi.org/https://doi.org/10.2172/1895024
+  path: https://doi.org/10.2172/1895024
   kind: report
 - title: Electrical Conductivity of Iron in Earth's Core from Microscopic Ohm's Law
   author: Kushal Ramakrishna; Mani Lokamani; Andrew Baczewski; Jan Vorberger; Attila
@@ -612,6 +675,7 @@
   journal: arXiv (Cornell University)
   doi: https://doi.org/10.48550/arxiv.2203.06025
   href: https://doi.org/https://doi.org/10.48550/arxiv.2203.06025
+  path: https://doi.org/10.48550/arxiv.2203.06025
   kind: preprint
 - title: An \textit{ab initio} study of shock-compressed copper
   author: Maximilian Schörner; B. B. L. Witte; Andrew Baczewski; Attila Cangi; R.
@@ -621,6 +685,7 @@
   journal: arXiv (Cornell University)
   doi: https://doi.org/10.48550/arxiv.2205.06638
   href: https://doi.org/https://doi.org/10.48550/arxiv.2205.06638
+  path: https://doi.org/10.48550/arxiv.2205.06638
   kind: preprint
 - title: Accelerating Equilibration in First-Principles Molecular Dynamics with Orbital-Free
     Density Functional Theory
@@ -631,6 +696,7 @@
   journal: arXiv (Cornell University)
   doi: https://doi.org/10.48550/arxiv.2206.03754
   href: https://doi.org/https://doi.org/10.48550/arxiv.2206.03754
+  path: https://doi.org/10.48550/arxiv.2206.03754
   kind: preprint
 - title: Examining the shock response of iron using molecular-spin dynamics
   author: Svetoslav Nikolov; Julien Tranchida; Kushal Ramakrishna; Attila Cangi; Mitchell
@@ -640,6 +706,7 @@
   journal: null
   doi: https://doi.org/10.26226/m.62a9d1f09deaf4fdb6b3ff1e
   href: https://doi.org/https://doi.org/10.26226/m.62a9d1f09deaf4fdb6b3ff1e
+  path: https://doi.org/10.26226/m.62a9d1f09deaf4fdb6b3ff1e
   kind: preprint
 - title: Training-free hyperparameter optimization of neural networks for electronic
     structures in matter
@@ -650,6 +717,7 @@
   journal: arXiv (Cornell University)
   doi: https://doi.org/10.48550/arxiv.2202.09186
   href: https://doi.org/https://doi.org/10.48550/arxiv.2202.09186
+  path: https://doi.org/10.48550/arxiv.2202.09186
   kind: preprint
 - title: Physics-Informed Neural Networks as Solvers for the Time-Dependent Schrödinger
     Equation
@@ -659,6 +727,7 @@
   journal: arXiv (Cornell University)
   doi: https://doi.org/10.48550/arxiv.2210.12522
   href: https://doi.org/https://doi.org/10.48550/arxiv.2210.12522
+  path: https://doi.org/10.48550/arxiv.2210.12522
   kind: preprint
 - title: Finding Electronic Structure Machine Learning Surrogates without Training
   author: Lenz Fiedler; Nils Hoffmann; Parvez Mohammed; Gabriel Popoola; Tamar Yovell;
@@ -668,6 +737,7 @@
   journal: null
   doi: https://doi.org/10.2172/1891948
   href: https://doi.org/https://doi.org/10.2172/1891948
+  path: https://doi.org/10.2172/1891948
   kind: report
 - title: Non-empirical mixing coefficient for hybrid XC functionals from analysis
     of the XC kernel
@@ -678,6 +748,7 @@
   journal: arXiv (Cornell University)
   doi: https://doi.org/10.48550/arxiv.2212.00644
   href: https://doi.org/https://doi.org/10.48550/arxiv.2212.00644
+  path: https://doi.org/10.48550/arxiv.2212.00644
   kind: preprint
 - title: Electronic Density Response of Warm Dense Matter
   author: Tobias Dornheim; Zhandos A. Moldabekov; Kushal Ramakrishna; P. Tolias; Andrew
@@ -688,6 +759,7 @@
   journal: arXiv (Cornell University)
   doi: https://doi.org/10.48550/arxiv.2212.08326
   href: https://doi.org/https://doi.org/10.48550/arxiv.2212.08326
+  path: https://doi.org/10.48550/arxiv.2212.08326
   kind: preprint
 - title: Temperature analysis of X-ray Thomson scattering data
   author: Tobias Dornheim; Maximilian Böhme; David A. Chapman; D. Kraus; Thomas R.
@@ -698,6 +770,7 @@
   journal: arXiv (Cornell University)
   doi: https://doi.org/10.48550/arxiv.2212.10510
   href: https://doi.org/https://doi.org/10.48550/arxiv.2212.10510
+  path: https://doi.org/10.48550/arxiv.2212.10510
   kind: preprint
 - title: Accelerating Multiscale Materials Modeling with Machine Learning
   author: Normand A. Modine; John Stephens; Laura Swiler; Aidan P. Thompson; Dayton
@@ -707,6 +780,7 @@
   journal: null
   doi: https://doi.org/10.2172/1889336
   href: https://doi.org/https://doi.org/10.2172/1889336
+  path: https://doi.org/10.2172/1889336
   kind: report
 - title: Quantum-Accurate Multiscale Modeling of Shock Hugoniots, Ramp Compression
     Paths, Structural and Magnetic Phase Transitions, and Transport Properties in
@@ -718,6 +792,7 @@
   journal: null
   doi: https://doi.org/10.2172/1898251
   href: https://doi.org/https://doi.org/10.2172/1898251
+  path: https://doi.org/10.2172/1898251
   kind: report
 - title: A machine learning surrogate for density functional theory based on the local
     density of state.
@@ -728,6 +803,7 @@
   journal: null
   doi: https://doi.org/10.2172/2003393
   href: https://doi.org/https://doi.org/10.2172/2003393
+  path: https://doi.org/10.2172/2003393
   kind: article
 - title: Effects of electron-ion collisions on stopping powers in warm dense matter.
   author: Tommy Hentschel; Alina Kononov; Andrew Baczewski; Attila Cangi; Stephanie
@@ -737,6 +813,7 @@
   journal: null
   doi: https://doi.org/10.2172/2001867
   href: https://doi.org/https://doi.org/10.2172/2001867
+  path: https://doi.org/10.2172/2001867
   kind: article
 - title: Probing Structural and Magnetic Phase Changes in the Shock Response of Iron
     with Molecular Dynamics.
@@ -747,6 +824,7 @@
   journal: null
   doi: https://doi.org/10.2172/2002085
   href: https://doi.org/https://doi.org/10.2172/2002085
+  path: https://doi.org/10.2172/2002085
   kind: article
 - title: Examining the shock response of iron using molecular-spin dynamics.
   author: Svetoslav Nikolov; Julien Tranchida; Attila Cangi; Kushal Ramakrishna; Mani
@@ -756,6 +834,7 @@
   journal: null
   doi: https://doi.org/10.2172/2003857
   href: https://doi.org/https://doi.org/10.2172/2003857
+  path: https://doi.org/10.2172/2003857
   kind: article
 - title: Accelerating finite-temperature Kohn-Sham density functional theory with
     deep neural networks
@@ -766,6 +845,7 @@
   journal: Physical review. B./Physical review. B
   doi: https://doi.org/10.1103/physrevb.104.035120
   href: https://doi.org/https://doi.org/10.1103/physrevb.104.035120
+  path: https://doi.org/10.1103/physrevb.104.035120
   kind: article
 - title: Data-driven magneto-elastic predictions with scalable classical spin-lattice
     dynamics
@@ -776,6 +856,7 @@
   journal: npj Computational Materials
   doi: https://doi.org/10.1038/s41524-021-00617-2
   href: https://doi.org/https://doi.org/10.1038/s41524-021-00617-2
+  path: https://doi.org/10.1038/s41524-021-00617-2
   kind: article
 - title: The relevance of electronic perturbations in the warm dense electron gas
   author: Zhandos A. Moldabekov; Tobias Dornheim; Maximilian Böhme; Jan Vorberger;
@@ -785,6 +866,7 @@
   journal: The Journal of Chemical Physics
   doi: https://doi.org/10.1063/5.0062325
   href: https://doi.org/https://doi.org/10.1063/5.0062325
+  path: https://doi.org/10.1063/5.0062325
   kind: article
 - title: First-principles modeling of plasmons in aluminum under ambient and extreme
     conditions
@@ -795,6 +877,7 @@
   journal: Physical review. B./Physical review. B
   doi: https://doi.org/10.1103/physrevb.103.125118
   href: https://doi.org/https://doi.org/10.1103/physrevb.103.125118
+  path: https://doi.org/10.1103/physrevb.103.125118
   kind: article
 - title: Accelerating Finite-Temperature Kohn-Sham Density Functional Theory with
     Deep Neural Networks
@@ -805,6 +888,7 @@
   journal: null
   doi: https://doi.org/10.2172/1817970
   href: https://doi.org/https://doi.org/10.2172/1817970
+  path: https://doi.org/10.2172/1817970
   kind: report
 - title: Thermal Signals from Collective Electronic Excitations in Inhomogeneous Warm
     Dense Matter
@@ -814,6 +898,7 @@
   journal: arXiv (Cornell University)
   doi: null
   href: https://openalex.org/W3160259370
+  path: null
   kind: preprint
 - title: Higher harmonics in complex plasmas with alternating screening
   author: Zhandos A. Moldabekov; Ye. K. Aldakul; N. Kh. Bastykova; Sita Sundar; Attila
@@ -823,6 +908,7 @@
   journal: Physical Review Research
   doi: https://doi.org/10.1103/physrevresearch.3.043187
   href: https://doi.org/https://doi.org/10.1103/physrevresearch.3.043187
+  path: https://doi.org/10.1103/physrevresearch.3.043187
   kind: article
 - title: 'LDOS/SNAP data for MALA: Aluminium at 298K and 933K'
   author: John Ellis; Lenz Fiedler; Gabriel A. Popoola; Normand A. Modine; John A.
@@ -832,6 +918,7 @@
   journal: null
   doi: https://doi.org/10.14278/rodare.1107
   href: https://doi.org/https://doi.org/10.14278/rodare.1107
+  path: https://doi.org/10.14278/rodare.1107
   kind: article
 - title: The Quantum Bohm Potential for Many-Fermion Systems
   author: Zhandos A. Moldabekov; Tobias Dornheim; G. Gregori; Frank Graziani; M. Bönitz;
@@ -841,6 +928,7 @@
   journal: arXiv (Cornell University)
   doi: null
   href: https://openalex.org/W3136158772
+  path: null
   kind: preprint
 - title: A Machine-Learning Surrogate Model for ab initio Electronic Correlations
     at Extreme Conditions
@@ -850,6 +938,7 @@
   journal: arXiv (Cornell University)
   doi: https://doi.org/10.48550/arxiv.2104.02941
   href: https://doi.org/https://doi.org/10.48550/arxiv.2104.02941
+  path: https://doi.org/10.48550/arxiv.2104.02941
   kind: preprint
 - title: Comparison of DFT-based methods for electronic stopping in warm dense aluminum.
   author: Alina Kononov; Thomas Hentschel; Attila Cangi; Andrew Baczewski; Stephanie
@@ -859,6 +948,7 @@
   journal: null
   doi: https://doi.org/10.2172/1855327
   href: https://doi.org/https://doi.org/10.2172/1855327
+  path: https://doi.org/10.2172/1855327
   kind: article
 - title: Data associated with the publication "The relevance of electronic perturbations
     in the warm dense electron gas"
@@ -869,6 +959,7 @@
   journal: null
   doi: https://doi.org/10.14278/rodare.1187
   href: https://doi.org/https://doi.org/10.14278/rodare.1187
+  path: https://doi.org/10.14278/rodare.1187
   kind: article
 - title: Dataset and scripts for A Deep Dive into Machine Learning Density Functional
     Theory for Materials Science and Chemistry
@@ -878,6 +969,7 @@
   journal: null
   doi: https://doi.org/10.14278/rodare.1197
   href: https://doi.org/https://doi.org/10.14278/rodare.1197
+  path: https://doi.org/10.14278/rodare.1197
   kind: article
 - title: Report on scipost_202106_00020v2
   author: Zhandos A. Moldabekov; Tobias Dornheim; G. Gregori; Frank Graziani; M. Bönitz;
@@ -887,6 +979,7 @@
   journal: null
   doi: https://doi.org/10.21468/scipost.report.3820
   href: https://doi.org/https://doi.org/10.21468/scipost.report.3820
+  path: https://doi.org/10.21468/scipost.report.3820
   kind: peer-review
 - title: Report on scipost_202106_00020v1
   author: Zhandos A. Moldabekov; Tobias Dornheim; G. Gregori; Frank Graziani; M. Bönitz;
@@ -896,6 +989,7 @@
   journal: null
   doi: https://doi.org/10.21468/scipost.report.3456
   href: https://doi.org/https://doi.org/10.21468/scipost.report.3456
+  path: https://doi.org/10.21468/scipost.report.3456
   kind: peer-review
 - title: Report on scipost_202106_00020v1
   author: Zhandos A. Moldabekov; Tobias Dornheim; G. Gregori; Frank Graziani; M. Bönitz;
@@ -905,6 +999,7 @@
   journal: null
   doi: https://doi.org/10.21468/scipost.report.3324
   href: https://doi.org/https://doi.org/10.21468/scipost.report.3324
+  path: https://doi.org/10.21468/scipost.report.3324
   kind: peer-review
 - title: Accelerating Multiscale Materials Modeling with Machine Learning.
   author: John Ellis; Sivasankaran Rajamanickam; Normand A. Modine; Aidan P. Thompson;
@@ -914,6 +1009,7 @@
   journal: null
   doi: https://doi.org/10.2172/1853873
   href: https://doi.org/https://doi.org/10.2172/1853873
+  path: https://doi.org/10.2172/1853873
   kind: article
 - title: An Introduction to the Materials Learning Algorithms Package (MALA).
   author: Lenz Fiedler; Austin Ellis; Sivasankaran Rajamanickam; Attila Cangi
@@ -922,6 +1018,7 @@
   journal: null
   doi: https://doi.org/10.2172/1867139
   href: https://doi.org/https://doi.org/10.2172/1867139
+  path: https://doi.org/10.2172/1867139
   kind: article
 - title: A Deep Dive into Machine Learning Density Functional Theory for Materials
     Science and Chemistry
@@ -931,6 +1028,7 @@
   journal: arXiv (Cornell University)
   doi: https://doi.org/10.48550/arxiv.2110.00997
   href: https://doi.org/https://doi.org/10.48550/arxiv.2110.00997
+  path: https://doi.org/10.48550/arxiv.2110.00997
   kind: preprint
 - title: Data-Driven Magneto-Elastic Predictions with Scalable Classical Spin-Lattice
     Dynamics.
@@ -942,6 +1040,7 @@
     Information)
   doi: null
   href: https://openalex.org/W4287189984
+  path: null
   kind: paratext
 - title: First-principles derivation and properties of density-functional average-atom
     models
@@ -951,6 +1050,7 @@
   journal: arXiv (Cornell University)
   doi: https://doi.org/10.48550/arxiv.2103.09928
   href: https://doi.org/https://doi.org/10.48550/arxiv.2103.09928
+  path: https://doi.org/10.48550/arxiv.2103.09928
   kind: preprint
 - title: E&amp;#64256;ects of electron-ion collisions on stopping powers in warm dense
     matter.
@@ -961,6 +1061,7 @@
   journal: null
   doi: https://doi.org/10.2172/1897018
   href: https://doi.org/https://doi.org/10.2172/1897018
+  path: https://doi.org/10.2172/1897018
   kind: article
 - title: 'Effective Static Approximation: A Fast and Reliable Tool for Warm-Dense
     Matter Theory'
@@ -971,6 +1072,7 @@
   journal: Physical Review Letters
   doi: https://doi.org/10.1103/physrevlett.125.235001
   href: https://doi.org/https://doi.org/10.1103/physrevlett.125.235001
+  path: https://doi.org/10.1103/physrevlett.125.235001
   kind: article
 - title: Accelerating Finite-temperature Kohn-Sham Density Functional Theory\ with
     Deep Neural Networks
@@ -981,6 +1083,7 @@
   journal: null
   doi: https://doi.org/10.2172/1677521
   href: https://doi.org/https://doi.org/10.2172/1677521
+  path: https://doi.org/10.2172/1677521
   kind: report
 - title: Collisions and Correlation Effects in Warm Dense Matter
   author: Thomas Hentschel; Attila Cangi; Andrew Baczewski; Stephanie B. Hansen
@@ -989,6 +1092,7 @@
   journal: APS Division of Plasma Physics Meeting Abstracts
   doi: null
   href: https://openalex.org/W3183220772
+  path: null
   kind: article
 - title: 'Collisions and Correlations in Warm Dense Matter: effects on electronic
     stopping.'
@@ -999,6 +1103,7 @@
   journal: null
   doi: https://doi.org/10.2172/1830065
   href: https://doi.org/https://doi.org/10.2172/1830065
+  path: https://doi.org/10.2172/1830065
   kind: article
 - title: Accelerating Multiscale Materials Modeling with Machine Learning.
   author: Normand A. Modine; John A. Stephens; Laura Swiler; Aidan P. Thompson; Dayton
@@ -1009,6 +1114,7 @@
     Information)
   doi: null
   href: https://openalex.org/W4287746883
+  path: null
   kind: article
 - title: First-principles Modeling of Warm Dense Matter.
   author: Attila Cangi
@@ -1018,6 +1124,7 @@
     Information)
   doi: null
   href: https://openalex.org/W4287873620
+  path: null
   kind: paratext
 - title: Semi-local Density Functional Approximations for Bulk, Surface, and Confinement
     Physics
@@ -1027,6 +1134,7 @@
   journal: null
   doi: https://doi.org/10.2172/1569522
   href: https://doi.org/https://doi.org/10.2172/1569522
+  path: https://doi.org/10.2172/1569522
   kind: report
 - title: Magnetostriction and Long-Range Interactions in Coupled Spin and Lattice
     Dynamics
@@ -1037,6 +1145,7 @@
   journal: Bulletin of the American Physical Society
   doi: null
   href: https://openalex.org/W2923868490
+  path: null
   kind: article
 - title: Modeling Materials at Extreme Conditions for High Energy-Density Science
   author: Stephanie B. Hansen; Taisuke Nagayama; Andrew Baczewski; Attila Cangi; Thomas
@@ -1046,6 +1155,7 @@
   journal: Bulletin of the American Physical Society
   doi: null
   href: https://openalex.org/W2925181260
+  path: null
   kind: article
 - title: Modifying the Random Phase Approximation for the Average Atom
   author: Thomas Hentschel; Stephanie B. Hansen; Attila Cangi; Andrew Baczewski
@@ -1054,6 +1164,7 @@
   journal: APS
   doi: null
   href: https://openalex.org/W3017649132
+  path: null
   kind: article
 - title: Modeling Materials at Extreme Conditions for High Energy-Density Science.
   author: Stephanie B. Hansen; Taisuke Nagayama; Tammy Lynn Gomez; Andrew Baczewski;
@@ -1064,6 +1175,7 @@
     Information)
   doi: null
   href: https://openalex.org/W4288378515
+  path: null
   kind: paratext
 - title: An exchange-correlation functional capturing bulk surface and confinement
     physics.
@@ -1074,6 +1186,7 @@
     Information)
   doi: null
   href: https://openalex.org/W4288548898
+  path: null
   kind: paratext
 - title: Spin-lattice simulations of cobalt and iron-cobalt alloys with LAMMPS
   author: Julien Tranchida; A.L. Thompson; Pascal Thibaudeau; Attila Cangi; Todd Monson;
@@ -1083,6 +1196,7 @@
   journal: Bulletin of the American Physical Society
   doi: null
   href: https://openalex.org/W2782728547
+  path: null
   kind: article
 - title: Computing Optical Conductivities of Warm Dense Matter with Time-Dependent
     Density Functional Theory
@@ -1092,6 +1206,7 @@
   journal: Bulletin of the American Physical Society
   doi: null
   href: https://openalex.org/W2903317593
+  path: null
   kind: article
 - title: An Exchange-Correlation Functional Capturing Bulk Surface and Confinement
     Physics
@@ -1101,6 +1216,7 @@
   journal: null
   doi: https://doi.org/10.2172/1530147
   href: https://doi.org/https://doi.org/10.2172/1530147
+  path: https://doi.org/10.2172/1530147
   kind: report
 - title: Developing Consistent Models for Matter in Extreme Conditions
   author: Stephanie B. Hansen; Taisuke Nagayama; Thomas Gomez; Andrew Baczewski; Attila
@@ -1110,6 +1226,7 @@
   journal: APS Division of Plasma Physics Meeting Abstracts
   doi: null
   href: https://openalex.org/W3090318926
+  path: null
   kind: article
 - title: 'Summer Proceedings 2018: The Center for Computing Research at Sandia National
     Laboratories'
@@ -1119,6 +1236,7 @@
   journal: null
   doi: https://doi.org/10.2172/1762384
   href: https://doi.org/https://doi.org/10.2172/1762384
+  path: https://doi.org/10.2172/1762384
   kind: report
 - title: Developing Consistent Models for Matter in Extreme Conditions.
   author: Stephanie B. Hansen; Andrew Baczewski; Taisuke Nagayama; Attila Cangi; Thomas
@@ -1129,6 +1247,7 @@
     Information)
   doi: null
   href: https://openalex.org/W4289650598
+  path: null
   kind: paratext
 - title: First-principles Stopping Power in Warm Dense Matter.
   author: Attila Cangi; Daniel S. Jensen; Andrew Baczewski
@@ -1138,6 +1257,7 @@
     Information)
   doi: null
   href: https://openalex.org/W4297732077
+  path: null
   kind: paratext
 - title: ECP-copa/ExaMiniMD
   author: Aidan P. Thompson; Attila Cangi; Christian Robert Trott; Christoph Junghans;
@@ -1148,6 +1268,7 @@
     Information)
   doi: https://doi.org/10.11578/dc.20201102.5
   href: https://doi.org/https://doi.org/10.11578/dc.20201102.5
+  path: https://doi.org/10.11578/dc.20201102.5
   kind: article
 - title: 'Exchange-correlation approximations for reduced-density-matrix-functional
     theory at finite temperature: Capturing magnetic phase transitions in the homogeneous
@@ -1158,6 +1279,7 @@
   journal: Physical review. A/Physical review, A
   doi: https://doi.org/10.1103/physreva.96.062508
   href: https://doi.org/https://doi.org/10.1103/physreva.96.062508
+  path: https://doi.org/10.1103/physreva.96.062508
   kind: article
 - title: Stopping Power of Warm Dense Matter from Ehrenfest Molecular Dynamics
   author: Attila Cangi; Daniel S. Jensen; Stephanie B. Hansen; Andrew Baczewski
@@ -1166,6 +1288,7 @@
   journal: Bulletin of the American Physical Society
   doi: null
   href: https://openalex.org/W2755561050
+  path: null
   kind: article
 - title: Optical conductivity of magnetized warm dense matter using time-dependent
     density functional theory
@@ -1175,6 +1298,7 @@
   journal: Bulletin of the American Physical Society
   doi: null
   href: https://openalex.org/W2755757758
+  path: null
   kind: article
 - title: Progress towards an {\it ab initio} real-time treatment of warm dense matter
   author: Andrew Baczewski; Attila Cangi; Stephanie B. Hansen; Daniel S. Jensen
@@ -1183,6 +1307,7 @@
   journal: Bulletin of the American Physical Society
   doi: null
   href: https://openalex.org/W2769594595
+  path: null
   kind: article
 - title: Optical conductivity of magnetized warm dense matter using time-dependent
     density functional theory.
@@ -1193,6 +1318,7 @@
     Information)
   doi: null
   href: https://openalex.org/W4295247372
+  path: null
   kind: paratext
 - title: Semiclassical potential functionals for semiconductor quantum wells
   author: Attila Cangi
@@ -1201,6 +1327,7 @@
   journal: Bulletin of the American Physical Society
   doi: null
   href: https://openalex.org/W2590075342
+  path: null
   kind: article
 - title: 'Reduced-density-matrix-functional theory at finite temperature: Theoretical
     foundations'
@@ -1210,6 +1337,7 @@
   journal: Physical Review A
   doi: https://doi.org/10.1103/physreva.92.052514
   href: https://doi.org/https://doi.org/10.1103/physreva.92.052514
+  path: https://doi.org/10.1103/physreva.92.052514
   kind: article
 - title: Corrections to Thomas-Fermi Densities at Turning Points and Beyond
   author: Raphael F. Ribeiro; Donghyung Lee; Attila Cangi; Peter Elliott; Kieron Burke
@@ -1218,6 +1346,7 @@
   journal: Physical Review Letters
   doi: https://doi.org/10.1103/physrevlett.114.050401
   href: https://doi.org/https://doi.org/10.1103/physrevlett.114.050401
+  path: https://doi.org/10.1103/physrevlett.114.050401
   kind: article
 - title: Almost exact exchange at almost no computational cost in electronic structure
   author: Peter Elliott; Attila Cangi; Stefano Pittalis; E. K. U. Gross; Kieron Burke
@@ -1226,6 +1355,7 @@
   journal: Physical Review A
   doi: https://doi.org/10.1103/physreva.92.022513
   href: https://doi.org/https://doi.org/10.1103/physreva.92.022513
+  path: https://doi.org/10.1103/physreva.92.022513
   kind: article
 - title: Efficient formalism for warm dense matter simulations
   author: Attila Cangi; Aurora Pribram‐Jones
@@ -1234,6 +1364,7 @@
   journal: Physical Review B
   doi: https://doi.org/10.1103/physrevb.92.161113
   href: https://doi.org/https://doi.org/10.1103/physrevb.92.161113
+  path: https://doi.org/10.1103/physrevb.92.161113
   kind: article
 - title: Bypassing the malfunction junction in warm dense matter simulations
   author: Attila Cangi; Aurora Pribram‐Jones
@@ -1242,6 +1373,7 @@
   journal: Bulletin of the American Physical Society
   doi: null
   href: https://openalex.org/W2964299975
+  path: null
   kind: article
 - title: Almost Exact Exchange At Almost No Cost
   author: Peter Elliott; Attila Cangi; Stefano Pittalis; E. K. U. Gross; Kieron Burke
@@ -1250,6 +1382,7 @@
   journal: arXiv (Cornell University)
   doi: https://doi.org/10.48550/arxiv.1408.2434
   href: https://doi.org/https://doi.org/10.48550/arxiv.1408.2434
+  path: https://doi.org/10.48550/arxiv.1408.2434
   kind: preprint
 - title: Virial theorem and exact properties of density functionals for periodic systems
   author: Hossein Mirhosseini; Attila Cangi; Tim Baldsiefen; Antonio Sanna; C. R.
@@ -1259,6 +1392,7 @@
   journal: Physical Review B
   doi: https://doi.org/10.1103/physrevb.89.220102
   href: https://doi.org/https://doi.org/10.1103/physrevb.89.220102
+  path: https://doi.org/10.1103/physrevb.89.220102
   kind: article
 - title: Semiclassical approach to the exchange energy from potential functional theory
   author: Attila Cangi; Peter Elliott; Stefano Pittalis; E. K. U. Gross; Kieron Burke
@@ -1267,6 +1401,7 @@
   journal: Bulletin of the American Physical Society
   doi: null
   href: https://openalex.org/W2248662928
+  path: null
   kind: article
 - title: Uniform approximations for fermionic densities
   author: Raphael F. Ribeiro; Donghyung Lee; Attila Cangi; Peter Elliott; Kieron Burke
@@ -1275,6 +1410,7 @@
   journal: arXiv (Cornell University)
   doi: null
   href: https://openalex.org/W2521239918
+  path: null
   kind: article
 - title: Potential functionals versus density functionals
   author: Attila Cangi; E. K. U. Gross; Kieron Burke
@@ -1283,6 +1419,7 @@
   journal: Physical Review A
   doi: https://doi.org/10.1103/physreva.88.062505
   href: https://doi.org/https://doi.org/10.1103/physreva.88.062505
+  path: https://doi.org/10.1103/physreva.88.062505
   kind: article
 - title: Non-Empirical Orbital-Free Approximations from Semiclassical Approaches
   author: Stefano Pittalis; Attila Cangi; C. R. Proetto; E. K. U. Gross; Kieron Burke
@@ -1291,6 +1428,7 @@
   journal: Bulletin of the American Physical Society
   doi: null
   href: https://openalex.org/W2241242473
+  path: null
   kind: article
 - title: 'Reduced Density Matrix Functional Theory at Finite Temperature: Theoretical
     Foundations'
@@ -1300,6 +1438,7 @@
   journal: arXiv (Cornell University)
   doi: null
   href: https://openalex.org/W1940069631
+  path: null
   kind: preprint
 - title: Electronic structure via potential functional approximations
   author: Attila Cangi; Donghyung Lee; Peter Elliott; Kieron Burke; E. K. U. Gross
@@ -1308,6 +1447,7 @@
   journal: Bulletin of the American Physical Society
   doi: null
   href: https://openalex.org/W2962769383
+  path: null
   kind: article
 - title: 'Reduced Density Matrix Functional Theory at Finite Temperature: Theoretical
     Foundations'
@@ -1317,6 +1457,7 @@
   journal: arXiv (Cornell University)
   doi: https://doi.org/10.48550/arxiv.1208.4703
   href: https://doi.org/https://doi.org/10.48550/arxiv.1208.4703
+  path: https://doi.org/10.48550/arxiv.1208.4703
   kind: preprint
 - title: Electronic Structure via Potential Functional Approximations
   author: Attila Cangi; Donghyung Lee; Peter Elliott; Kieron Burke; E. K. U. Gross
@@ -1325,6 +1466,7 @@
   journal: Physical Review Letters
   doi: https://doi.org/10.1103/physrevlett.106.236404
   href: https://doi.org/https://doi.org/10.1103/physrevlett.106.236404
+  path: https://doi.org/10.1103/physrevlett.106.236404
   kind: article
 - title: Leading corrections to local approximations and their relevance to Density
     Functional Theory
@@ -1334,6 +1476,7 @@
   journal: PhDT
   doi: null
   href: https://openalex.org/W2995862921
+  path: null
   kind: article
 - title: Leading corrections to local approximations
   author: Attila Cangi; Donghyung Lee; Peter Elliott; Kieron Burke
@@ -1342,6 +1485,7 @@
   journal: Physical Review B
   doi: https://doi.org/10.1103/physrevb.81.235128
   href: https://doi.org/https://doi.org/10.1103/physrevb.81.235128
+  path: https://doi.org/10.1103/physrevb.81.235128
   kind: article
 - title: Leading Corrections to the Local Density Approximation
   author: Attila Cangi; Donghyung Lee; Peter Elliott; Kieron Burke
@@ -1350,6 +1494,7 @@
   journal: arXiv (Cornell University)
   doi: null
   href: https://openalex.org/W11163850
+  path: null
   kind: article
 - title: 'The unreasonable accuracy of asymptotic expansions: Why density functional
     theory works'
@@ -1359,6 +1504,7 @@
   journal: APS March Meeting Abstracts
   doi: null
   href: https://openalex.org/W3096111671
+  path: null
   kind: article
 - title: Towards a semiclassical theory of electronic structure
   author: Attila Cangi; Donghyung Lee; Peter Elliott; Kieron Burke
@@ -1367,6 +1513,7 @@
   journal: Bulletin of the American Physical Society
   doi: null
   href: https://openalex.org/W142907370
+  path: null
   kind: article
 - title: Density Functional Theory and Semiclassical Methods
   author: Peter Elliott; Donghyung Lee; Attila Cangi; Kieron Burke
@@ -1375,6 +1522,7 @@
   journal: Bulletin of the American Physical Society
   doi: null
   href: https://openalex.org/W1614773731
+  path: null
   kind: article
 - title: Semiclassics in Density Functional Theory
   author: Donghyung Lee; Attila Cangi; Peter Elliott; Kieron Burke
@@ -1383,6 +1531,7 @@
   journal: Bulletin of the American Physical Society
   doi: null
   href: https://openalex.org/W1658238708
+  path: null
   kind: article
 - title: Semiclassical Origins of Density Functionals
   author: Peter Elliott; Donghyung Lee; Attila Cangi; Kieron Burke
@@ -1391,6 +1540,7 @@
   journal: Physical Review Letters
   doi: https://doi.org/10.1103/physrevlett.100.256406
   href: https://doi.org/https://doi.org/10.1103/physrevlett.100.256406
+  path: https://doi.org/10.1103/physrevlett.100.256406
   kind: article
 - title: Semiclassical Approaches in Density Functional Theory
   author: Peter Elliott; Attila Cangi; Donghyung Lee; Kieron Burke
@@ -1399,6 +1549,7 @@
   journal: Bulletin of the American Physical Society
   doi: null
   href: https://openalex.org/W105216034
+  path: null
   kind: article
 - title: A new approach to density functional theory
   author: Kieron Burke; Peter Elliott; Attila Cangi; Donghyung Lee
@@ -1407,4 +1558,5 @@
   journal: Bulletin of the American Physical Society
   doi: null
   href: https://openalex.org/W21397216
+  path: null
   kind: article

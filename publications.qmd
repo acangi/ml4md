@@ -2,14 +2,14 @@
 title: "Publications"
 listing:
   contents: "data/articles.yml"           # relative to this file
-  type: grid                                 # card layout :contentReference[oaicite:2]{index=2}
-  grid-columns: 1                             # tweak for your theme / screen
+  type: table                             # card layout :contentReference[oaicite:2]{index=2}
+  grid-columns: 1                         # tweak for your theme / screen
   sort: "date desc"
   date-format: "MMM, YYYY"
-  fields: [date, title, author, doi]               # what appears on each card
-  filter-ui: [title, author]                  # search box
-  categories: true                            # auto side‑bar filters
-  page-size: 10                               # pagination
+  fields: [date, title, author]           # what appears on each card
+  filter-ui: [title, author]              # search box
+  #categories: true                        # auto side‑bar filters
+  page-size: 10                           # pagination
 ---
 
 ```{=markdown}
