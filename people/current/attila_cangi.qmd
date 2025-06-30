@@ -1,0 +1,39 @@
+---
+title: "Attila Cangi"
+sortby: "1"
+subtitle: "Head of Department"
+image: attila_cangi.jpg
+started: "May 2020"
+toc: false
+resources: 
+  - "CV_Attila_Cangi.pdf"
+about:
+  id: person-profile
+  template: jolla
+  links:
+     # link-external-newwindow: true
+    - icon: file-earmark-text
+      text: CV
+      href: ./people/pi/CV_Attila_Cangi.pdf
+    - icon: mortarboard
+      #text: scholar
+      href: https://scholar.google.com/citations?user=M84yoJgAAAAJ&hl=en
+    - icon: link 
+      text: Profile
+      href: https://www.hzdr.de/db/!ContMan.Visi.Card?pUser=139621&pNid=1227&pLang=en
+    #- icon: github
+    #  text: github
+    #  href: https://www.github.com/
+    #- icon: twitter
+    #  text: twitter
+    #  href: https://www.twitter.com/
+---
+
+:::{#person-profile}
+:::
+
+<!---
+## Biography
+## Experience
+## Education
+-->

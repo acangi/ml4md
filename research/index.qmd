@@ -4,9 +4,10 @@ title: "Research Overview"
 
 Our department is organised in several research thrusts:
 
-- Quantum Many‑Body Theory  
-- Computational Materials Discovery  
-- High‑Performance Simulation Algorithms  
-- Machine Learning for Physical Sciences  
+- Machine Learning and Electronic Structure Methods
+- Atomistic Molecular Spin Dynamics
+- Explorative Artificial Intelligence for Materials Modeling
 
 More detailed pages coming soon!
+
+![](Be16384_white.gif){width=50%}

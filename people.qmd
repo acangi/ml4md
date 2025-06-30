@@ -2,67 +2,25 @@
 title: "People"
 toc: false
 listing:
-  - id: principal-investigator
-    contents: "people/pi/*.qmd"
-    type: default
-    image-height: 250px
-    image-align: left 
-    grid-columns: 4
+  - id: current
+    contents: "people/current/*.qmd"
+    type: table
+    sort-ui: false
+    filter-ui: false
+    sort: false
+    image-height: 100px
     fields: [image, title, subtitle]
-    grid-item-align: center
-    sort: sortby
     field-display-names: 
-      started: "Started"
-  - id: postdocs
-    contents: "people/postdocs/*.qmd"
-    type: default
-    image-height: 250px
-    image-align: left 
-    grid-columns: 4
-    fields: [image, title, subtitle]
-    grid-item-align: center
-    sort: sortby
-    field-display-names: 
-      started: "Started"
-  - id: phd-students
-    contents: "people/phd_students/*.qmd"
-    type: default
-    image-height: 250px
-    image-align: left 
-    grid-columns: 4
-    fields: [image, title, subtitle]
-    grid-item-align: center
-    sort: sortby
-    field-display-names: 
-      started: "Started"
-  - id: sras
-    contents: "people/sras/*.qmd"
-    type: default
-    image-height: 250px
-    image-align: left 
-    grid-columns: 4
-    sort: sortby
-    fields: [image, title, subtitle, started]
-    field-display-names: 
-      started: "Started"
-    grid-item-align: center
-  - id: visitors
-    contents: "people/visitors/*.qmd"
-    type: grid
-    image-height: 250px
-    grid-columns: 4
-    sort: sortby
-    fields: [image, title, subtitle, started]
-    field-display-names: 
-      started: "Started"
-    grid-item-align: center
+      title: "Name"
+      subtitle: "Role"
   - id: alumni
     contents: "people/alumni/*.qmd"
     type: table
+    sort-ui: false
+    filter-ui: false
     sort: ended desc
-    fields: [title, subtitle, started, ended, lkp]
-    sort-ui: [title, subtitle, started, ended]
-    filter-ui: [title, subtitle, started, ended]
+    image-height: 50px
+    fields: [image, title, subtitle, started, ended, lkp]
     field-display-names: 
       title: "Name"
       subtitle: "Role"
@@ -70,32 +28,11 @@ listing:
       ended: "Ended"
       lkp: "Last known position"
 ---
-## Principal Investigator
 
-:::{#principal-investigator}
+:::{#current}
 :::
 
 
-## Postdoctoral Researchers
-
-:::{#postdocs}
-:::
-
-## PhD Students
-
-:::{#phd-students}
-:::
-
-## Student Research Assistants
-
-:::{#sras}
-:::
-
-
-## Visitors
-
-:::{#visitors}
-:::
 
 ## Alumni
 
