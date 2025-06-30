@@ -1,0 +1,18 @@
+---
+title: "Congratulations Lenz!"
+#description: "Lenz Fiedler Defends his Ph.D."
+#author: "Attila Cangi"
+date: "2024-08-28"
+image: Defense_Lenz.png
+draft: false
+categories:
+  - Ph.D.
+format:
+  html:
+    page-layout: full
+    toc: false
+---
+
+Lenz Fiedler successfully defended his Ph.D. at the Technische Universität Dresden this week. He is the first graduate to conduct his research at our department. His thesis focused on the development of a machine learning model to replace conventional Density Functional Theory calculations with the goal of accelerating HPC simulations in materials science. During his Ph.D. Lenz became one of the main developers of our software package [Materials Learning Algorithms](https://github.com/mala-project/mala){target="_blank"} and published several research papers. 
+
+Congratulations Lenz!

@@ -1,0 +1,24 @@
+---
+title: "Hossein Tahmasbi"
+sortby: "Tahmasbi, Hossein"
+subtitle: "Postdoctoral Researcher"
+image: hossein_tahmasbi.png
+toc: false
+#resources: 
+started: "2021"
+ended: "2024"
+lkp: "Postdoctoral researcher, Department Theory of Complex Systems, Center for Advanced Systems Understanding, Helmholtz-Zentrum Dresden-Rossendorf"
+about:
+  id: person-profile
+  template: jolla
+  #links:
+  #  - icon: file-earmark-text
+  #    text: CV
+---
+
+:::{#person-profile}
+:::
+
+## Biography
+
+## Education

@@ -1,10 +1,99 @@
 ---
 title: "People"
+toc: false
+listing:
+  - id: principal-investigator
+    contents: "people/pi/*.qmd"
+    type: grid
+    image-height: 250px
+    grid-columns: 4
+    fields: [image, title, subtitle]
+    grid-item-align: center
+    sort: sortby
+    field-display-names: 
+      started: "Started"
+  - id: postdocs
+    contents: "people/postdocs/*.qmd"
+    type: grid
+    image-height: 250px
+    grid-columns: 4
+    fields: [image, title, subtitle]
+    grid-item-align: center
+    sort: sortby
+    field-display-names: 
+      started: "Started"
+  - id: phd-students
+    contents: "people/phd_students/*.qmd"
+    type: grid
+    image-height: 250px
+    grid-columns: 4
+    fields: [image, title, subtitle]
+    grid-item-align: center
+    sort: sortby
+    field-display-names: 
+      started: "Started"
+  - id: sras
+    contents: "people/sras/*.qmd"
+    type: grid
+    image-height: 250px
+    grid-columns: 4
+    sort: sortby
+    fields: [image, title, subtitle, started]
+    field-display-names: 
+      started: "Started"
+    grid-item-align: center
+  - id: visitors
+    contents: "people/visitors/*.qmd"
+    type: grid
+    image-height: 250px
+    grid-columns: 4
+    sort: sortby
+    fields: [image, title, subtitle, started]
+    field-display-names: 
+      started: "Started"
+    grid-item-align: center
+  - id: alumni
+    contents: "people/alumni/*.qmd"
+    type: table
+    sort: ended desc
+    fields: [title, subtitle, started, ended, lkp]
+    sort-ui: [title, subtitle, started, ended]
+    filter-ui: [title, subtitle, started, ended]
+    field-display-names: 
+      title: "Name"
+      subtitle: "Role"
+      started: "Started"
+      ended: "Ended"
+      lkp: "Last known position"
 ---
+## Principal Investigator
 
-Below is a list of team members.  
-You can maintain the roster in `people.yml` and render it dynamically.
+:::{#principal-investigator}
+:::
 
-```{=html}
-<div class="alert alert-info">Dynamic people listing goes here.</div>
-```
+
+## Postdoctoral Researchers
+
+:::{#postdocs}
+:::
+
+## PhD Students
+
+:::{#phd-students}
+:::
+
+## Student Research Assistants
+
+:::{#sras}
+:::
+
+
+## Visitors
+
+:::{#visitors}
+:::
+
+## Alumni
+
+:::{#alumni}
+:::

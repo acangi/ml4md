@@ -1,0 +1,24 @@
+---
+title: "Anton Reinhard"
+sortby: "Reinhard, Anton"
+subtitle: "Student Research Assistant"
+image: anton_reinhard.jpg
+toc: false
+#resources: 
+started: "2023"
+ended: "2024"
+lkp: " "
+about:
+  id: person-profile
+  template: jolla
+  #links:
+  #  - icon: file-earmark-text
+  #    text: CV
+---
+
+:::{#person-profile}
+:::
+
+## Biography
+
+## Education

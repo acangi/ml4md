@@ -1,0 +1,849 @@
+- title: Strong geometry dependence of the X-ray Thomson Scattering Spectrum in single
+    crystal silicon
+  author: Thomas Gawne; Zhandos A. Moldabekov; Oliver Humphries; Karen Appel; Carsten
+    Bähtz; Victorien Bouffetier; E. Brambrink; Attila Cangi; Céline Crépisson; Sebastian
+    Göde; Zuzana Konôpková; Mikako Makita; Mikhail Mishchenko; M. Nakatsutsumi; Lisa
+    Randolph; Sebastian Schwalbe; Jan Vorberger; U. Zastrau; Tobias Dornheim; Thomas
+    R. Preston
+  year: 2025
+  date: '2025-03-13'
+  journal: Electronic Structure
+  doi: https://doi.org/10.1088/2516-1075/adc054
+  href: https://doi.org/https://doi.org/10.1088/2516-1075/adc054
+  kind: article
+- title: 'Materials Learning Algorithms (MALA): Scalable machine learning for electronic
+    structure calculations in large-scale atomistic simulations'
+  author: Attila Cangi; Lenz Fiedler; Bartosz Brzoza; Karan Shah; Timothy J. Callow;
+    Daniel Kotik; Steve Schmerler; Matthew C. Barry; James Goff; Andrew Rohskopf;
+    Dayton J. Vogel; Normand A. Modine; Aidan P. Thompson; Sivasankaran Rajamanickam
+  year: 2025
+  date: '2025-05-01'
+  journal: Computer Physics Communications
+  doi: https://doi.org/10.1016/j.cpc.2025.109654
+  href: https://doi.org/https://doi.org/10.1016/j.cpc.2025.109654
+  kind: article
+- title: Ultrahigh resolution x-ray Thomson scattering measurements at the European
+    X-ray Free Electron Laser
+  author: Thomas Gawne; Zhandos A. Moldabekov; Oliver Humphries; Karen Appel; Carsten
+    Baehtz; Victorien Bouffetier; E. Brambrink; Attila Cangi; Sebastian Göde; Zuzana
+    Konôpková; Mikako Makita; Mikhail Mishchenko; M. Nakatsutsumi; Kushal Ramakrishna;
+    Lisa Randolph; Sebastian Schwalbe; Jan Vorberger; L. Wollenweber; U. Zastrau;
+    Tobias Dornheim; Thomas R. Preston
+  year: 2024
+  date: '2024-06-12'
+  journal: Physical review. B./Physical review. B
+  doi: https://doi.org/10.1103/physrevb.109.l241112
+  href: https://doi.org/https://doi.org/10.1103/physrevb.109.l241112
+  kind: article
+- title: Effects of mosaic crystal instrument functions on x-ray Thomson scattering
+    diagnostics
+  author: Thomas Gawne; Hannah Bellenbaum; L. B. Fletcher; Karen Appel; Carsten Baehtz;
+    Victorien Bouffetier; E. Brambrink; D. B. Brown; Attila Cangi; Adrien Descamps;
+    Sebastian Goede; N. J. Hartley; M. Herbert; P. Hesselbach; Hauke Höppner; Oliver
+    Humphries; Zuzana Konôpková; Alejandro Laso García; Björn Lindqvist; J. Lütgert;
+    M. J. MacDonald; Mikako Makita; W. J. Martin; Mikhail Mishchenko; Zhandos A. Moldabekov;
+    M. Nakatsutsumi; Jean-Paul Naedler; P. Neumayer; A. Pełka; Chongbing Qu; Lisa
+    Randolph; J. Rips; T. Toncian; Jan Vorberger; L. Wollenweber; U. Zastrau; D. Kraus;
+    Thomas R. Preston; Tobias Dornheim
+  year: 2024
+  date: '2024-09-09'
+  journal: Journal of Applied Physics
+  doi: https://doi.org/10.1063/5.0222072
+  href: https://doi.org/https://doi.org/10.1063/5.0222072
+  kind: article
+- title: Inverting the Kohn-Sham equations with physics-informed machine learning
+  author: Vincent Martinetto; Karan Shah; Attila Cangi; Aurora Pribram‐Jones
+  year: 2024
+  date: '2024-03-01'
+  journal: Machine Learning Science and Technology
+  doi: https://doi.org/10.1088/2632-2153/ad3159
+  href: https://doi.org/https://doi.org/10.1088/2632-2153/ad3159
+  kind: article
+- title: Machine learning-driven structure prediction for iron hydrides
+  author: Hossein Tahmasbi; Kushal Ramakrishna; Mani Lokamani; Attila Cangi
+  year: 2024
+  date: '2024-03-21'
+  journal: Physical Review Materials
+  doi: https://doi.org/10.1103/physrevmaterials.8.033803
+  href: https://doi.org/https://doi.org/10.1103/physrevmaterials.8.033803
+  kind: article
+- title: Bridging the gap in electronic structure calculations via machine learning
+  author: Attila Cangi
+  year: 2024
+  date: '2024-10-10'
+  journal: Nature Computational Science
+  doi: https://doi.org/10.1038/s43588-024-00707-3
+  href: https://doi.org/https://doi.org/10.1038/s43588-024-00707-3
+  kind: article
+- title: Electrical conductivity of warm dense hydrogen from Ohm’s law and time-dependent
+    density functional theory
+  author: Kushal Ramakrishna; Mani Lokamani; Attila Cangi
+  year: 2024
+  date: '2024-11-11'
+  journal: Electronic Structure
+  doi: https://doi.org/10.1088/2516-1075/ad912b
+  href: https://doi.org/https://doi.org/10.1088/2516-1075/ad912b
+  kind: article
+- title: Probing iron in Earth’s core with molecular-spin dynamics
+  author: Svetoslav Nikolov; Kushal Ramakrishna; Andrew Rohskopf; Mani Lokamani; Julien
+    Tranchida; John H. Carpenter; Attila Cangi; Mitchell Wood
+  year: 2024
+  date: '2024-12-12'
+  journal: Proceedings of the National Academy of Sciences
+  doi: https://doi.org/10.1073/pnas.2408897121
+  href: https://doi.org/https://doi.org/10.1073/pnas.2408897121
+  kind: article
+- title: Electronic density response of warm dense matter
+  author: Tobias Dornheim; Zhandos A. Moldabekov; Kushal Ramakrishna; P. Tolias; Andrew
+    Baczewski; D. Kraus; Thomas R. Preston; D. A. Chapman; Maximilian Böhme; T. Döppner;
+    Frank Graziani; M. Bönitz; Attila Cangi; Jan Vorberger
+  year: 2023
+  date: '2023-03-01'
+  journal: Physics of Plasmas
+  doi: https://doi.org/10.1063/5.0138955
+  href: https://doi.org/https://doi.org/10.1063/5.0138955
+  kind: article
+- title: A shallow hybrid classical–quantum spiking feedforward neural network for
+    noise-robust image classification
+  author: Debanjan Konar; Aditya Das Sarma; Soham Bhandary; Siddhartha Bhattacharyya;
+    Attila Cangi; Vaneet Aggarwal
+  year: 2023
+  date: '2023-02-10'
+  journal: Applied Soft Computing
+  doi: https://doi.org/10.1016/j.asoc.2023.110099
+  href: https://doi.org/https://doi.org/10.1016/j.asoc.2023.110099
+  kind: article
+- title: Predicting electronic structures at any length scale with machine learning
+  author: Lenz Fiedler; Normand A. Modine; Steve Schmerler; Dayton J. Vogel; Gabriel
+    Popoola; Aidan P. Thompson; Sivasankaran Rajamanickam; Attila Cangi
+  year: 2023
+  date: '2023-06-27'
+  journal: npj Computational Materials
+  doi: https://doi.org/10.1038/s41524-023-01070-z
+  href: https://doi.org/https://doi.org/10.1038/s41524-023-01070-z
+  kind: article
+- title: 'Imaginary-time correlation function thermometry: A new, high-accuracy and
+    model-free temperature analysis technique for x-ray Thomson scattering data'
+  author: Tobias Dornheim; Maximilian Böhme; D. A. Chapman; D. Kraus; Thomas R. Preston;
+    Zhandos A. Moldabekov; Niclas Schlünzen; Attila Cangi; T. Döppner; Jan Vorberger
+  year: 2023
+  date: '2023-04-01'
+  journal: Physics of Plasmas
+  doi: https://doi.org/10.1063/5.0139560
+  href: https://doi.org/https://doi.org/10.1063/5.0139560
+  kind: article
+- title: Non-empirical Mixing Coefficient for Hybrid XC Functionals from Analysis
+    of the XC Kernel
+  author: Zhandos A. Moldabekov; Mani Lokamani; Jan Vorberger; Attila Cangi; Tobias
+    Dornheim
+  year: 2023
+  date: '2023-02-01'
+  journal: The Journal of Physical Chemistry Letters
+  doi: https://doi.org/10.1021/acs.jpclett.2c03670
+  href: https://doi.org/https://doi.org/10.1021/acs.jpclett.2c03670
+  kind: article
+- title: Assessing the accuracy of hybrid exchange-correlation functionals for the
+    density response of warm dense electrons
+  author: Zhandos A. Moldabekov; Mani Lokamani; Jan Vorberger; Attila Cangi; Tobias
+    Dornheim
+  year: 2023
+  date: '2023-02-02'
+  journal: The Journal of Chemical Physics
+  doi: https://doi.org/10.1063/5.0135729
+  href: https://doi.org/https://doi.org/10.1063/5.0135729
+  kind: article
+- title: Electrical conductivity of iron in Earth's core from microscopic Ohm's law
+  author: Kushal Ramakrishna; Mani Lokamani; Andrew Baczewski; Jan Vorberger; Attila
+    Cangi
+  year: 2023
+  date: '2023-03-14'
+  journal: Physical review. B./Physical review. B
+  doi: https://doi.org/10.1103/physrevb.107.115131
+  href: https://doi.org/https://doi.org/10.1103/physrevb.107.115131
+  kind: article
+- title: 'Improving dynamic collision frequencies: Impacts on dynamic structure factors
+    and stopping powers in warm dense matter'
+  author: Thomas W. Hentschel; Alina Kononov; Alexandra Olmstead; Attila Cangi; Andrew
+    Baczewski; Stephanie B. Hansen
+  year: 2023
+  date: '2023-06-01'
+  journal: Physics of Plasmas
+  doi: https://doi.org/10.1063/5.0143738
+  href: https://doi.org/https://doi.org/10.1063/5.0143738
+  kind: article
+- title: Improved calculations of mean ionization states with an average-atom model
+  author: Timothy J. Callow; Eli Kraisler; Attila Cangi
+  year: 2023
+  date: '2023-01-26'
+  journal: Physical Review Research
+  doi: https://doi.org/10.1103/physrevresearch.5.013049
+  href: https://doi.org/https://doi.org/10.1103/physrevresearch.5.013049
+  kind: article
+- title: Transferable interatomic potential for aluminum from ambient conditions to
+    warm dense matter
+  author: Sandeep Kumar; Hossein Tahmasbi; Kushal Ramakrishna; Mani Lokamani; Svetoslav
+    Nikolov; Julien Tranchida; Mitchell Wood; Attila Cangi
+  year: 2023
+  date: '2023-09-06'
+  journal: Physical Review Research
+  doi: https://doi.org/10.1103/physrevresearch.5.033162
+  href: https://doi.org/https://doi.org/10.1103/physrevresearch.5.033162
+  kind: article
+- title: Random Quantum Neural Networks for Noisy Image Recognition
+  author: Debanjan Konar; Erol Gelenbe; Soham Bhandary; Aditya Das Sarma; Attila Cangi
+  year: 2023
+  date: '2023-09-17'
+  journal: 2022 IEEE International Conference on Quantum Computing and Engineering
+    (QCE)
+  doi: https://doi.org/10.1109/qce57702.2023.10240
+  href: https://doi.org/https://doi.org/10.1109/qce57702.2023.10240
+  kind: article
+- title: 'Impact of electronic correlations on high-pressure iron: insights from time-dependent
+    density functional theory'
+  author: Kushal Ramakrishna; Mani Lokamani; Andrew Baczewski; Jan Vorberger; Attila
+    Cangi
+  year: 2023
+  date: '2023-09-26'
+  journal: Electronic Structure
+  doi: https://doi.org/10.1088/2516-1075/acfd75
+  href: https://doi.org/https://doi.org/10.1088/2516-1075/acfd75
+  kind: article
+- title: Deep Spiking Quantum Neural Network for Noisy Image Classification
+  author: Debanjan Konar; Vaneet Aggarwal; Aditya Das Sarma; Soham Bhandary; Siddhartha
+    Bhattacharyya; Attila Cangi
+  year: 2023
+  date: '2023-06-18'
+  journal: 2022 International Joint Conference on Neural Networks (IJCNN)
+  doi: https://doi.org/10.1109/ijcnn54540.2023.10191509
+  href: https://doi.org/https://doi.org/10.1109/ijcnn54540.2023.10191509
+  kind: article
+- title: Machine learning the electronic structure of matter across temperatures
+  author: Lenz Fiedler; Normand A. Modine; Kyle D. Miller; Attila Cangi
+  year: 2023
+  date: '2023-09-28'
+  journal: Physical review. B./Physical review. B
+  doi: https://doi.org/10.1103/physrevb.108.125146
+  href: https://doi.org/https://doi.org/10.1103/physrevb.108.125146
+  kind: article
+- title: <i>Ab initio</i> insights on the ultrafast strong-field dynamics of anatase
+    <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML"><mml:msub><mml:mi mathvariant="normal">TiO</mml:mi><mml:mn>2</mml:mn></mml:msub></mml:math>
+  author: Sruthil Lal S. B.; Mani Lokamani; Kushal Ramakrishna; Attila Cangi; D. Murali;
+    M. Posselt; Assa Aravindh Sasikala Devi; Alok Sharan
+  year: 2023
+  date: '2023-11-27'
+  journal: Physical review. B./Physical review. B
+  doi: https://doi.org/10.1103/physrevb.108.195149
+  href: https://doi.org/https://doi.org/10.1103/physrevb.108.195149
+  kind: article
+- title: International Conference on “Strongly Coupled Coulomb Systems” (July 24–29,
+    2022, Görlitz, Germany)
+  author: Attila Cangi; Zhandos A. Moldabekov; D. Neilson
+  year: 2023
+  date: '2023-10-01'
+  journal: Contributions to Plasma Physics
+  doi: https://doi.org/10.1002/ctpp.202300110
+  href: https://doi.org/https://doi.org/10.1002/ctpp.202300110
+  kind: article
+- title: Physics-enhanced neural networks for equation-of-state calculations
+  author: Timothy J. Callow; Jan Nikl; Eli Kraisler; Attila Cangi
+  year: 2023
+  date: '2023-12-01'
+  journal: Machine Learning Science and Technology
+  doi: https://doi.org/10.1088/2632-2153/ad13b9
+  href: https://doi.org/https://doi.org/10.1088/2632-2153/ad13b9
+  kind: article
+- title: Examining the Alpha-Epsilon Transition in Iron Using Molecular-spin Dynamics
+  author: Svetoslav Nikolov; Julien Tranchida; Aidan P. Thompson; Attila Cangi; Kushal
+    Ramakrishna; Andrew Rohskopf; Mitchell Wood
+  year: 2023
+  date: '2023-03-01'
+  journal: null
+  doi: https://doi.org/10.2172/2431651
+  href: https://doi.org/https://doi.org/10.2172/2431651
+  kind: article
+- title: Leveraging Data Driven Frameworks to Build Transferable Interatomic Potentials
+  author: Svetoslav Nikolov; John H. Carpenter; Mitchell Wood; Julien Tranchida; Kyle
+    Cochrane; Normand A. Modine; Aidan P. Thompson; Attila Cangi; Kushal Ramakrishna;
+    Andrew Rohskopf
+  year: 2023
+  date: '2023-08-01'
+  journal: null
+  doi: https://doi.org/10.2172/2430436
+  href: https://doi.org/https://doi.org/10.2172/2430436
+  kind: article
+- title: Deep dive into machine learning density functional theory for materials science
+    and chemistry
+  author: Lenz Fiedler; Karan Shah; Michael Bußmann; Attila Cangi
+  year: 2022
+  date: '2022-04-05'
+  journal: Physical Review Materials
+  doi: https://doi.org/10.1103/physrevmaterials.6.040301
+  href: https://doi.org/https://doi.org/10.1103/physrevmaterials.6.040301
+  kind: article
+- title: Benchmarking exchange-correlation functionals in the spin-polarized inhomogeneous
+    electron gas under warm dense conditions
+  author: Zhandos A. Moldabekov; Tobias Dornheim; Jan Vorberger; Attila Cangi
+  year: 2022
+  date: '2022-01-21'
+  journal: Physical review. B./Physical review. B
+  doi: https://doi.org/10.1103/physrevb.105.035134
+  href: https://doi.org/https://doi.org/10.1103/physrevb.105.035134
+  kind: article
+- title: Effective electronic forces and potentials from <i>ab initio</i> path integral
+    Monte Carlo simulations
+  author: Tobias Dornheim; P. Tolias; Zhandos A. Moldabekov; Attila Cangi; Jan Vorberger
+  year: 2022
+  date: '2022-06-28'
+  journal: The Journal of Chemical Physics
+  doi: https://doi.org/10.1063/5.0097768
+  href: https://doi.org/https://doi.org/10.1063/5.0097768
+  kind: article
+- title: Towards a quantum fluid theory of correlated many-fermion systems from first
+    principles
+  author: Zhandos A. Moldabekov; Tobias Dornheim; G. Gregori; Frank Graziani; M. Bönitz;
+    Attila Cangi
+  year: 2022
+  date: '2022-02-16'
+  journal: SciPost Physics
+  doi: https://doi.org/10.21468/scipostphys.12.2.062
+  href: https://doi.org/https://doi.org/10.21468/scipostphys.12.2.062
+  kind: article
+- title: Accelerating equilibration in first-principles molecular dynamics with orbital-free
+    density functional theory
+  author: Lenz Fiedler; Zhandos A. Moldabekov; Xuecheng Shao; Kaili Jiang; Tobias
+    Dornheim; Michele Pavanello; Attila Cangi
+  year: 2022
+  date: '2022-10-17'
+  journal: Physical Review Research
+  doi: https://doi.org/10.1103/physrevresearch.4.043033
+  href: https://doi.org/https://doi.org/10.1103/physrevresearch.4.043033
+  kind: article
+- title: Thermal excitation signals in the inhomogeneous warm dense electron gas
+  author: Zhandos A. Moldabekov; Tobias Dornheim; Attila Cangi
+  year: 2022
+  date: '2022-01-20'
+  journal: Scientific Reports
+  doi: https://doi.org/10.1038/s41598-022-05034-z
+  href: https://doi.org/https://doi.org/10.1038/s41598-022-05034-z
+  kind: article
+- title: <i>Ab initio</i> study of shock-compressed copper
+  author: Maximilian Schörner; B. B. L. Witte; Andrew Baczewski; Attila Cangi; R.
+    Redmer
+  year: 2022
+  date: '2022-08-11'
+  journal: Physical review. B./Physical review. B
+  doi: https://doi.org/10.1103/physrevb.106.054304
+  href: https://doi.org/https://doi.org/10.1103/physrevb.106.054304
+  kind: article
+- title: First-principles derivation and properties of density-functional average-atom
+    models
+  author: Timothy J. Callow; S. B. Hansen; Eli Kraisler; Attila Cangi
+  year: 2022
+  date: '2022-04-20'
+  journal: Physical Review Research
+  doi: https://doi.org/10.1103/physrevresearch.4.023055
+  href: https://doi.org/https://doi.org/10.1103/physrevresearch.4.023055
+  kind: article
+- title: 'Dissociating the phononic, magnetic and electronic contributions to thermal
+    conductivity: a computational study in alpha-iron'
+  author: Svetoslav Nikolov; Julien Tranchida; Kushal Ramakrishna; Mani Lokamani;
+    Attila Cangi; Mitchell Wood
+  year: 2022
+  date: '2022-02-03'
+  journal: Journal of Materials Science
+  doi: https://doi.org/10.1007/s10853-021-06865-3
+  href: https://doi.org/https://doi.org/10.1007/s10853-021-06865-3
+  kind: article
+- title: Training-free hyperparameter optimization of neural networks for electronic
+    structures in matter
+  author: Lenz Fiedler; Nils Hoffmann; Parvez Mohammed; Gabriel A. Popoola; Tamar
+    Yovell; Vladyslav Oles; John Ellis; Sivasankaran Rajamanickam; Attila Cangi
+  year: 2022
+  date: '2022-10-11'
+  journal: Machine Learning Science and Technology
+  doi: https://doi.org/10.1088/2632-2153/ac9956
+  href: https://doi.org/https://doi.org/10.1088/2632-2153/ac9956
+  kind: article
+- title: 'atoMEC: An open-source average-atom Python code'
+  author: Timothy J. Callow; Daniel Kotik; Eli Kraisler; Attila Cangi
+  year: 2022
+  date: '2022-01-01'
+  journal: Proceedings of the Python in Science Conferences
+  doi: https://doi.org/10.25080/majora-212e5952-006
+  href: https://doi.org/https://doi.org/10.25080/majora-212e5952-006
+  kind: article
+- title: A machine learning surrogate for density functional theory based on the local
+    density of state.
+  author: Normand A. Modine; Lenz Fiedler; Dayton J. Vogel; Aidan P. Thompson; Austin
+    Ellis; J.J. Stephens; Gabe Popoola; Attila Cangi; Sivasankaran Rajamanickam
+  year: 2022
+  date: '2022-05-01'
+  journal: null
+  doi: https://doi.org/10.2172/2003393
+  href: https://doi.org/https://doi.org/10.2172/2003393
+  kind: article
+- title: Effects of electron-ion collisions on stopping powers in warm dense matter.
+  author: Tommy Hentschel; Alina Kononov; Andrew Baczewski; Attila Cangi; Stephanie
+    B. Hansen
+  year: 2022
+  date: '2022-02-01'
+  journal: null
+  doi: https://doi.org/10.2172/2001867
+  href: https://doi.org/https://doi.org/10.2172/2001867
+  kind: article
+- title: Probing Structural and Magnetic Phase Changes in the Shock Response of Iron
+    with Molecular Dynamics.
+  author: Svetoslav Nikolov; Julien Tranchida; Attila Cangi; Kushal Ramakrishna; Mani
+    Lokamani; Mitchell Wood
+  year: 2022
+  date: '2022-02-01'
+  journal: null
+  doi: https://doi.org/10.2172/2002085
+  href: https://doi.org/https://doi.org/10.2172/2002085
+  kind: article
+- title: Examining the shock response of iron using molecular-spin dynamics.
+  author: Svetoslav Nikolov; Julien Tranchida; Attila Cangi; Kushal Ramakrishna; Mani
+    Lokamani; Mitchell Wood
+  year: 2022
+  date: '2022-07-01'
+  journal: null
+  doi: https://doi.org/10.2172/2003857
+  href: https://doi.org/https://doi.org/10.2172/2003857
+  kind: article
+- title: Accelerating finite-temperature Kohn-Sham density functional theory with
+    deep neural networks
+  author: John Ellis; Lenz Fiedler; Gabriel A. Popoola; Normand A. Modine; J. A. Stephens;
+    Aidan P. Thompson; Attila Cangi; Sivasankaran Rajamanickam
+  year: 2021
+  date: '2021-07-08'
+  journal: Physical review. B./Physical review. B
+  doi: https://doi.org/10.1103/physrevb.104.035120
+  href: https://doi.org/https://doi.org/10.1103/physrevb.104.035120
+  kind: article
+- title: Data-driven magneto-elastic predictions with scalable classical spin-lattice
+    dynamics
+  author: Svetoslav Nikolov; Mitchell Wood; Attila Cangi; Jean‐Bernard Maillet; Mihai-Cosmin
+    Marinica; Aidan P. Thompson; M. P. Desjarlais; Julien Tranchida
+  year: 2021
+  date: '2021-09-28'
+  journal: npj Computational Materials
+  doi: https://doi.org/10.1038/s41524-021-00617-2
+  href: https://doi.org/https://doi.org/10.1038/s41524-021-00617-2
+  kind: article
+- title: The relevance of electronic perturbations in the warm dense electron gas
+  author: Zhandos A. Moldabekov; Tobias Dornheim; Maximilian Böhme; Jan Vorberger;
+    Attila Cangi
+  year: 2021
+  date: '2021-09-28'
+  journal: The Journal of Chemical Physics
+  doi: https://doi.org/10.1063/5.0062325
+  href: https://doi.org/https://doi.org/10.1063/5.0062325
+  kind: article
+- title: First-principles modeling of plasmons in aluminum under ambient and extreme
+    conditions
+  author: Kushal Ramakrishna; Attila Cangi; Tobias Dornheim; Andrew Baczewski; Jan
+    Vorberger
+  year: 2021
+  date: '2021-03-08'
+  journal: Physical review. B./Physical review. B
+  doi: https://doi.org/10.1103/physrevb.103.125118
+  href: https://doi.org/https://doi.org/10.1103/physrevb.103.125118
+  kind: article
+- title: Higher harmonics in complex plasmas with alternating screening
+  author: Zhandos A. Moldabekov; Ye. K. Aldakul; N. Kh. Bastykova; Sita Sundar; Attila
+    Cangi
+  year: 2021
+  date: '2021-12-17'
+  journal: Physical Review Research
+  doi: https://doi.org/10.1103/physrevresearch.3.043187
+  href: https://doi.org/https://doi.org/10.1103/physrevresearch.3.043187
+  kind: article
+- title: 'LDOS/SNAP data for MALA: Aluminium at 298K and 933K'
+  author: John Ellis; Lenz Fiedler; Gabriel A. Popoola; Normand A. Modine; John A.
+    Stephens; Aidan P. Thompson; Attila Cangi; S. Rajamanickam
+  year: 2021
+  date: '2021-07-08'
+  journal: null
+  doi: https://doi.org/10.14278/rodare.1107
+  href: https://doi.org/https://doi.org/10.14278/rodare.1107
+  kind: article
+- title: Comparison of DFT-based methods for electronic stopping in warm dense aluminum.
+  author: Alina Kononov; Thomas Hentschel; Attila Cangi; Andrew Baczewski; Stephanie
+    B. Hansen
+  year: 2021
+  date: '2021-03-01'
+  journal: null
+  doi: https://doi.org/10.2172/1855327
+  href: https://doi.org/https://doi.org/10.2172/1855327
+  kind: article
+- title: Data associated with the publication "The relevance of electronic perturbations
+    in the warm dense electron gas"
+  author: Zhandos A. Moldabekov; Tobias Dornheim; Maximilian Böhme; Jan Vorberger;
+    Attila Cangi
+  year: 2021
+  date: '2021-09-15'
+  journal: null
+  doi: https://doi.org/10.14278/rodare.1187
+  href: https://doi.org/https://doi.org/10.14278/rodare.1187
+  kind: article
+- title: Dataset and scripts for A Deep Dive into Machine Learning Density Functional
+    Theory for Materials Science and Chemistry
+  author: Lenz Fiedler; Karan Shah; Attila Cangi; Michael Bußmann
+  year: 2021
+  date: '2021-10-01'
+  journal: null
+  doi: https://doi.org/10.14278/rodare.1197
+  href: https://doi.org/https://doi.org/10.14278/rodare.1197
+  kind: article
+- title: Accelerating Multiscale Materials Modeling with Machine Learning.
+  author: John Ellis; Sivasankaran Rajamanickam; Normand A. Modine; Aidan P. Thompson;
+    John Stephens; Attila Cangi
+  year: 2021
+  date: '2021-03-01'
+  journal: null
+  doi: https://doi.org/10.2172/1853873
+  href: https://doi.org/https://doi.org/10.2172/1853873
+  kind: article
+- title: An Introduction to the Materials Learning Algorithms Package (MALA).
+  author: Lenz Fiedler; Austin Ellis; Sivasankaran Rajamanickam; Attila Cangi
+  year: 2021
+  date: '2021-05-01'
+  journal: null
+  doi: https://doi.org/10.2172/1867139
+  href: https://doi.org/https://doi.org/10.2172/1867139
+  kind: article
+- title: E&amp;#64256;ects of electron-ion collisions on stopping powers in warm dense
+    matter.
+  author: Thomas Hentschel; Alina Kononov; Andrew Baczewski; Attila Cangi; Stephanie
+    B. Hansen
+  year: 2021
+  date: '2021-11-01'
+  journal: null
+  doi: https://doi.org/10.2172/1897018
+  href: https://doi.org/https://doi.org/10.2172/1897018
+  kind: article
+- title: 'Effective Static Approximation: A Fast and Reliable Tool for Warm-Dense
+    Matter Theory'
+  author: Tobias Dornheim; Attila Cangi; Kushal Ramakrishna; Maximilian Böhme; Shigenori
+    Tanaka; Jan Vorberger
+  year: 2020
+  date: '2020-12-01'
+  journal: Physical Review Letters
+  doi: https://doi.org/10.1103/physrevlett.125.235001
+  href: https://doi.org/https://doi.org/10.1103/physrevlett.125.235001
+  kind: article
+- title: Collisions and Correlation Effects in Warm Dense Matter
+  author: Thomas Hentschel; Attila Cangi; Andrew Baczewski; Stephanie B. Hansen
+  year: 2020
+  date: '2020-01-01'
+  journal: APS Division of Plasma Physics Meeting Abstracts
+  doi: null
+  href: https://openalex.org/W3183220772
+  kind: article
+- title: 'Collisions and Correlations in Warm Dense Matter: effects on electronic
+    stopping.'
+  author: Thomas Hentschel; Stephanie B. Hansen; Attila Cangi; Alina Kononov; Andrew
+    Baczewski
+  year: 2020
+  date: '2020-11-01'
+  journal: null
+  doi: https://doi.org/10.2172/1830065
+  href: https://doi.org/https://doi.org/10.2172/1830065
+  kind: article
+- title: Accelerating Multiscale Materials Modeling with Machine Learning.
+  author: Normand A. Modine; John A. Stephens; Laura Swiler; Aidan P. Thompson; Dayton
+    J. Vogel; Lenz Feilder; Attila Cangi; Sivasankaran Rajamanickam
+  year: 2020
+  date: '2020-07-01'
+  journal: OSTI OAI (U.S. Department of Energy Office of Scientific and Technical
+    Information)
+  doi: null
+  href: https://openalex.org/W4287746883
+  kind: article
+- title: Magnetostriction and Long-Range Interactions in Coupled Spin and Lattice
+    Dynamics
+  author: Julien Tranchida; Mitchell Wood; Attila Cangi; Stan Moore; Pascal Thibaudeau;
+    S. Reed Plimpton; A.L. Thompson
+  year: 2019
+  date: '2019-03-06'
+  journal: Bulletin of the American Physical Society
+  doi: null
+  href: https://openalex.org/W2923868490
+  kind: article
+- title: Modeling Materials at Extreme Conditions for High Energy-Density Science
+  author: Stephanie B. Hansen; Taisuke Nagayama; Andrew Baczewski; Attila Cangi; Thomas
+    Gomez
+  year: 2019
+  date: '2019-03-07'
+  journal: Bulletin of the American Physical Society
+  doi: null
+  href: https://openalex.org/W2925181260
+  kind: article
+- title: Modifying the Random Phase Approximation for the Average Atom
+  author: Thomas Hentschel; Stephanie B. Hansen; Attila Cangi; Andrew Baczewski
+  year: 2019
+  date: '2019-01-01'
+  journal: APS
+  doi: null
+  href: https://openalex.org/W3017649132
+  kind: article
+- title: Spin-lattice simulations of cobalt and iron-cobalt alloys with LAMMPS
+  author: Julien Tranchida; A.L. Thompson; Pascal Thibaudeau; Attila Cangi; Todd Monson;
+    Eric Langlois; Jamin Ryan Pillars
+  year: 2018
+  date: '2018-03-07'
+  journal: Bulletin of the American Physical Society
+  doi: null
+  href: https://openalex.org/W2782728547
+  kind: article
+- title: Computing Optical Conductivities of Warm Dense Matter with Time-Dependent
+    Density Functional Theory
+  author: Daniel S. Jensen; Andrew Baczewski; Attila Cangi; Stephanie B. Hansen
+  year: 2018
+  date: '2018-03-09'
+  journal: Bulletin of the American Physical Society
+  doi: null
+  href: https://openalex.org/W2903317593
+  kind: article
+- title: Developing Consistent Models for Matter in Extreme Conditions
+  author: Stephanie B. Hansen; Taisuke Nagayama; Thomas Gomez; Andrew Baczewski; Attila
+    Cangi
+  year: 2018
+  date: '2018-01-01'
+  journal: APS Division of Plasma Physics Meeting Abstracts
+  doi: null
+  href: https://openalex.org/W3090318926
+  kind: article
+- title: ECP-copa/ExaMiniMD
+  author: Aidan P. Thompson; Attila Cangi; Christian Robert Trott; Christoph Junghans;
+    Stan Moore; Timothy C. Germann
+  year: 2018
+  date: '2018-02-13'
+  journal: OSTI OAI (U.S. Department of Energy Office of Scientific and Technical
+    Information)
+  doi: https://doi.org/10.11578/dc.20201102.5
+  href: https://doi.org/https://doi.org/10.11578/dc.20201102.5
+  kind: article
+- title: 'Exchange-correlation approximations for reduced-density-matrix-functional
+    theory at finite temperature: Capturing magnetic phase transitions in the homogeneous
+    electron gas'
+  author: Tim Baldsiefen; Attila Cangi; F. G. Eich; E. K. U. Gross
+  year: 2017
+  date: '2017-12-18'
+  journal: Physical review. A/Physical review, A
+  doi: https://doi.org/10.1103/physreva.96.062508
+  href: https://doi.org/https://doi.org/10.1103/physreva.96.062508
+  kind: article
+- title: Stopping Power of Warm Dense Matter from Ehrenfest Molecular Dynamics
+  author: Attila Cangi; Daniel S. Jensen; Stephanie B. Hansen; Andrew Baczewski
+  year: 2017
+  date: '2017-10-25'
+  journal: Bulletin of the American Physical Society
+  doi: null
+  href: https://openalex.org/W2755561050
+  kind: article
+- title: Optical conductivity of magnetized warm dense matter using time-dependent
+    density functional theory
+  author: Daniel S. Jensen; Andrew Baczewski; Attila Cangi; Stephanie B. Hansen
+  year: 2017
+  date: '2017-10-25'
+  journal: Bulletin of the American Physical Society
+  doi: null
+  href: https://openalex.org/W2755757758
+  kind: article
+- title: Progress towards an {\it ab initio} real-time treatment of warm dense matter
+  author: Andrew Baczewski; Attila Cangi; Stephanie B. Hansen; Daniel S. Jensen
+  year: 2017
+  date: '2017-10-24'
+  journal: Bulletin of the American Physical Society
+  doi: null
+  href: https://openalex.org/W2769594595
+  kind: article
+- title: Semiclassical potential functionals for semiconductor quantum wells
+  author: Attila Cangi
+  year: 2016
+  date: '2016-03-14'
+  journal: Bulletin of the American Physical Society
+  doi: null
+  href: https://openalex.org/W2590075342
+  kind: article
+- title: 'Reduced-density-matrix-functional theory at finite temperature: Theoretical
+    foundations'
+  author: Tim Baldsiefen; Attila Cangi; E. K. U. Gross
+  year: 2015
+  date: '2015-11-20'
+  journal: Physical Review A
+  doi: https://doi.org/10.1103/physreva.92.052514
+  href: https://doi.org/https://doi.org/10.1103/physreva.92.052514
+  kind: article
+- title: Corrections to Thomas-Fermi Densities at Turning Points and Beyond
+  author: Raphael F. Ribeiro; Donghyung Lee; Attila Cangi; Peter Elliott; Kieron Burke
+  year: 2015
+  date: '2015-02-04'
+  journal: Physical Review Letters
+  doi: https://doi.org/10.1103/physrevlett.114.050401
+  href: https://doi.org/https://doi.org/10.1103/physrevlett.114.050401
+  kind: article
+- title: Almost exact exchange at almost no computational cost in electronic structure
+  author: Peter Elliott; Attila Cangi; Stefano Pittalis; E. K. U. Gross; Kieron Burke
+  year: 2015
+  date: '2015-08-27'
+  journal: Physical Review A
+  doi: https://doi.org/10.1103/physreva.92.022513
+  href: https://doi.org/https://doi.org/10.1103/physreva.92.022513
+  kind: article
+- title: Efficient formalism for warm dense matter simulations
+  author: Attila Cangi; Aurora Pribram‐Jones
+  year: 2015
+  date: '2015-10-16'
+  journal: Physical Review B
+  doi: https://doi.org/10.1103/physrevb.92.161113
+  href: https://doi.org/https://doi.org/10.1103/physrevb.92.161113
+  kind: article
+- title: Bypassing the malfunction junction in warm dense matter simulations
+  author: Attila Cangi; Aurora Pribram‐Jones
+  year: 2015
+  date: '2015-03-05'
+  journal: Bulletin of the American Physical Society
+  doi: null
+  href: https://openalex.org/W2964299975
+  kind: article
+- title: Virial theorem and exact properties of density functionals for periodic systems
+  author: Hossein Mirhosseini; Attila Cangi; Tim Baldsiefen; Antonio Sanna; C. R.
+    Proetto; E. K. U. Gross
+  year: 2014
+  date: '2014-06-05'
+  journal: Physical Review B
+  doi: https://doi.org/10.1103/physrevb.89.220102
+  href: https://doi.org/https://doi.org/10.1103/physrevb.89.220102
+  kind: article
+- title: Semiclassical approach to the exchange energy from potential functional theory
+  author: Attila Cangi; Peter Elliott; Stefano Pittalis; E. K. U. Gross; Kieron Burke
+  year: 2014
+  date: '2014-03-05'
+  journal: Bulletin of the American Physical Society
+  doi: null
+  href: https://openalex.org/W2248662928
+  kind: article
+- title: Uniform approximations for fermionic densities
+  author: Raphael F. Ribeiro; Donghyung Lee; Attila Cangi; Peter Elliott; Kieron Burke
+  year: 2014
+  date: '2014-09-24'
+  journal: arXiv (Cornell University)
+  doi: null
+  href: https://openalex.org/W2521239918
+  kind: article
+- title: Potential functionals versus density functionals
+  author: Attila Cangi; E. K. U. Gross; Kieron Burke
+  year: 2013
+  date: '2013-12-04'
+  journal: Physical Review A
+  doi: https://doi.org/10.1103/physreva.88.062505
+  href: https://doi.org/https://doi.org/10.1103/physreva.88.062505
+  kind: article
+- title: Non-Empirical Orbital-Free Approximations from Semiclassical Approaches
+  author: Stefano Pittalis; Attila Cangi; C. R. Proetto; E. K. U. Gross; Kieron Burke
+  year: 2013
+  date: '2013-03-21'
+  journal: Bulletin of the American Physical Society
+  doi: null
+  href: https://openalex.org/W2241242473
+  kind: article
+- title: Electronic structure via potential functional approximations
+  author: Attila Cangi; Donghyung Lee; Peter Elliott; Kieron Burke; E. K. U. Gross
+  year: 2012
+  date: '2012-02-29'
+  journal: Bulletin of the American Physical Society
+  doi: null
+  href: https://openalex.org/W2962769383
+  kind: article
+- title: Electronic Structure via Potential Functional Approximations
+  author: Attila Cangi; Donghyung Lee; Peter Elliott; Kieron Burke; E. K. U. Gross
+  year: 2011
+  date: '2011-06-10'
+  journal: Physical Review Letters
+  doi: https://doi.org/10.1103/physrevlett.106.236404
+  href: https://doi.org/https://doi.org/10.1103/physrevlett.106.236404
+  kind: article
+- title: Leading corrections to local approximations and their relevance to Density
+    Functional Theory
+  author: Attila Cangi
+  year: 2011
+  date: '2011-01-01'
+  journal: PhDT
+  doi: null
+  href: https://openalex.org/W2995862921
+  kind: article
+- title: Leading corrections to local approximations
+  author: Attila Cangi; Donghyung Lee; Peter Elliott; Kieron Burke
+  year: 2010
+  date: '2010-06-24'
+  journal: Physical Review B
+  doi: https://doi.org/10.1103/physrevb.81.235128
+  href: https://doi.org/https://doi.org/10.1103/physrevb.81.235128
+  kind: article
+- title: Leading Corrections to the Local Density Approximation
+  author: Attila Cangi; Donghyung Lee; Peter Elliott; Kieron Burke
+  year: 2010
+  date: '2010-02-06'
+  journal: arXiv (Cornell University)
+  doi: null
+  href: https://openalex.org/W11163850
+  kind: article
+- title: 'The unreasonable accuracy of asymptotic expansions: Why density functional
+    theory works'
+  author: Kieron Burke; Attila Cangi; Donghyung Lee; Peter Elliott
+  year: 2010
+  date: '2010-03-01'
+  journal: APS March Meeting Abstracts
+  doi: null
+  href: https://openalex.org/W3096111671
+  kind: article
+- title: Towards a semiclassical theory of electronic structure
+  author: Attila Cangi; Donghyung Lee; Peter Elliott; Kieron Burke
+  year: 2009
+  date: '2009-03-16'
+  journal: Bulletin of the American Physical Society
+  doi: null
+  href: https://openalex.org/W142907370
+  kind: article
+- title: Density Functional Theory and Semiclassical Methods
+  author: Peter Elliott; Donghyung Lee; Attila Cangi; Kieron Burke
+  year: 2009
+  date: '2009-03-17'
+  journal: Bulletin of the American Physical Society
+  doi: null
+  href: https://openalex.org/W1614773731
+  kind: article
+- title: Semiclassics in Density Functional Theory
+  author: Donghyung Lee; Attila Cangi; Peter Elliott; Kieron Burke
+  year: 2009
+  date: '2009-03-16'
+  journal: Bulletin of the American Physical Society
+  doi: null
+  href: https://openalex.org/W1658238708
+  kind: article
+- title: Semiclassical Origins of Density Functionals
+  author: Peter Elliott; Donghyung Lee; Attila Cangi; Kieron Burke
+  year: 2008
+  date: '2008-06-27'
+  journal: Physical Review Letters
+  doi: https://doi.org/10.1103/physrevlett.100.256406
+  href: https://doi.org/https://doi.org/10.1103/physrevlett.100.256406
+  kind: article
+- title: Semiclassical Approaches in Density Functional Theory
+  author: Peter Elliott; Attila Cangi; Donghyung Lee; Kieron Burke
+  year: 2008
+  date: '2008-03-11'
+  journal: Bulletin of the American Physical Society
+  doi: null
+  href: https://openalex.org/W105216034
+  kind: article
+- title: A new approach to density functional theory
+  author: Kieron Burke; Peter Elliott; Attila Cangi; Donghyung Lee
+  year: 2008
+  date: '2008-03-11'
+  journal: Bulletin of the American Physical Society
+  doi: null
+  href: https://openalex.org/W21397216
+  kind: article

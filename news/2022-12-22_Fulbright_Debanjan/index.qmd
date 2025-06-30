@@ -1,0 +1,20 @@
+---
+title: "Fulbright-Nehru fellowship awarded to Debanjan Konar"
+#description: " "
+#author: " "
+date: "2022-12-22"
+image: debanjan_fulbright_2022.png
+draft: false
+categories:
+  - award
+format:
+  html:
+    page-layout: full
+    toc: false
+---
+
+Congratulations, Debanjan, for receiving the [Fulbright-Nehru fellowship](https://www.usief.org.in/scholar-profile/scholarprofiledetails.aspx?fellowid=12716){target="_blank"}! 
+
+This fellowship, supporting early-career Indian researchers, offers the opportunity for a long-term stay at a top US university. Debanjan was selected through a highly competitive process among applicants from a variety of scientific disciplines.
+
+Starting in March 2023, the fellowship will fund Debanjan's research for the next two years at Purdue University (USA). His focus will be on quantum machine learning leveraging quantum computing concepts to design more accurate and efficient machine learning algorithms. 

@@ -1,0 +1,16 @@
+---
+title: "We are at the Dresden Science Night 2024!"
+#description: ""
+#author: "Attila Cangi"
+date: "2024-06-14"
+image: Dresden_Science_Night.png
+draft: false
+categories:
+  - conference
+format:
+  html:
+    page-layout: full
+    toc: false
+---
+
+Lenz Fiedler, Bartek Brzoza, and Karan Shah represented us at the [Dresden Science Night](https://www.wissenschaftsnacht-dresden.de/en/){target="_blank"} with a virtual reality installation illustrating concepts from quantum mechanics, materials science, and machine learning.

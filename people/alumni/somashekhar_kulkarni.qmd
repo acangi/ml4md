@@ -1,0 +1,24 @@
+---
+title: "Somashekhar Kulkarni"
+sortby: "Kulkarni, Somashekhar"
+subtitle: "Student Research Assistant"
+image: somashekhar_kulkarni.png
+toc: false
+#resources: 
+started: "2023"
+ended: "2023"
+lkp: "Research Scientist, High-Performance Computing Center Stuttgart, Germany"
+about:
+  id: person-profile
+  template: jolla
+  #links:
+  #  - icon: file-earmark-text
+  #    text: CV
+---
+
+:::{#person-profile}
+:::
+
+## Biography
+
+## Education

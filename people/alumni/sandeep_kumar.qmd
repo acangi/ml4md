@@ -1,0 +1,24 @@
+---
+title: "Sandeep Kumar"
+sortby: "Kumar, Sandeep"
+subtitle: "Postdoctoral Researcher"
+image: sandeep_kumar.png
+toc: false
+#resources: 
+started: "2021"
+ended: "2023"
+lkp: "Postdoctoral Researcher, University of South Florida, United States"
+about:
+  id: person-profile
+  template: jolla
+  #links:
+  #  - icon: file-earmark-text
+  #    text: CV
+---
+
+:::{#person-profile}
+:::
+
+## Biography
+
+## Education

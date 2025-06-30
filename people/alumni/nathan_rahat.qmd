@@ -1,0 +1,24 @@
+---
+title: "Nathan Rahat"
+sortby: "Rahat, Nathan"
+subtitle: "Student Research Assistant"
+image: nathan_rahat.jpg
+toc: false
+#resources: 
+started: "2022"
+ended: "2022"
+lkp: "Master's Student, Hebrew University of Jerusalem, Israel"
+about:
+  id: person-profile
+  template: jolla
+  #links:
+  #  - icon: file-earmark-text
+  #    text: CV
+---
+
+:::{#person-profile}
+:::
+
+## Biography
+
+## Education

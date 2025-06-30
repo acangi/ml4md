@@ -1,0 +1,24 @@
+---
+title: "Jan Nikl"
+sortby: "Nikl, Jan"
+subtitle: "Postdoctoral Researcher"
+image: jan_nikl.jpg
+toc: false
+#resources: 
+started: "2022"
+ended: "2023"
+lkp: "Postdoctoral Researcher, Lawrence Livermore National Laboratory, United States"
+about:
+  id: person-profile
+  template: jolla
+  #links:
+  #  - icon: file-earmark-text
+  #    text: CV
+---
+
+:::{#person-profile}
+:::
+
+## Biography
+
+## Education

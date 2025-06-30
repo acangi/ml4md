@@ -1,0 +1,24 @@
+---
+title: "Tamar Yovell"
+sortby: "Yovell, Tamar"
+subtitle: "Student Research Assistant"
+image: tamar_yovell.png
+toc: false
+#resources: 
+started: "2021"
+ended: "2021"
+lkp: "Master's Student, Hebrew University of Jerusalem, Israel"
+about:
+  id: person-profile
+  template: jolla
+  #links:
+  #  - icon: file-earmark-text
+  #    text: CV
+---
+
+:::{#person-profile}
+:::
+
+## Biography
+
+## Education

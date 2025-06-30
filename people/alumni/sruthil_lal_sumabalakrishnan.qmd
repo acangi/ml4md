@@ -1,0 +1,20 @@
+---
+title: "Sruthil Lal Sumabalakrishnan"
+sortby: "Sumabalakrishnan, Sruthil Lal"
+subtitle: "Visiting PhD Student"
+image: sruthil_lal_sumabalakrishnan.jpg
+toc: false
+started: "2023"
+ended: "2023"
+lkp: "PhD Student, Pondicherry University, India"
+about:
+  id: person-profile
+  template: jolla
+---
+
+:::{#person-profile}
+:::
+
+## Biography
+
+## Education

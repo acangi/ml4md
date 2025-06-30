@@ -1,0 +1,24 @@
+---
+title: "Varun Shitole"
+sortby: "Shitole, Varun"
+subtitle: "Student Research Assistant"
+image: varun_shitole.png
+toc: false
+#resources: 
+started: "2020"
+ended: "2021"
+lkp: " "
+about:
+  id: person-profile
+  template: jolla
+  #links:
+  #  - icon: file-earmark-text
+  #    text: CV
+---
+
+:::{#person-profile}
+:::
+
+## Biography
+
+## Education

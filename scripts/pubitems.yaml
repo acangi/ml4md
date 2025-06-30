@@ -1,0 +1,1037 @@
+- title: MALA
+  author:
+  - Cangi, Attila
+  - Rajamanickam, Sivasankaran
+  - Brzoza, Bartosz
+  - Callow, Timothy J.
+  - Ellis, J. Austin
+  - Faruk, Omar
+  - Fiedler, Lenz
+  - Fox, James S.
+  - Hoffmann, Nils
+  - Miller, Kyle D.
+  - Kotik, Daniel
+  - Kulkarni, Somashekar
+  - Modine, Normand A.
+  - Mohammed, Parvez
+  - Oles, Vladyslav
+  - Popoola, Gabriel A.
+  - P{\"o}schel, Franz
+  - Romero, Josh
+  - Schmerler, Steve
+  - Stephens, J. Adam
+  - Tahmasbi, Hossein
+  - Thompson, Aidan P.
+  - Verma, Sneha
+  - Vogel, D. Jon
+  date: '2025-01-01'
+  path: https://zenodo.org/doi/10.5281/zenodo.15575419
+  categories:
+  - misc
+  description: ''
+- title: atoMEC
+  author:
+  - Callow, Timothy
+  - Kotik, Daniel
+  - Tsvetoslavova Stankulova, Ekaterina
+  - Rahat, Nathan
+  - Kraisler, Eli
+  - Cangi, Attila
+  date: '2023-01-01'
+  path: https://zenodo.org/doi/10.5281/zenodo.10090435
+  categories:
+  - misc
+  description: ''
+- title: Machine-Learning for Static and Dynamic Electronic Structure Theory
+  author:
+  - Fiedler, Lenz
+  - Shah, Karan
+  - Cangi, Attila
+  date: '2023-01-01'
+  path: http://dx.doi.org/10.1007/978-3-031-37196-7_5
+  categories:
+  - inbook
+  description: ''
+- title: An Exchange-Correlation Functional Capturing Bulk Surface and Confinement
+    Physics
+  author:
+  - Cangi, Attila
+  date: '2018-01-01'
+  path: https://www.osti.gov/biblio/1530147
+  categories:
+  - techreport
+  description: ''
+- title: Semi-local Density Functional Approximations for Bulk, Surface, and Confinement
+    Physics
+  author:
+  - Cangi, Attila
+  - Sagredo, Francisca
+  - Decolvenaere, Elizabeth
+  - Mattsson, Ann E.
+  date: '2019-01-01'
+  path: https://www.osti.gov/biblio/1569522
+  categories:
+  - techreport
+  description: ''
+- title: Accelerating Multiscale Materials Modeling with Machine Learning
+  author:
+  - Modine, Normand A.
+  - Stephens, John A.
+  - Swiler, Laura Painton
+  - Thompson, Aidan
+  - Vogel, Dayton J.
+  - Feilder, Lenz
+  - Cangi, Attila
+  - Rajamanickam, Sivasankaran
+  date: '2022-01-01'
+  path: https://www.osti.gov/biblio/1889336
+  categories:
+  - techreport
+  description: ''
+- title: Improving Predictive Capability in REHEDS Simulations with Fast, Accurate,
+    and Consistent Non-Equilibrium Material Properties
+  author:
+  - Hansen, Stephanie B.
+  - Baczewski, Andrew David
+  - Gomez, Thomas
+  - Hentschel, T. W.
+  - Jennings, Christopher A.
+  - Kononov, Alina
+  - Nagayama, Taisuke
+  - Adler, Kelsey
+  - Cangi, A.
+  - Cochrane, Kyle
+  - others
+  date: '2022-01-01'
+  path: https://www.osti.gov/biblio/1890268
+  categories:
+  - techreport
+  description: ''
+- title: Quantum-Accurate Multiscale Modeling of Shock Hugoniots, Ramp Compression
+    Paths, Structural and Magnetic Phase Transitions, and Transport Properties in
+    Highly Compressed Metals
+  author:
+  - Nikolov, Svetoslav
+  - Cangi, Attila
+  - Tranchida, Julien
+  - Rohskopf, Andrew
+  - Desjarlais, Michael
+  - Wood, Mitchell A.
+  date: '2022-01-01'
+  path: https://www.osti.gov/biblio/1898251
+  categories:
+  - techreport
+  description: ''
+- title: Semiclassical Origins of Density Functionals
+  author:
+  - Elliott, Peter
+  - Lee, Donghyung
+  - Cangi, Attila
+  - Burke, Kieron
+  date: '2008-06-01'
+  path: https://link.aps.org/doi/10.1103/PhysRevLett.100.256406
+  categories:
+  - article
+  description: ''
+- title: Leading corrections to local approximations
+  author:
+  - Cangi, Attila
+  - Lee, Donghyung
+  - Elliott, Peter
+  - Burke, Kieron
+  date: '2010-06-01'
+  path: https://link.aps.org/doi/10.1103/PhysRevB.81.235128
+  categories:
+  - article
+  description: ''
+- title: Electronic Structure via Potential Functional Approximations
+  author:
+  - Cangi, Attila
+  - Lee, Donghyung
+  - Elliott, Peter
+  - Burke, Kieron
+  - Gross, E. K. U.
+  date: '2011-06-01'
+  path: https://link.aps.org/doi/10.1103/PhysRevLett.106.236404
+  categories:
+  - article
+  description: ''
+- title: Potential functionals versus density functionals
+  author:
+  - Cangi, Attila
+  - Gross, E. K. U.
+  - Burke, Kieron
+  date: '2013-12-01'
+  path: https://link.aps.org/doi/10.1103/PhysRevA.88.062505
+  categories:
+  - article
+  description: ''
+- title: Virial theorem and exact properties of density functionals for periodic systems
+  author:
+  - Mirhosseini, H.
+  - Cangi, A.
+  - Baldsiefen, T.
+  - Sanna, A.
+  - Proetto, C. R.
+  - Gross, E. K. U.
+  date: '2014-06-01'
+  path: https://link.aps.org/doi/10.1103/PhysRevB.89.220102
+  categories:
+  - article
+  description: ''
+- title: Corrections to Thomas-Fermi Densities at Turning Points and Beyond
+  author:
+  - Ribeiro, Raphael F.
+  - Lee, Donghyung
+  - Cangi, Attila
+  - Elliott, Peter
+  - Burke, Kieron
+  date: '2015-02-01'
+  path: https://link.aps.org/doi/10.1103/PhysRevLett.114.050401
+  categories:
+  - article
+  description: ''
+- title: Almost exact exchange at almost no computational cost in electronic structure
+  author:
+  - Elliott, Peter
+  - Cangi, Attila
+  - Pittalis, Stefano
+  - Gross, E. K. U.
+  - Burke, Kieron
+  date: '2015-08-01'
+  path: https://link.aps.org/doi/10.1103/PhysRevA.92.022513
+  categories:
+  - article
+  description: ''
+- title: Efficient formalism for warm dense matter simulations
+  author:
+  - Cangi, Attila
+  - Pribram-Jones, Aurora
+  date: '2015-10-01'
+  path: https://link.aps.org/doi/10.1103/PhysRevB.92.161113
+  categories:
+  - article
+  description: ''
+- title: 'Reduced-density-matrix-functional theory at finite temperature: Theoretical
+    foundations'
+  author:
+  - Baldsiefen, Tim
+  - Cangi, Attila
+  - Gross, E. K. U.
+  date: '2015-11-01'
+  path: https://link.aps.org/doi/10.1103/PhysRevA.92.052514
+  categories:
+  - article
+  description: ''
+- title: 'Exchange-correlation approximations for reduced-density-matrix-functional
+    theory at finite temperature: Capturing magnetic phase transitions in the homogeneous
+    electron gas'
+  author:
+  - Baldsiefen, Tim
+  - Cangi, Attila
+  - Eich, F. G.
+  - Gross, E. K. U.
+  date: '2017-12-01'
+  path: https://link.aps.org/doi/10.1103/PhysRevA.96.062508
+  categories:
+  - article
+  description: ''
+- title: 'Effective Static Approximation: A Fast and Reliable Tool for Warm-Dense
+    Matter Theory'
+  author:
+  - Dornheim, Tobias
+  - Cangi, Attila
+  - Ramakrishna, Kushal
+  - B\"ohme, Maximilian
+  - Tanaka, Shigenori
+  - Vorberger, Jan
+  date: '2020-12-01'
+  path: https://link.aps.org/doi/10.1103/PhysRevLett.125.235001
+  categories:
+  - article
+  description: ''
+- title: First-principles modeling of plasmons in aluminum under ambient and extreme
+    conditions
+  author:
+  - Ramakrishna, Kushal
+  - Cangi, Attila
+  - Dornheim, Tobias
+  - Baczewski, Andrew
+  - Vorberger, Jan
+  date: '2021-03-01'
+  path: https://link.aps.org/doi/10.1103/PhysRevB.103.125118
+  categories:
+  - article
+  description: ''
+- title: A Machine-Learning Surrogate Model for ab initio Electronic Correlations
+    at Extreme Conditions
+  author:
+  - Tobias Dornheim
+  - Zhandos Moldabekov
+  - Attila Cangi
+  date: '2021-01-01'
+  path: https://arxiv.org/pdf/2104.02941.pdf
+  categories:
+  - article
+  description: The electronic structure in matter under extreme conditions is a challenging
+    complex system prevalent in astrophysical objects and highly relevant for technological
+    applications. We show how machine-learning surrogates in terms of neural networks
+    have a profound impact on the efficient modeling of matter under extreme conditions.
+    We demonstrate the utility of a surrogate model that is trained on \emph{ab initio}
+    quantum Monte Carlo data for various applications in the emerging field of warm
+    dense matter research.
+- title: Accelerating finite-temperature Kohn-Sham density functional theory with
+    deep neural networks
+  author:
+  - Ellis, J. A.
+  - Fiedler, L.
+  - Popoola, G. A.
+  - Modine, N. A.
+  - Stephens, J. A.
+  - Thompson, A. P.
+  - Cangi, A.
+  - Rajamanickam, S.
+  date: '2021-07-01'
+  path: https://link.aps.org/doi/10.1103/PhysRevB.104.035120
+  categories:
+  - article
+  description: ''
+- title: The relevance of electronic perturbations in the warm dense electron gas
+  author:
+  - Moldabekov, Zhandos
+  - Dornheim, Tobias
+  - B{\"o}hme, Maximilian
+  - Vorberger, Jan
+  - Cangi, Attila
+  date: '2021-09-01'
+  path: http://dx.doi.org/10.1063/5.0062325
+  categories:
+  - article
+  description: ''
+- title: Data-driven magneto-elastic predictions with scalable classical spin-lattice
+    dynamics
+  author:
+  - Nikolov, Svetoslav
+  - Wood, Mitchell A.
+  - Cangi, Attila
+  - Maillet, Jean-Bernard
+  - Marinica, Mihai-Cosmin
+  - Thompson, Aidan P.
+  - Desjarlais, Michael P.
+  - Tranchida, Julien
+  date: '2021-09-01'
+  path: http://dx.doi.org/10.1038/s41524-021-00617-2
+  categories:
+  - article
+  description: ''
+- title: Higher harmonics in complex plasmas with alternating screening
+  author:
+  - Moldabekov, Z. A.
+  - Aldakul, Y. K.
+  - Bastykova, N. K.
+  - Sundar, S.
+  - Cangi, A.
+  date: '2021-12-01'
+  path: https://link.aps.org/doi/10.1103/PhysRevResearch.3.043187
+  categories:
+  - article
+  description: ''
+- title: Thermal excitation signals in the inhomogeneous warm dense electron gas
+  author:
+  - Moldabekov, Zhandos A.
+  - Dornheim, Tobias
+  - Cangi, Attila
+  date: '2022-01-01'
+  path: http://dx.doi.org/10.1038/s41598-022-05034-z
+  categories:
+  - article
+  description: ''
+- title: Benchmarking exchange-correlation functionals in the spin-polarized inhomogeneous
+    electron gas under warm dense conditions
+  author:
+  - Moldabekov, Zhandos
+  - Dornheim, Tobias
+  - Vorberger, Jan
+  - Cangi, Attila
+  date: '2022-01-01'
+  path: https://link.aps.org/doi/10.1103/PhysRevB.105.035134
+  categories:
+  - article
+  description: ''
+- title: Towards a quantum fluid theory of correlated many-fermion systems from first
+    principles
+  author:
+  - Z. A. Moldabekov
+  - T. Dornheim
+  - G. Gregori
+  - F. Graziani
+  - M. Bonitz
+  - A. Cangi
+  date: '2022-02-01'
+  path: https://scipost.org/10.21468/SciPostPhys.12.2.062
+  categories:
+  - article
+  description: ''
+- title: 'Dissociating the phononic, magnetic and electronic contributions to thermal
+    conductivity: a computational study in alpha-iron'
+  author:
+  - Nikolov, S.
+  - Tranchida, J.
+  - Ramakrishna, K.
+  - Lokamani, M.
+  - Cangi, A.
+  - Wood, M. A.
+  date: '2022-06-01'
+  path: https://link.springer.com/content/pdf/10.1007/s10853-021-06865-3.pdf
+  categories:
+  - article
+  description: Computational tools to study thermodynamic properties of magnetic materials
+    have, until recently, been limited to phenomenological modeling or to small domain
+    sizes limiting our mechanistic understanding of thermal transport in ferromagnets.
+    Herein, we study the interplay of phonon and magnetic spin contributions to the
+    thermal conductivity in {\$}{\$}{\backslash}alpha{\$}{\$}-iron utilizing non-equilibrium
+    molecular dynamics simulations. It was observed that the magnetic spin contribution
+    to the total thermal conductivity exceeds lattice transport for temperatures up
+    to two-thirds of the Curie temperature after which only strongly coupled magnon-phonon
+    modes become active heat carriers. Characterizations of the phonon and magnon
+    spectra give a detailed insight into the coupling between these heat carriers,
+    and the temperature sensitivity of these coupled systems. Comparisons to both
+    experiments and ab initio data support our inferred electronic thermal conductivity,
+    supporting the coupled molecular dynamics/spin dynamics framework as a viable
+    method to extend the predictive capability for magnetic material properties.
+- title: Deep dive into machine learning density functional theory for materials science
+    and chemistry
+  author:
+  - Fiedler, L.
+  - Shah, K.
+  - Bussmann, M.
+  - Cangi, A.
+  date: '2022-04-01'
+  path: https://link.aps.org/doi/10.1103/PhysRevMaterials.6.040301
+  categories:
+  - article
+  description: ''
+- title: First-principles derivation and properties of density-functional average-atom
+    models
+  author:
+  - Callow, T. J.
+  - Hansen, S. B.
+  - Kraisler, E.
+  - Cangi, A.
+  date: '2022-04-01'
+  path: https://link.aps.org/doi/10.1103/PhysRevResearch.4.023055
+  categories:
+  - article
+  description: ''
+- title: Effective electronic forces and potentials from ab initio path integral Monte
+    Carlo simulations
+  author:
+  - Dornheim, Tobias
+  - Tolias, Panagiotis
+  - Moldabekov, Zhandos A.
+  - Cangi, Attila
+  - Vorberger, Jan
+  date: '2022-06-01'
+  path: http://dx.doi.org/10.1063/5.0097768
+  categories:
+  - article
+  description: ''
+- title: 'atoMEC: An open-source average-atom Python code'
+  author:
+  - Callow, Timothy
+  - Kotik, Daniel
+  - Kraisler, Eli
+  - Cangi, Attila
+  date: '2022-01-01'
+  path: http://dx.doi.org/10.25080/majora-212e5952-006
+  categories:
+  - inproceedings
+  description: ''
+- title: Ab initio study of shock-compressed copper
+  author:
+  - Sch\"orner, Maximilian
+  - Witte, Bastian B. L.
+  - Baczewski, Andrew D.
+  - Cangi, Attila
+  - Redmer, Ronald
+  date: '2022-08-01'
+  path: https://link.aps.org/doi/10.1103/PhysRevB.106.054304
+  categories:
+  - article
+  description: ''
+- title: Accelerating equilibration in first-principles molecular dynamics with orbital-free
+    density functional theory
+  author:
+  - Fiedler, Lenz
+  - Moldabekov, Zhandos A.
+  - Shao, Xuecheng
+  - Jiang, Kaili
+  - Dornheim, Tobias
+  - Pavanello, Michele
+  - Cangi, Attila
+  date: '2022-10-01'
+  path: https://link.aps.org/doi/10.1103/PhysRevResearch.4.043033
+  categories:
+  - article
+  description: ''
+- title: Training-free hyperparameter optimization of neural networks for electronic
+    structures in matter
+  author:
+  - Fiedler, Lenz
+  - Hoffmann, Nils
+  - Mohammed, Parvez
+  - Popoola, Gabriel A
+  - Yovell, Tamar
+  - Oles, Vladyslav
+  - Austin Ellis, J
+  - Rajamanickam, Sivasankaran
+  - Cangi, Attila
+  date: '2022-10-01'
+  path: http://dx.doi.org/10.1088/2632-2153/ac9956
+  categories:
+  - article
+  description: ''
+- title: Physics-Informed Neural Networks as Solvers for the Time-Dependent Schr\"odinger
+    Equation
+  author:
+  - Karan Shah
+  - Patrick Stiller
+  - Nico Hoffmann
+  - Attila Cangi
+  date: '2022-01-01'
+  path: https://arxiv.org/pdf/2210.12522.pdf
+  categories:
+  - article
+  description: We demonstrate the utility of physics-informed neural networks (PINNs)
+    as solvers for the non-relativistic, time-dependent Schr{\"o}dinger equation.
+    We study the performance and generalisability of PINN solvers on the time evolution
+    of a quantum harmonic oscillator across varying system parameters, domains, and
+    energy states.
+- title: Improved calculations of mean ionization states with an average-atom model
+  author:
+  - Callow, Timothy J.
+  - Kraisler, Eli
+  - Cangi, Attila
+  date: '2023-01-01'
+  path: https://link.aps.org/doi/10.1103/PhysRevResearch.5.013049
+  categories:
+  - article
+  description: ''
+- title: A shallow hybrid classical--quantum spiking feedforward neural network for
+    noise-robust image classification
+  author:
+  - Debanjan Konar
+  - Aditya Das Sarma
+  - Soham Bhandary
+  - Siddhartha Bhattacharyya
+  - Attila Cangi
+  - Vaneet Aggarwal
+  date: '2023-03-01'
+  path: https://www.sciencedirect.com/science/article/pii/S1568494623001175
+  categories:
+  - article
+  description: Deep Convolutional Neural Network (CNN)-based image classification
+    systems are often susceptible to noise interruption, i.e., minor image noise may
+    significantly impact the outcome. On the contrary, classical Spiking Neural Network
+    (SNN) is known for handling noisy data due to the stochastic and temporal behaviour
+    of the spiking neuron signals. However, it is not always feasible to train the
+    weights of the classical SNN due to stochastic and non-differentiable spiking
+    signals. Recent applications of quantum machine learning to stochastic modelling
+    have predicted that quantum computing would prove to be a significant advantage,
+    hence catapulting the study of quantum and neuromorphic computing to a new level
+    of development. Motivated by these observations, this paper introduces a shallow
+    hybrid classical--quantum spiking feedforward neural network referred to as Spiking
+    Quantum Neural Network (SQNN) for dealing with a robust image classification task
+    in the presence of noise and adversarial attacks. The proposed SQNN offers the
+    inherent capabilities of processing unforeseen noisy test images due to its spatial
+    and temporal information. An efficient variational quantum circuit training with
+    the help of a standard back-propagation algorithm obviates the classical Spiking
+    Time-Dependent Plasticity (STDP) and Spike-Prop algorithms, which are often found
+    inefficient in training the feedforward SNN. The proposed SQNN is extensively
+    tested and benchmarked on the PennyLane Quantum Simulator. Experimental results
+    show that the proposed SQNN model supersedes the feedforward SNN (SFNN), Random
+    Quantum Neural Networks (RQNN), AlexNet and ResNet-18 on unseen test images with
+    added noise from the FashionMNIST, MNIST, KMNIST, CIFAR10, and ImageNet datasets.
+- title: Assessing the accuracy of hybrid exchange-correlation functionals for the
+    density response of warm dense electrons
+  author:
+  - Moldabekov, Zhandos A.
+  - Lokamani, Mani
+  - Vorberger, Jan
+  - Cangi, Attila
+  - Dornheim, Tobias
+  date: '2023-03-01'
+  path: http://dx.doi.org/10.1063/5.0135729
+  categories:
+  - article
+  description: ''
+- title: Non-empirical Mixing Coefficient for Hybrid XC Functionals from Analysis
+    of the XC Kernel
+  author:
+  - Moldabekov, Zhandos A.
+  - Lokamani, Mani
+  - Vorberger, Jan
+  - Cangi, Attila
+  - Dornheim, Tobias
+  date: '2023-02-01'
+  path: http://dx.doi.org/10.1021/acs.jpclett.2c03670
+  categories:
+  - article
+  description: ''
+- title: Electrical conductivity of iron in Earth's core from microscopic Ohm's law
+  author:
+  - Ramakrishna, Kushal
+  - Lokamani, Mani
+  - Baczewski, Andrew
+  - Vorberger, Jan
+  - Cangi, Attila
+  date: '2023-03-01'
+  path: https://link.aps.org/doi/10.1103/PhysRevB.107.115131
+  categories:
+  - article
+  description: ''
+- title: Electronic density response of warm dense matter
+  author:
+  - Dornheim, Tobias
+  - Moldabekov, Zhandos A.
+  - Ramakrishna, Kushal
+  - Tolias, Panagiotis
+  - Baczewski, Andrew D.
+  - Kraus, Dominik
+  - Preston, Thomas R.
+  - Chapman, David A.
+  - B{\"o}hme, Maximilian P.
+  - D{\"o}ppner, Tilo
+  - Graziani, Frank
+  - Bonitz, Michael
+  - Cangi, Attila
+  - Vorberger, Jan
+  date: '2023-03-01'
+  path: http://dx.doi.org/10.1063/5.0138955
+  categories:
+  - article
+  description: ''
+- title: 'Imaginary-time correlation function thermometry: A new, high-accuracy and
+    model-free temperature analysis technique for x-ray Thomson scattering data'
+  author:
+  - Dornheim, Tobias
+  - B{\"o}hme, Maximilian P.
+  - Chapman, David A.
+  - Kraus, Dominik
+  - Preston, Thomas R.
+  - Moldabekov, Zhandos A.
+  - Schl{\"u}nzen, Niclas
+  - Cangi, Attila
+  - D{\"o}ppner, Tilo
+  - Vorberger, Jan
+  date: '2023-04-01'
+  path: http://dx.doi.org/10.1063/5.0139560
+  categories:
+  - article
+  description: ''
+- title: 'Improving dynamic collision frequencies: Impacts on dynamic structure factors
+    and stopping powers in warm dense matter'
+  author:
+  - Hentschel, Thomas W.
+  - Kononov, Alina
+  - Olmstead, Alexandra
+  - Cangi, Attila
+  - Baczewski, Andrew D.
+  - Hansen, Stephanie B.
+  date: '2023-06-01'
+  path: http://dx.doi.org/10.1063/5.0143738
+  categories:
+  - article
+  description: ''
+- title: Predicting electronic structures at any length scale with machine learning
+  author:
+  - Fiedler, Lenz
+  - Modine, Normand A.
+  - Schmerler, Steve
+  - Vogel, Dayton J.
+  - Popoola, Gabriel A.
+  - Thompson, Aidan P.
+  - Rajamanickam, Sivasankaran
+  - Cangi, Attila
+  date: '2023-06-01'
+  path: http://dx.doi.org/10.1038/s41524-023-01070-z
+  categories:
+  - article
+  description: ''
+- title: Transferable interatomic potential for aluminum from ambient conditions to
+    warm dense matter
+  author:
+  - Kumar, Sandeep
+  - Tahmasbi, Hossein
+  - Ramakrishna, Kushal
+  - Lokamani, Mani
+  - Nikolov, Svetoslav
+  - Tranchida, Julien
+  - Wood, Mitchell A.
+  - Cangi, Attila
+  date: '2023-09-01'
+  path: https://link.aps.org/doi/10.1103/PhysRevResearch.5.033162
+  categories:
+  - article
+  description: ''
+- title: Machine learning the electronic structure of matter across temperatures
+  author:
+  - Fiedler, Lenz
+  - Modine, Normand A.
+  - Miller, Kyle D.
+  - Cangi, Attila
+  date: '2023-09-01'
+  path: https://link.aps.org/doi/10.1103/PhysRevB.108.125146
+  categories:
+  - article
+  description: ''
+- title: 'Impact of electronic correlations on high-pressure iron: insights from time-dependent
+    density functional theory'
+  author:
+  - Ramakrishna, K
+  - Lokamani, M
+  - Baczewski, A
+  - Vorberger, J
+  - Cangi, A
+  date: '2023-10-01'
+  path: https://dx.doi.org/10.1088/2516-1075/acfd75
+  categories:
+  - article
+  description: We present a comprehensive investigation of the electrical and thermal
+    conductivity of iron under high pressures at ambient temperature, employing the
+    real-time formulation of time-dependent density functional theory (RT-TDDFT).
+    Specifically, we examine the influence of a Hubbard correction (+U) to account
+    for strong electron correlations. Our calculations based on RT-TDDFT demonstrate
+    that the evaluated electrical conductivity for both high-pressure body-centered
+    cubic (BCC) and hexagonal close-packed (HCP) iron phases agrees well with experimental
+    data. Furthermore, we explore the anisotropy in the thermal conductivity of HCP
+    iron under high pressure, and our findings are consistent with experimental observations.
+    Interestingly, we find that the incorporation of the +U correction significantly
+    impacts the ground state and linear response properties of iron at pressures below
+    50 GPa, with its influence diminishing as pressure increases. This study offers
+    valuable insights into the influence of electronic correlations on the electronic
+    transport properties of iron under extreme conditions.
+- title: Ab initio insights on the ultrafast strong-field dynamics of anatase TiO2
+  author:
+  - S. B., Sruthil Lal
+  - Lokamani
+  - Ramakrishna, Kushal
+  - Cangi, Attila
+  - Murali, D.
+  - Posselt, Matthias
+  - Devi, Assa Aravindh Sasikala
+  - Sharan, Alok
+  date: '2023-11-01'
+  path: https://link.aps.org/doi/10.1103/PhysRevB.108.195149
+  categories:
+  - article
+  description: ''
+- title: Physics-enhanced neural networks for equation-of-state calculations
+  author:
+  - Callow, Timothy J
+  - Nikl, Jan
+  - Kraisler, Eli
+  - Cangi, Attila
+  date: '2023-12-01'
+  path: https://dx.doi.org/10.1088/2632-2153/ad13b9
+  categories:
+  - article
+  description: Rapid access to accurate equation-of-state (EOS) data is crucial in
+    the warm-dense matter (WDM) regime, as it is employed in various applications,
+    such as providing input for hydrodynamic codes to model inertial confinement fusion
+    processes. In this study, we develop neural network models for predicting the
+    EOS based on first-principles data. The first model utilises basic physical properties,
+    while the second model incorporates more sophisticated physical information, using
+    output from average-atom (AA) calculations as features. AA models are often noted
+    for providing a reasonable balance of accuracy and speed; however, our comparison
+    of AA models and higher-fidelity calculations shows that more accurate models
+    are required in the WDM regime. Both the neural network models we propose, particularly
+    the physics-enhanced one, demonstrate significant potential as accurate and efficient
+    methods for computing EOS data in WDM.
+- title: Inverting the Kohn--Sham equations with physics-informed machine learning
+  author:
+  - Martinetto, Vincent
+  - Shah, Karan
+  - Cangi, Attila
+  - Pribram-Jones, Aurora
+  date: '2024-03-01'
+  path: https://dx.doi.org/10.1088/2632-2153/ad3159
+  categories:
+  - article
+  description: Electronic structure theory calculations offer an understanding of
+    matter at the quantum level, complementing experimental studies in materials science
+    and chemistry. One of the most widely used methods, density functional theory,
+    maps a set of real interacting electrons to a set of fictitious non-interacting
+    electrons that share the same probability density. Ensuring that the density remains
+    the same depends on the exchange-correlation (XC) energy and, by a derivative,
+    the XC potential. Inversions provide a method to obtain exact XC potentials from
+    target electronic densities, in hopes of gaining insights into accuracy-boosting
+    approximations. Neural networks provide a new avenue to perform inversions by
+    learning the mapping from density to potential. In this work, we learn this mapping
+    using physics-informed machine learning methods, namely physics informed neural
+    networks and Fourier neural operators. We demonstrate the capabilities of these
+    two methods on a dataset of one-dimensional atomic and molecular models. The capabilities
+    of each approach are discussed in conjunction with this proof-of-concept presentation.
+    The primary finding of our investigation is that the combination of both approaches
+    has the greatest potential for inverting the Kohn--Sham equations at scale.
+- title: Machine learning-driven structure prediction for iron hydrides
+  author:
+  - Tahmasbi, Hossein
+  - Ramakrishna, Kushal
+  - Lokamani, Mani
+  - Cangi, Attila
+  date: '2024-03-01'
+  path: https://link.aps.org/doi/10.1103/PhysRevMaterials.8.033803
+  categories:
+  - article
+  description: ''
+- title: Ultrahigh resolution x-ray Thomson scattering measurements at the European
+    X-ray Free Electron Laser
+  author:
+  - Gawne, Thomas
+  - Moldabekov, Zhandos A.
+  - Humphries, Oliver S.
+  - Appel, Karen
+  - Baehtz, Carsten
+  - Bouffetier, Victorien
+  - Brambrink, Erik
+  - Cangi, Attila
+  - G\"ode, Sebastian
+  - Kon\^opkov\'a, Zuzana
+  - Makita, Mikako
+  - Mishchenko, Mikhail
+  - Nakatsutsumi, Motoaki
+  - Ramakrishna, Kushal
+  - Randolph, Lisa
+  - Schwalbe, Sebastian
+  - Vorberger, Jan
+  - Wollenweber, Lennart
+  - Zastrau, Ulf
+  - Dornheim, Tobias
+  - Preston, Thomas R.
+  date: '2024-06-01'
+  path: https://link.aps.org/doi/10.1103/PhysRevB.109.L241112
+  categories:
+  - article
+  description: ''
+- title: Accelerating Electron Dynamics Simulations through Machine Learned Time Propagators
+  author:
+  - Karan Shah
+  - Attila Cangi
+  date: '2024-01-01'
+  path: https://arxiv.org/pdf/2407.09628.pdf
+  categories:
+  - article
+  description: Time-dependent density functional theory (TDDFT) is a widely used method
+    to investigate electron dynamics under various external perturbations such as
+    laser fields. In this work, we present a novel approach to accelerate real time
+    TDDFT based electron dynamics simulations using autoregressive neural operators
+    as time-propagators for the electron density. By leveraging physics-informed constraints
+    and high-resolution training data, our model achieves superior accuracy and computational
+    speed compared to traditional numerical solvers. We demonstrate the effectiveness
+    of our model on a class of one-dimensional diatomic molecules. This method has
+    potential in enabling real-time, on-the-fly modeling of laser-irradiated molecules
+    and materials with varying experimental parameters.
+- title: Effects of mosaic crystal instrument functions on x-ray Thomson scattering
+    diagnostics
+  author:
+  - Gawne, Thomas
+  - Bellenbaum, Hannah
+  - Fletcher, Luke B.
+  - Appel, Karen
+  - Baehtz, Carsten
+  - Bouffetier, Victorien
+  - Brambrink, Erik
+  - Brown, Danielle
+  - Cangi, Attila
+  - Descamps, Adrien
+  - Goede, Sebastian
+  - Hartley, Nicholas J.
+  - Herbert, Marie-Luise
+  - Hesselbach, Philipp
+  - H{\"o}ppner, Hauke
+  - Humphries, Oliver S.
+  - Kon{\^o}pkov{\'a}, Zuzana
+  - Laso Garcia, Alejandro
+  - Lindqvist, Bj{\"o}rn
+  - L{\"u}tgert, Julian
+  - MacDonald, Michael J.
+  - Makita, Mikako
+  - Martin, Willow
+  - Mishchenko, Mikhail
+  - Moldabekov, Zhandos A.
+  - Nakatsutsumi, Motoaki
+  - Naedler, Jean-Paul
+  - Neumayer, Paul
+  - Pelka, Alexander
+  - Qu, Chongbing
+  - Randolph, Lisa
+  - Rips, Johannes
+  - Toncian, Toma
+  - Vorberger, Jan
+  - Wollenweber, Lennart
+  - Zastrau, Ulf
+  - Kraus, Dominik
+  - Preston, Thomas R.
+  - Dornheim, Tobias
+  date: '2024-09-01'
+  path: http://dx.doi.org/10.1063/5.0222072
+  categories:
+  - article
+  description: ''
+- title: Bridging the gap in electronic structure calculations via machine learning
+  author:
+  - Cangi, Attila
+  date: '2024-10-01'
+  path: http://dx.doi.org/10.1038/s43588-024-00707-3
+  categories:
+  - article
+  description: ''
+- title: Electrical conductivity of warm dense hydrogen from ohm's law and time-dependent
+    density functional theory
+  author:
+  - Ramakrishna, Kushal
+  - Lokamani, Mani
+  - Cangi, Attila
+  date: '2024-11-01'
+  path: http://dx.doi.org/10.1088/2516-1075/ad912b
+  categories:
+  - article
+  description: ''
+- title: Probing iron in Earth's core with molecular-spin dynamics
+  author:
+  - Svetoslav Nikolov
+  - Kushal Ramakrishna
+  - Andrew Rohskopf
+  - Mani Lokamani
+  - Julien Tranchida
+  - John Carpenter
+  - Attila Cangi
+  - Mitchell A. Wood
+  date: '2024-12-01'
+  path: https://www.pnas.org/doi/abs/10.1073/pnas.2408897121
+  categories:
+  - article
+  description: Despite the importance of magnetism in numerous materials, magnetic
+    effects have been absent in molecular-dynamics studies. Herein, we implement a
+    molecular-spin dynamics methodology to accurately resolve, across large regions
+    of phase-space, structural/magnetic transitions, and elastic/transport properties
+    for iron. This endeavor is critically important for reconciling different theories
+    of geodynamo operation, augmenting decades of deep experimental investigation.
+    Our approach offers an explicit and scalable treatment for longitudinal spin fluctuations,
+    which play a more pronounced role in BCC-iron, a phase hypothesized to exist near
+    the melt transition at Earth-core pressures. Leveraging first-principal calculations
+    to build an Fe molecular-spin dynamics model, we resolve the high-pressure BCC
+    metastability (\>240 GPa), while accurately recovering compressional wave-velocity,
+    bulk moduli, viscosity, and electrical conductivity. Dynamic compression of iron
+    to Earth-core conditions is one of the few ways to gather important elastic and
+    transport properties needed to uncover key mechanisms surrounding the geodynamo
+    effect. Herein, a machine-learned ab initio derived molecular-spin dynamics (MSD)
+    methodology with explicit treatment for longitudinal spin-fluctuations is utilized
+    to probe the dynamic phase-diagram of iron. This framework uniquely enables an
+    accurate resolution of the phase-transition kinetics and Earth-core elastic properties,
+    as highlighted by compressional wave velocity and adiabatic bulk moduli measurements.
+    In addition, a unique coupling of MSD with time-dependent density functional theory
+    enables gauging electronic transport properties, critically important for resolving
+    geodynamo dynamics.
+- title: Strong geometry dependence of the x-ray Thomson scattering spectrum in single
+    crystal silicon
+  author:
+  - Gawne, Thomas
+  - Moldabekov, Zhandos A
+  - Humphries, Oliver S
+  - Appel, Karen
+  - Baehtz, Carsten
+  - Bouffetier, Victorien
+  - Brambrink, Erik
+  - Cangi, Attila
+  - Cr{\'e}pisson, Celine
+  - G{\"o}de, Sebastian
+  - Kon{\^o}pkov{\'a}, Zuzana
+  - Makita, Mikako
+  - Mishchenko, Mikhail
+  - Nakatsutsumi, Motoaki
+  - Randolph, Lisa
+  - Schwalbe, Sebastian
+  - Vorberger, Jan
+  - Zastrau, Ulf
+  - Dornheim, Tobias
+  - Preston, Thomas R
+  date: '2025-04-01'
+  path: https://dx.doi.org/10.1088/2516-1075/adc054
+  categories:
+  - article
+  description: We report on results from an experiment at the European x-ray free
+    electron laser where we measured the x-ray Thomson scattering (XRTS) spectrum
+    of single crystal silicon with ultrahigh resolution. Compared to similar previous
+    experiments, we consider a more complex scattering setup, in which the scattering
+    vector changes orientation through the crystal lattice. In doing so, we are able
+    to observe strong geometric dependencies in the inelastic scattering spectrum
+    of silicon at low scattering angles. Furthermore, the high quality of the experimental
+    data allows us to benchmark state-of-the-art TDDFT calculations, and demonstrate
+    TDDFT's ability to accurately predict these geometric dependencies. Finally, we
+    note that this experimental data was collected at a much faster rate than another
+    recently reported dataset using the same setup, demonstrating that ultrahigh resolution
+    XRTS data can be collected in more general experimental scenarios.
+- title: 'Materials Learning Algorithms (MALA): Scalable machine learning for electronic
+    structure calculations in large-scale atomistic simulations'
+  author:
+  - Attila Cangi
+  - Lenz Fiedler
+  - Bartosz Brzoza
+  - Karan Shah
+  - Timothy J. Callow
+  - Daniel Kotik
+  - Steve Schmerler
+  - Matthew C. Barry
+  - James M. Goff
+  - Andrew Rohskopf
+  - Dayton J. Vogel
+  - Normand Modine
+  - Aidan P. Thompson
+  - Sivasankaran Rajamanickam
+  date: '2025-09-01'
+  path: https://www.sciencedirect.com/science/article/pii/S0010465525001560
+  categories:
+  - article
+  description: 'We present the Materials Learning Algorithms (MALA) package, a scalable
+    machine learning framework designed to accelerate density functional theory (DFT)
+    calculations suitable for large-scale atomistic simulations. Using local descriptors
+    of the atomic environment, MALA models efficiently predict key electronic observables,
+    including local density of states, electronic density, density of states, and
+    total energy. The package integrates data sampling, model training and scalable
+    inference into a unified library, while ensuring compatibility with standard DFT
+    and molecular dynamics codes. We demonstrate MALA''s capabilities with examples
+    including boron clusters, aluminum across its solid-liquid phase boundary, and
+    predicting the electronic structure of a stacking fault in a large beryllium slab.
+    Scaling analyses reveal MALA''s computational efficiency and identify bottlenecks
+    for future optimization. With its ability to model electronic structures at scales
+    far beyond standard DFT, MALA is well suited for modeling complex material systems,
+    making it a versatile tool for advanced materials research. Program summary Program
+    Title: Materials Learning Algorithms (MALA) CPC Library link to program files:
+    https://doi.org/10.17632/vbrxhnrvf2.1 Developer''s repository link: https://github.com/mala-project/mala
+    Licensing provisions: BSD 3-clause Programming language: Python, Fortran Nature
+    of problem: Predicting material properties at experimentally relevant scales remains
+    a significant challenge in advanced materials research. Traditional electronic
+    structure methods, particularly density functional theory (DFT), while widely
+    used, are limited by their steep computational demands. DFT calculations typically
+    scale cubically with system size, restricting them to simulations of only a few
+    thousand atoms. Consequently, large-scale simulations often require approximations,
+    classical models, or machine learning methods. Yet, current machine learning approaches
+    fall short in replicating the full predictive accuracy of DFT, thereby constraining
+    their broader applicability in materials science. Solution method: The Materials
+    Learning Algorithms (MALA) software package [1] provides a scalable and efficient
+    machine learning framework designed to accelerate electronic structure calculations.
+    MALA replaces direct DFT calculations with machine learning models, enabling simulations
+    at unprecedented scales. By employing a universal electronic structure representation,
+    MALA models recover key observables from which a broad range of material properties
+    can be derived. The package provides a unified library that integrates data sampling,
+    model training, and scalable inference, while offering seamless compatibility
+    with state-of-the-art simulation tools such as Quantum ESPRESSO [2] and LAMMPS
+    [3]. This makes MALA a versatile solution for diverse computational materials
+    research needs. References [1] A. Cangi et al., MALA (Version 1.3.0) [Computer
+    software], https://doi.org/10.5281/zenodo.5557254. [2] P. Giannozzi et al., Quantum
+    ESPRESSO: a modular and open-source software project for quantum simulations of
+    materials, J. Phys. Condens. Matter 21 (2009) 95502. [3] A.P. Thompson et al.,
+    LAMMPS - a flexible simulation tool for particle-based materials modeling at the
+    atomic, meso, and continuum scales, Comp. Phys. Comm. 271 (2022) 108171.'

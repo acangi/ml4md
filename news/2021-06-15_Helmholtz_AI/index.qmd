@@ -1,0 +1,19 @@
+---
+title: "Funding from Helmholtz AI"
+#description: "HIDA Trainee Network Funding for Johannes Wasmer"
+#author: "Attila Cangi"
+date: "2021-06-15"
+image: Synrap_2021.png
+draft: false
+categories:
+  - visitor
+  - award
+format:
+  html:
+    page-layout: full
+    toc: false
+---
+
+We received funding from the Helmholtz Association's Artificial Intelligence Cooperation Unit ([Helmholtz AI](https://www.helmholtz.ai/){target="_blank"}) for our project Machine-learning based synthetic data generation for rapid physics modeling (SynRap). In collaboration with the Deutsches Elektronen-Synchrotron (DESY, Hamburg), we will investigate whether data on the behavior of physical systems can be generated more quickly using neural networks in the form of so-called synthetic data. Our project was selected for funding through a competitive process. The fifteen winning teams will receive a total of 6.2 million euros over the next few years to carry out their projects.
+
+Read more about this in the [press release](https://www.hzdr.de/db/Cms?pOid=63571&pNid=0&pLang=en){target="_blank"}.

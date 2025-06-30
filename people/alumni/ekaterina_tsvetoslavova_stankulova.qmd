@@ -1,0 +1,24 @@
+---
+title: "Ekaterina Tsvetoslavova Stankulova"
+sortby: "Tsvetoslavova Stankulova, Ekaterina"
+subtitle: "Student Research Assistant"
+image: ekaterina_tsvetoslavova_stankulova.png
+toc: false
+#resources: 
+started: "2021"
+ended: "2021"
+lkp: "Master's Student, Autonomous University of Madrid, Spain"
+about:
+  id: person-profile
+  template: jolla
+  #links:
+  #  - icon: file-earmark-text
+  #    text: CV
+---
+
+:::{#person-profile}
+:::
+
+## Biography
+
+## Education

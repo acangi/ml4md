@@ -1,0 +1,25 @@
+---
+title: "Karan Shah"
+sortby: "Shah, Karan"
+subtitle: "PhD Student"
+image: karan_shah.png
+toc: false
+#resources: 
+#  - "cv_karan_shah.pdf"
+started: "2021"
+ended: "Current"
+about:
+  id: person-profile
+  template: jolla
+  links:
+    - icon: file-earmark-text
+      text: CV
+      href: ./people/phd_students/cv_karan_shah.pdf
+---
+
+:::{#person-profile}
+:::
+
+## Biography
+
+## Education

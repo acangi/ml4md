@@ -1,0 +1,24 @@
+---
+title: "Sneha Verma Prakash"
+sortby: "Prakash, Sneha Verma"
+subtitle: "Student Research Assistant"
+image: sneha_verma_prakash.png
+toc: false
+#resources: 
+started: "2021"
+ended: "2021"
+lkp: " "
+about:
+  id: person-profile
+  template: jolla
+  #links:
+  #  - icon: file-earmark-text
+  #    text: CV
+---
+
+:::{#person-profile}
+:::
+
+## Biography
+
+## Education

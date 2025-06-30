@@ -5,7 +5,8 @@ and write them into data/publications.yml for Quarto’s listing page.
 """
 import os, requests, yaml, textwrap, sys, pathlib
 
-ORCID_ID = os.getenv("ORCID_ID") or sys.exit("Missing ORCID_ID env var")
+#ORCID_ID = os.getenv("ORCID_ID") or sys.exit("Missing ORCID_ID env var")
+ORCID_ID = "0000-0001-9162-262X"
 
 # OpenAlex returns up to 200 items per page; loop until 'next' is null
 base = f"https://api.openalex.org/works?filter=author.orcid:{ORCID_ID}&per-page=200"

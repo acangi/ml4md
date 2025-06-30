@@ -1,12 +1,18 @@
 project:
   type: website
   pre-render:
-    - python scripts/openalex_to_yaml.py
+    - python scripts/bib2yaml.py
+    #- python scripts/openalex_to_yaml.py
 
+jupyter:
+  kernel: quarto-env
 
 website:
-  title: "Machine Learning for Materials Design"
+  title: "Machine Learning for Materials Design — Cangi Lab"
   site-url: "https://example.org"          # ← replace with your real domain
+  page-navigation: true
+  open-graph: true          # social cards
+  search: true
   navbar:
     left:
       #- href: index.qmd
@@ -22,7 +28,7 @@ website:
       - href: publications.qmd
         text: Publications
         icon: book
-      - href: news/index.qmd
+      - href: news.qmd
         text: News
         icon: chat-left-text
       - href: contact.qmd

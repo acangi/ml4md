@@ -1,0 +1,24 @@
+---
+title: "Timothy Callow"
+sortby: "Callow, Timothy"
+subtitle: "Postdoctoral Researcher"
+image: timothy_callow.png
+toc: false
+#resources: 
+started: "2020"
+ended: "2024"
+lkp: "Data scientist, Featurespace, Cambridge, United Kingdom"
+about:
+  id: person-profile
+  template: jolla
+  #links:
+  #  - icon: file-earmark-text
+  #    text: CV
+---
+
+:::{#person-profile}
+:::
+
+## Biography
+
+## Education

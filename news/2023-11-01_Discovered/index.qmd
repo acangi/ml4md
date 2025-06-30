@@ -1,0 +1,17 @@
+---
+title: "Featured in the discovered magazine"
+#description: "Tim Callow and Bartosz Brzoza featured on local news"
+#author: "Attila Cangi"
+date: "2023-11-01"
+image: discovered_cover_2023.png
+draft: false
+categories:
+  - conference
+format:
+  html:
+    page-layout: full
+    toc: false
+---
+Glad to see that our work on artificial intelligence and materials science being featured in the [discovered magazine](https://www.hzdr.de/db/Cms?pNid=2931){target="_blank"} of Helmholtz-Zentrum Dresden-Rossendorf. 
+
+You can browse the content [online](https://www.hzdr.de/HZDR/epaper/entdeckt_1_2023_EN/#0){target="_blank"}.

@@ -1,7 +1,0 @@
----
-title: "News"
-listing:
-  type: default
----
-
-Stay tuned for department updates and highlights.

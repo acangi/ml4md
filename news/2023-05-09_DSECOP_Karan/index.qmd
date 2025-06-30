@@ -1,0 +1,19 @@
+---
+title: "Karan Shah reselected for APS fellowship"
+#description: "HIDA Trainee Network Funding for Johannes Wasmer"
+#author: "Attila Cangi"
+date: "2023-05-09"
+image: karan_aps_2023.png
+draft: false
+categories:
+  - visitor
+  - award
+format:
+  html:
+    page-layout: full
+    toc: false
+---
+
+Congratulations, Karan, for being accepted into the program for the second time! 
+
+Given the growing demand for data science skills, many physics programs are beginning to incorporate data science into their curriculums. A team of physicists led by the [Topical Group on Data Science (GDS)](https://www.aps.org/publications/apsnews/201910/gds.cfm){target="_blank"} and funded by the [American Physical Society (APS)](https://www.aps.org/){target="_blank"} is therefore developing teaching modules for data science that can be easily integrated into undergraduate physics courses. The project, known as the [Data Science Education Community of Practice (DSECOP)](https://dsecop.org/){target="_blank"}, was designed to bridge the gap between traditional physics education and the skills physicists need in industry. 

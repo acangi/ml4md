@@ -1,0 +1,24 @@
+---
+title: "Niclas Schlünzen"
+sortby: "Schlünzen, Niclas"
+subtitle: "Postdoctoral Researcher"
+image: niclas_schlünzen.png
+toc: false
+#resources: 
+started: "2022"
+ended: "2022"
+lkp: " "
+about:
+  id: person-profile
+  template: jolla
+  #links:
+  #  - icon: file-earmark-text
+  #    text: CV
+---
+
+:::{#person-profile}
+:::
+
+## Biography
+
+## Education

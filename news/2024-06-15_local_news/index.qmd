@@ -1,0 +1,18 @@
+---
+title: "Featured on Welcome Görlitz"
+description: "Tim Callow and Bartosz Brzoza featured on local news"
+#author: "Attila Cangi"
+date: "2024-06-14"
+image: Tim_Bartek.png
+draft: false
+categories:
+  - conference
+format:
+  html:
+    page-layout: full
+    toc: false
+---
+
+Tim Callow and Bartosz Brzoza gave an interview explaining how they came to Görlitz and what they like about working and living in the heart of Europe.
+
+Read more about on the [Welcome Görlitz Blog](https://www.welcome-goerlitz-zgorzelec.com/en/blog/detail/82-Research-and-Life-in-Goerlitz){target="_blank"}.

@@ -1,0 +1,18 @@
+---
+title: "Machine learning takes materials modeling into new era"
+#description: " "
+#author: " "
+date: "2023-07-07"
+image: MALA_npj_2023.png
+draft: false
+categories:
+  - conference
+format:
+  html:
+    page-layout: full
+    toc: false
+---
+
+The arrangement of electrons in matter, known as electronic structure, plays a critical role in fundamental and applied research such as drug design and energy storage. However, the lack of a simulation technique that provides both high fidelity and scalability across different time and length scales has long been an obstacle to the progress of these technologies. We have developed a machine learning method – the Materials Learning Algorithms (MALA) – that replaces traditional electronic structure simulation techniques. MALA enables electronic structure simulations at previously unattainable length scales.
+
+Read more about this in the [press release](https://www.hzdr.de/db/Cms?pOid=69680&pNid=3438){target="_blank"}.

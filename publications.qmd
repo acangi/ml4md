@@ -1,16 +1,15 @@
 ---
 title: "Publications"
-page-layout: full
-
 listing:
-  type: table
-  contents: data/articles.yml      # YAML file with publication metadata
+  contents: "scripts/pubitems.yaml"           # relative to this file
+  type: grid                                  # card layout :contentReference[oaicite:2]{index=2}
+  grid-columns: 1                             # tweak for your theme / screen
   sort: "date desc"
-  filter-ui: true                      # live search box
-  fields: [year, date, title, author, journal, doi]   # columns to show
-  field-display-names:                # optional prettier headers
-    author: "Authors"
-    journal: "Journal"
-    year:   "Year"
-    doi:    "DOI"
+  date-format: "MMM, YYYY"
+  fields: [date, title, author]               # what appears on each card
+  filter-ui: [title, author]                  # search box
+  categories: true                            # auto side‑bar filters
+  page-size: 10                               # pagination
 ---
+
+```{=markdown}

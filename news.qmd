@@ -1,0 +1,12 @@
+---
+title: "News"
+toc: true
+listing:
+  contents: "news/**/index.qmd"
+  sort: "date desc"
+  type: default
+  categories: false
+  image-height: 150px
+---
+
+Latest news from our department.

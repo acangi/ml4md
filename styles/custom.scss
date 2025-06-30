@@ -1,8 +1,29 @@
-/* Custom brand colours */ 
-$primary: #004481;   /* HZDR blue */
-$secondary: #00A8E8;
-
-/* Override bootstrap variables */
-body {
-  font-family: "Inter", system-ui, sans-serif;
+.person-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  gap: 1.5rem;
+}
+.person-box {
+  text-align: center;
+  padding: 1rem;
+  border: 1px solid #e0e0e0;
+  border-radius: 0.5rem;
+}
+.person-img {
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+  border-radius: 50%;
+  margin-bottom: 0.5rem;
+}
+.person-name {
+  margin: 0.5rem 0 0.25rem;
+}
+.person-subtitle {
+  font-style: italic;
+  margin-bottom: 0.5rem;
+}
+.person-contact a {
+  text-decoration: none;
+  font-size: 0.9rem;
 }

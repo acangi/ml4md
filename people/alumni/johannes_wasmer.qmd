@@ -1,0 +1,26 @@
+---
+title: "Johannes Wasmer"
+sortby: "Wasmer, Johannes"
+subtitle: "Visiting PhD Student"
+image: johannes_wasmer.webp
+toc: false
+#resources: 
+#  - "cv_bartosz_brzoza.pdf"
+started: "2025"
+ended: "2025"
+lkp: "PhD Student, [Forschungszentrum Jülich](https://www.fz-juelich.de/en)"
+about:
+  id: person-profile
+  template: jolla
+  #links:
+  #  - icon: file-earmark-text
+  #    text: CV
+  #    href: ./people/phd_students/cv_bartosz_brzoza.pdf
+---
+
+:::{#person-profile}
+:::
+
+## Biography
+
+## Education

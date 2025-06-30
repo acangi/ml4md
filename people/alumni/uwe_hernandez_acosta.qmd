@@ -1,0 +1,24 @@
+---
+title: "Uwe Hernandez-Acosta"
+sortby: "Hernandez-Acosta, Uwe"
+subtitle: "Postdoctoral Researcher"
+image: uwe_hernandez_acosta.png
+toc: false
+#resources: 
+started: "2020"
+ended: "2024"
+lkp: "Postdoctoral researcher, Frontiers of Computational Quantum Many-Body Theory, Center for Advanced Systems Understanding, Helmholtz-Zentrum Dresden-Rossendorf"
+about:
+  id: person-profile
+  template: jolla
+  #links:
+  #  - icon: file-earmark-text
+  #    text: CV
+---
+
+:::{#person-profile}
+:::
+
+## Biography
+
+## Education

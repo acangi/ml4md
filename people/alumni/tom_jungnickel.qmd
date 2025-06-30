@@ -1,0 +1,24 @@
+---
+title: "Tom Jungnickel"
+sortby: "Jungnickel, Tom"
+subtitle: "Student Research Assistant"
+image: tom_jungnickel.png
+toc: false
+#resources: 
+started: "2023"
+ended: "2024"
+lkp: " "
+about:
+  id: person-profile
+  template: jolla
+  #links:
+  #  - icon: file-earmark-text
+  #    text: CV
+---
+
+:::{#person-profile}
+:::
+
+## Biography
+
+## Education

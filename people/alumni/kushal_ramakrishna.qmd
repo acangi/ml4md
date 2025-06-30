@@ -1,0 +1,26 @@
+---
+title: "Kushal Ramakrishna"
+sortby: "Ramakrishna, Kushal"
+subtitle: "Postdoctoral Researcher"
+image: kushal_ramakrishna.png
+toc: false
+#resources: 
+#  - "cv_bartosz_brzoza.pdf"
+started: "2020"
+ended: "2025"
+lkp: "HPC Group, Helmholtz-Zentrum Dresden-Rossendorf"
+about:
+  id: person-profile
+  template: jolla
+  #links:
+  #  - icon: file-earmark-text
+  #    text: CV
+  #    href: ./people/phd_students/cv_bartosz_brzoza.pdf
+---
+
+:::{#person-profile}
+:::
+
+## Biography
+
+## Education

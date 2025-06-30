@@ -1,0 +1,24 @@
+---
+title: "Debanjan Konar"
+sortby: "Konar, Debanjan"
+subtitle: "Postdoctoral Researcher"
+image: debanjan_konar.png
+toc: false
+#resources: 
+started: "2021"
+ended: "2023"
+lkp: "Senior Chief Engineer, Head of Quantum Computing, Samsung Research & Development Institute, Bangalore, India"
+about:
+  id: person-profile
+  template: jolla
+  #links:
+  #  - icon: file-earmark-text
+  #    text: CV
+---
+
+:::{#person-profile}
+:::
+
+## Biography
+
+## Education

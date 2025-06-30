@@ -1,0 +1,21 @@
+---
+title: "Welcome Johannes!"
+description: "HIDA Trainee Network funding for Johannes Wasmer"
+#author: "Attila Cangi"
+date: "2025-02-17"
+image: HIDA_Trainee_Network.png
+draft: false
+categories:
+  - visitor
+  - award
+format:
+  html:
+    page-layout: full
+    toc: false
+---
+
+Johannes Wasmer has joined us as a visiting Ph.D. student. He comes from the [Peter Grünberg Institute](https://www.fz-juelich.de/de/pgi){target="_blank"} at [Forschungszentrum Jülich](https://www.fz-juelich.de/en){target="_blank"}, where he is a doctoral candidate in the [Quantum Theory of Materials division](https://www.fz-juelich.de/en/pgi/pgi-1){target="_blank"}. His visit is funded by the [HIDA Trainee Network Program](https://www.helmholtz-hida.de/en/new-horizons/trainee-network/){target="_blank"}, which fosters collaboration between Helmholtz centers and helps build an interdisciplinary community of data scientists. During his time in our research group, Johannes will work on spin models and machine learning.
+
+Welcome Johannes!
+
+![](Johannes_Wasmer.webp)

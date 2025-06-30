@@ -2,9 +2,9 @@
 title: "Contact"
 ---
 
-**Address**  
-Helmholtz‑Zentrum Dresden‑Rossendorf (HZDR)  
-Bautzner Landstr. 400, 01328 Dresden, Germany
+[Attila Cangi](https://www.hzdr.de/db/!ContMan.Visi.Card?pUser=139621&pNid=1227&pLang=en){target="_blank"}<br>
+[Department Machine Learning for Materials Design](https://www.casus.science/?page_id=4660){target="_blank"}<br>
+[Center for Advanced Systems Understanding (CASUS)](https://www.casus.science){target="_blank"}<br> 
+[Helmholtz‑Zentrum Dresden‑Rossendorf (HZDR)](https://www.hzdr.de){target="_blank"}<br>
 
-**Email:** info@example.org  
-**Phone:** +49 351 260 0
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2502.4633107893223!2d14.974382076604273!3d51.15524733636819!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4708dd50d7252c41%3A0x2b8364884b1f8926!2sCASUS%20-%20Center%20for%20Advanced%20Systems%20Understanding%20am%20HZDR!5e0!3m2!1sen!2sde!4v1751294459296!5m2!1sen!2sde" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
