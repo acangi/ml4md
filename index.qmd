@@ -2,7 +2,7 @@
 title: "Machine Learning for Materials Design"
 image: logo.png
 about: 
-  template: jolla
+  template: solana #marquee #trestles #broadside #jolla
   image-shape: round
 ---
 

@@ -20,6 +20,8 @@ about:
 :::{#person-profile}
 :::
 
+<!---
 ## Biography
-
+## Experience
 ## Education
+-->
