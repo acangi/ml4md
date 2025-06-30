@@ -1,12 +1,11 @@
 ---
 title: "Featured in the discovered magazine"
-#description: "Tim Callow and Bartosz Brzoza featured on local news"
-#author: "Attila Cangi"
 date: "2023-11-01"
 image: discovered_cover_2023.png
 draft: false
 categories:
-  - conference
+  - scientific highlight
+  - outreach
 format:
   html:
     page-layout: full

@@ -6,7 +6,7 @@ date: "2023-05-23"
 image: MALA_hackathon_2023.png
 draft: false
 categories:
-  - conference
+  - hackathon
 format:
   html:
     page-layout: full

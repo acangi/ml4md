@@ -6,8 +6,7 @@ date: "2021-06-15"
 image: Synrap_2021.png
 draft: false
 categories:
-  - visitor
-  - award
+  - funding
 format:
   html:
     page-layout: full

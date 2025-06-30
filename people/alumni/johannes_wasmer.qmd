@@ -8,7 +8,7 @@ toc: false
 #  - "cv_bartosz_brzoza.pdf"
 started: "2025"
 ended: "2025"
-lkp: "PhD Student, [Forschungszentrum Jülich](https://www.fz-juelich.de/en)"
+lkp: "PhD Student, [Forschungszentrum Jülich](https://www.fz-juelich.de/en), Germany"
 about:
   id: person-profile
   template: jolla

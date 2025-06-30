@@ -6,7 +6,7 @@ date: "2023-11-16"
 image: RD100_2023_Winner.jpg
 draft: false
 categories:
-  - conference
+  - award
 format:
   html:
     page-layout: full

@@ -8,3 +8,5 @@ listing:
   categories: false
   image-height: 150px
 ---
+
+More detailed pages coming soon!

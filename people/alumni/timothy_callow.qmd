@@ -7,7 +7,7 @@ toc: false
 #resources: 
 started: "2020"
 ended: "2024"
-lkp: "Data scientist, Featurespace, Cambridge, United Kingdom"
+lkp: "Data Scientist, Featurespace, Cambridge, United Kingdom"
 about:
   id: person-profile
   template: jolla

@@ -7,7 +7,7 @@ toc: false
 #resources: 
 started: "2020"
 ended: "2024"
-lkp: "Postdoctoral researcher, Frontiers of Computational Quantum Many-Body Theory, Center for Advanced Systems Understanding, Helmholtz-Zentrum Dresden-Rossendorf"
+lkp: "Postdoctoral Researcher, Frontiers of Computational Quantum Many-Body Theory, Center for Advanced Systems Understanding, Helmholtz-Zentrum Dresden-Rossendorf, Germany"
 about:
   id: person-profile
   template: jolla

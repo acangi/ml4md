@@ -8,7 +8,7 @@ toc: false
 #  - "cv_bartosz_brzoza.pdf"
 started: "2020"
 ended: "2025"
-lkp: "HPC Group, Helmholtz-Zentrum Dresden-Rossendorf"
+lkp: "Postdoctoral Researcher, HPC Group, Helmholtz-Zentrum Dresden-Rossendorf, Germany"
 about:
   id: person-profile
   template: jolla

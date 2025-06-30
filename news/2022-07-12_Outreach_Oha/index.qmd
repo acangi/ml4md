@@ -1,12 +1,12 @@
 ---
-title: "Outreach: oha! The adventure of science"
+title: "oha! The adventure of science"
 #description: " "
 #author: " "
 date: "2022-07-12"
 image: lange_nacht_görlitz.png
 draft: false
 categories:
-  - award
+  - outreach
 format:
   html:
     page-layout: full

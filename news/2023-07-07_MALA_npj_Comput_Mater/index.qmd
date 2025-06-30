@@ -6,7 +6,7 @@ date: "2023-07-07"
 image: MALA_npj_2023.png
 draft: false
 categories:
-  - conference
+  - scientific highlight
 format:
   html:
     page-layout: full

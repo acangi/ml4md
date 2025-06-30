@@ -6,7 +6,6 @@ date: "2023-05-09"
 image: karan_aps_2023.png
 draft: false
 categories:
-  - visitor
   - award
 format:
   html:

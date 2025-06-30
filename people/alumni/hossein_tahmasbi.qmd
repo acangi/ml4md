@@ -7,7 +7,7 @@ toc: false
 #resources: 
 started: "2021"
 ended: "2024"
-lkp: "Postdoctoral researcher, Department Theory of Complex Systems, Center for Advanced Systems Understanding, Helmholtz-Zentrum Dresden-Rossendorf"
+lkp: "Postdoctoral Researcher, Department Theory of Complex Systems, Center for Advanced Systems Understanding, Helmholtz-Zentrum Dresden-Rossendorf, Germany"
 about:
   id: person-profile
   template: jolla

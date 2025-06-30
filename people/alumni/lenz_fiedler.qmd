@@ -8,7 +8,7 @@ toc: false
 #  - "cv_bartosz_brzoza.pdf"
 started: "2020"
 ended: "2025"
-lkp: "Head of Data Management, [Center for the Transformation of Chemistry (CTC)](https://transforming-chemistry.org/en/landingpage/)"
+lkp: "Head of Data Management, [Center for the Transformation of Chemistry (CTC)](https://transforming-chemistry.org/en/landingpage/), Germany"
 about:
   id: person-profile
   template: jolla

@@ -6,7 +6,7 @@ date: "2024-08-28"
 image: Defense_Lenz.png
 draft: false
 categories:
-  - Ph.D.
+  - defense
 format:
   html:
     page-layout: full
