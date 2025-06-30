@@ -54,6 +54,7 @@ while url:
             journal = journal,
             doi     = w.get("doi"),
             href    = f"https://doi.org/{w['doi']}" if w.get("doi") else w["id"],
+            path    = w.get("doi"),
             kind    = kind,                         # ← NEW TAG
         )
         records.append(rec)
