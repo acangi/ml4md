@@ -3,90 +3,113 @@
 Fetch all public works linked to your ORCID from the OpenAlex API
 and write them into data/publications.yml for Quarto’s listing page.
 """
-import os, requests, yaml, textwrap, sys, pathlib
+import os
+import requests
+import yaml
+import sys
+import pathlib
+from typing import List, Dict, Any
 
-#ORCID_ID = os.getenv("ORCID_ID") or sys.exit("Missing ORCID_ID env var")
-ORCID_ID = "0000-0001-9162-262X"
+# --- CONFIGURATION ---
+ORCID_ID = os.getenv("ORCID_ID", "0000-0001-9162-262X")
+OUTPUT_DIR = pathlib.Path("data")
+ARTICLES_FILE = OUTPUT_DIR / "articles.yml"
+PREPRINTS_FILE = OUTPUT_DIR / "preprints.yml"
+OTHERS_FILE = OUTPUT_DIR / "others.yml"
+TIMEOUT = 30
 
-# OpenAlex returns up to 200 items per page; loop until 'next' is null
-base = f"https://api.openalex.org/works?filter=author.orcid:{ORCID_ID}&per-page=200"
-url  = base + "&cursor=*"
+KIND_MAP = {
+    "journal-article": "article",
+    "article": "article",
+    "report": "report",
+    "book-chapter": "chapter",
+    "book": "book",
+    "posted-content": "preprint",
+    "preprint": "preprint",
+    "proceedings-article": "talk",
+}
 
-records, seen = [], set()
+def fetch_publications(orcid: str) -> List[Dict[str, Any]]:
+    """Fetches all public works for a given ORCID from the OpenAlex API."""
+    records, seen = [], set()
+    base_url = f"https://api.openalex.org/works?filter=author.orcid:{orcid}&per-page=200"
+    url = base_url + "&cursor=*"
 
-while url:
-    page = requests.get(url, timeout=30).json()
-    for w in page["results"]:
-        # deduplicate via canonical OpenAlex ID
-        if w["id"] in seen:
-            continue
-        seen.add(w["id"])
-        
-        authors = "; ".join(a["author"]["display_name"] for a in w["authorships"])
-        
-        # --- classify ------------------------------------------------------------
-        # OpenAlex uses a controlled vocabulary in w["type"]
-        # • "journal-article"          → peer-reviewed paper
-        # • "posted-content"           → preprint (arXiv, bioRxiv, ChemRxiv…)
-        # • "proceedings-article"      → conference paper / talk abstract
-        # • everything else            → leave as-is for now
-        kind_map = {
-            "article"   : "article",
-            "report"   : "report",
-            "book-chapter"      : "chapter",
-            "book"              : "book",
-            "preprint"    : "preprint",
-            "proceedings-article": "talk",          # e.g. Bulletin of the APS
-        }
-        kind = kind_map.get(w["type"], w["type"])    # fall back to raw type
+    while url:
+        try:
+            response = requests.get(url, timeout=TIMEOUT)
+            response.raise_for_status()
+            page = response.json()
 
-        # -------- safe journal lookup (can be None) ------------------------------
-        pl   = w.get("primary_location") or {}
-        src  = pl.get("source") or {}
-        journal = src.get("display_name")
+            for work in page.get("results", []):
+                if work["id"] in seen:
+                    continue
+                seen.add(work["id"])
+                records.append(work)
 
-        # -------- assemble record -------------------------------------------------
-        rec = dict(
-            title   = w["title"],
-            author  = authors,
-            year    = w["publication_year"],
-            date    = w["publication_date"],
-            journal = journal,
-            doi     = w.get("doi"),
-            href    = f"https://doi.org/{w['doi']}" if w.get("doi") else w["id"],
-            path    = w.get("doi"),
-            kind    = kind,                         # ← NEW TAG
-        )
-        records.append(rec)
+            cursor = page.get("meta", {}).get("next_cursor")
+            url = f"{base_url}&cursor={cursor}" if cursor else None
 
-    cursor = page.get("meta", {}).get("next_cursor")
-    url = f"{base}&cursor={cursor}" if cursor else None
+        except requests.exceptions.RequestException as e:
+            print(f"Error fetching data from OpenAlex: {e}", file=sys.stderr)
+            sys.exit(1)
 
-# newest → oldest
-records.sort(key=lambda r: r["year"] or 0, reverse=True)
+    return records
 
-out = pathlib.Path("data/publications.yml")
-out.parent.mkdir(exist_ok=True, parents=True)
-yaml.safe_dump(records, out.open("w", encoding="utf-8"),
-               allow_unicode=True, sort_keys=False)
+def classify_and_format_publication(work: Dict[str, Any]) -> Dict[str, Any]:
+    """Classifies and formats a single publication record."""
+    authors = "; ".join(a["author"]["display_name"] for a in work.get("authorships", []))
+    kind = KIND_MAP.get(work.get("type"), work.get("type", "other"))
+    
+    primary_location = work.get("primary_location") or {}
+    source = primary_location.get("source") or {}
+    journal = source.get("display_name")
 
-print(f"Wrote {len(records)} records → {out}")
+    doi = work.get("doi")
+    href = f"https://doi.org/{doi}" if doi else work.get("id")
 
-# --- after the big records list is finished ------------------------------
-articles = [r for r in records if r["kind"] == "article"]
-preprints = [r for r in records if r["kind"] == "preprint"]
-others = [r for r in records if r["kind"] != "paper"]
+    return {
+        "title": work.get("title"),
+        "author": authors,
+        "year": work.get("publication_year"),
+        "date": work.get("publication_date"),
+        "journal": journal,
+        "doi": doi,
+        "href": href,
+        "path": doi,
+        "kind": kind,
+    }
 
-out_dir = pathlib.Path("data")
-out_dir.mkdir(exist_ok=True, parents=True)
+def write_yaml_files(records: List[Dict[str, Any]]):
+    """Sorts records and writes them to categorized YAML files."""
+    records.sort(key=lambda r: r.get("year") or 0, reverse=True)
 
-yaml.safe_dump(articles, (out_dir / "articles.yml").open("w", encoding="utf-8"),
-               allow_unicode=True, sort_keys=False)
-yaml.safe_dump(preprints, (out_dir / "preprints.yml").open("w", encoding="utf-8"),
-               allow_unicode=True, sort_keys=False)
-yaml.safe_dump(others, (out_dir / "others.yml").open("w", encoding="utf-8"),
-               allow_unicode=True, sort_keys=False)
+    articles = [r for r in records if r["kind"] == "article"]
+    preprints = [r for r in records if r["kind"] == "preprint"]
+    others = [r for r in records if r["kind"] not in ["article", "preprint"]]
 
-print(f"Wrote {len(articles)} peer-reviewed articles → data/papers.yml")
-print(f"Wrote {len(preprints)} preprints → data/preprints.yml")
-print(f"Wrote {len(others)} others → data/others.yml")
+    OUTPUT_DIR.mkdir(exist_ok=True, parents=True)
+
+    header = "# This file is automatically generated. Do not edit manually.
+
+"
+
+    for path, data, name in [
+        (ARTICLES_FILE, articles, "peer-reviewed articles"),
+        (PREPRINTS_FILE, preprints, "preprints"),
+        (OTHERS_FILE, others, "other publications"),
+    ]:
+        with path.open("w", encoding="utf-8") as f:
+            f.write(header)
+            yaml.safe_dump(data, f, allow_unicode=True, sort_keys=False)
+        print(f"Wrote {len(data)} {name} to {path}")
+
+
+def main():
+    """Main function to fetch, classify, and write publications."""
+    publications = fetch_publications(ORCID_ID)
+    formatted_publications = [classify_and_format_publication(p) for p in publications]
+    write_yaml_files(formatted_publications)
+
+if __name__ == "__main__":
+    main()
