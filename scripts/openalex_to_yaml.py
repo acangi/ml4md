@@ -72,7 +72,7 @@ def classify_and_format_publication(work: Dict[str, Any]) -> Dict[str, Any]:
         journal = abbreviator(journal, remove_part=True)
 
     # Normalize specific journal abbreviations
-    if journal in ["Phys. rev., B.", "Physical rev., B"]:
+    if journal in ["Phys. rev., B.", "Physical rev., B", "Phys. rev., B./Physical rev., B"]:
         journal = "Phys. Rev. B"
 
     # Reclassify based on journal for specific cases
