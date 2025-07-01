@@ -10,6 +10,7 @@ import sys
 import pathlib
 from typing import List, Dict, Any
 from pyiso4.ltwa import Abbreviate
+import re
 
 # Create an abbreviator instance globally
 abbreviator = Abbreviate.create()
@@ -72,9 +73,9 @@ def classify_and_format_publication(work: Dict[str, Any]) -> Dict[str, Any]:
         journal = abbreviator(journal, remove_part=True)
 
     # Normalize specific journal abbreviations
-    if journal in ["Phys. rev., B.", "Physical rev., B", "Phys. rev., B./Physical rev., B"]:
+    if journal and re.match(r"Phys\. rev\., B\.?/?Physical rev\., B", journal):
         journal = "Phys. Rev. B"
-    elif journal in ["Phys. rev., A/Physical rev. A"]:
+    elif journal and re.match(r"Phys\. rev\., A/?Physical rev\., A", journal):
         journal = "Phys. Rev. A"
 
     # Reclassify based on journal for specific cases
