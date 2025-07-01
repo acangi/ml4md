@@ -12,7 +12,7 @@ from typing import List, Dict, Any
 
 # --- CONFIGURATION ---
 ORCID_ID = os.getenv("ORCID_ID", "0000-0001-9162-262X")
-OUTPUT_DIR = pathlib.Path("../data")
+OUTPUT_DIR = pathlib.Path("data")
 ARTICLES_FILE = OUTPUT_DIR / "articles.yml"
 PREPRINTS_FILE = OUTPUT_DIR / "preprints.yml"
 OTHERS_FILE = OUTPUT_DIR / "others.yml"
@@ -107,6 +107,7 @@ def write_yaml_files(records: List[Dict[str, Any]]):
             # Use a more standard YAML dumping approach
             f.write("\n")
             yaml.dump(data, f, allow_unicode=True, sort_keys=False, indent=2)
+        print(f"Wrote {len(data)} {name} to {path}")
 
 
 def main():
