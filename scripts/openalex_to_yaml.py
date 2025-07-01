@@ -74,6 +74,8 @@ def classify_and_format_publication(work: Dict[str, Any]) -> Dict[str, Any]:
     # Normalize specific journal abbreviations
     if journal in ["Phys. rev., B.", "Physical rev., B", "Phys. rev., B./Physical rev., B"]:
         journal = "Phys. Rev. B"
+    elif journal in ["Phys. rev., A/Physical rev. A"]:
+        journal = "Phys. Rev. A"
 
     # Reclassify based on journal for specific cases
     if kind == "article" and (journal in [None, "APS", "Bull. Am. Phys. Soc.", "APS March Meeting Abstracts", "APS Div. Plasma Phys. Meet. Abstr.", "APS March Meet. Abstr."] or 
