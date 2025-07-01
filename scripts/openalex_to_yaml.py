@@ -66,7 +66,11 @@ def classify_and_format_publication(work: Dict[str, Any]) -> Dict[str, Any]:
     journal = source.get("display_name")
 
     # Reclassify based on journal for specific cases
-    if kind == "article" and journal in [None, "APS", "Bulletin of the American Physical Society"]:
+    if kind == "article" and (journal in [None, "APS", "Bulletin of the American Physical Society"] or 
+                               (journal and (journal.startswith("APS Division") or 
+                                             journal.startswith("OSTI") or 
+                                             journal.startswith("arXiv") or 
+                                             journal.startswith("PhDT")))):
         kind = "talk"
 
     doi = work.get("doi")
