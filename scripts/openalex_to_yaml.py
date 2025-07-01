@@ -99,7 +99,9 @@ def write_yaml_files(records: List[Dict[str, Any]]):
     ]:
         with path.open("w", encoding="utf-8") as f:
             f.write(header)
-            yaml.safe_dump(data, f, allow_unicode=True, sort_keys=False)
+            yaml.safe_dump(
+                data, f, allow_unicode=True, sort_keys=False, default_style='"'
+            )
         print(f"Wrote {len(data)} {name} to {path}")
 
 
