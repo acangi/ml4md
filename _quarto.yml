@@ -9,7 +9,7 @@ jupyter:
 
 website:
   title: "Machine Learning for Materials Design — Cangi Lab"
-  site-url: "https://example.org"          # ← replace with your real domain
+  site-url: "https://acangi.github.io/ml4md"          # ← replace with your real domain
   page-navigation: true
   open-graph: true                          # social cards
   search: true
@@ -24,6 +24,8 @@ website:
         menu:
           - href: research/index.qmd
             text: Overview
+          - href: research/highlights.qmd
+            text: Research Highlights
         icon: rocket-takeoff
       - href: people.qmd
         text: People
