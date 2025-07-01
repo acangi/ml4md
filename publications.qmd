@@ -7,8 +7,10 @@ listing:
   sort: "date desc"
   date-format: "MMM, YYYY"
   fields: [date, title, author]           # what appears on each card
+  field-display-names:
+    author: Authors
   filter-ui: [title, author]              # search box
-  #categories: true                        # auto side‑bar filters
+  #categories: true                       # auto side‑bar filters
   page-size: 10                           # pagination
 ---
 

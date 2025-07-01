@@ -1,7 +1,7 @@
 project:
   type: website
   pre-render:
-    #- python scripts/bib2yaml.py
+    #- python scripts/bib_to_yaml.py
     - python scripts/openalex_to_yaml.py
 
 jupyter:

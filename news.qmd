@@ -1,6 +1,6 @@
 ---
 title: "News"
-toc: true
+toc: false
 listing:
   contents: "news/**/index.qmd"
   sort: "date desc"
