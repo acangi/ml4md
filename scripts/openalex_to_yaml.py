@@ -12,7 +12,7 @@ from typing import List, Dict, Any
 
 # --- CONFIGURATION ---
 ORCID_ID = os.getenv("ORCID_ID", "0000-0001-9162-262X")
-OUTPUT_DIR = pathlib.Path("data")
+OUTPUT_DIR = pathlib.Path("../data")
 ARTICLES_FILE = OUTPUT_DIR / "articles.yml"
 PREPRINTS_FILE = OUTPUT_DIR / "preprints.yml"
 OTHERS_FILE = OUTPUT_DIR / "others.yml"
