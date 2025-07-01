@@ -9,6 +9,10 @@ import yaml
 import sys
 import pathlib
 from typing import List, Dict, Any
+from pyiso4.ltwa import Abbreviate
+
+# Create an abbreviator instance globally
+abbreviator = Abbreviate.create()
 
 # --- CONFIGURATION ---
 ORCID_ID = os.getenv("ORCID_ID", "0000-0001-9162-262X")
@@ -64,6 +68,8 @@ def classify_and_format_publication(work: Dict[str, Any]) -> Dict[str, Any]:
     primary_location = work.get("primary_location") or {}
     source = primary_location.get("source") or {}
     journal = source.get("display_name")
+    if journal:
+        journal = abbreviator(journal, remove_part=True)
 
     # Reclassify based on journal for specific cases
     if kind == "article" and (journal in [None, "APS", "Bulletin of the American Physical Society", "APS March Meeting Abstracts"] or 
