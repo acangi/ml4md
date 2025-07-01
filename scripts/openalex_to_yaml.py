@@ -66,7 +66,12 @@ def classify_and_format_publication(work: Dict[str, Any]) -> Dict[str, Any]:
     journal = source.get("display_name")
 
     doi = work.get("doi")
-    href = f"https://doi.org/{doi}" if doi else work.get("id")
+    if doi and doi.startswith("https://doi.org/"):
+        href = doi
+    elif doi:
+        href = f"https://doi.org/{doi}"
+    else:
+        href = work.get("id")
 
     return {
         "title": work.get("title"),
@@ -99,10 +104,9 @@ def write_yaml_files(records: List[Dict[str, Any]]):
     ]:
         with path.open("w", encoding="utf-8") as f:
             f.write(header)
-            yaml.safe_dump(
-                data, f, allow_unicode=True, sort_keys=False, width=4096, default_style='"'
-            )
-        print(f"Wrote {len(data)} {name} to {path}")
+            # Use a more standard YAML dumping approach
+            f.write("\n")
+            yaml.dump(data, f, allow_unicode=True, sort_keys=False, indent=2)
 
 
 def main():
