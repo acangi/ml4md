@@ -65,6 +65,10 @@ def classify_and_format_publication(work: Dict[str, Any]) -> Dict[str, Any]:
     source = primary_location.get("source") or {}
     journal = source.get("display_name")
 
+    # Reclassify based on journal for specific cases
+    if kind == "article" and journal in [None, "APS", "Bulletin of the American Physical Society"]:
+        kind = "talk"
+
     doi = work.get("doi")
     if doi and doi.startswith("https://doi.org/"):
         href = doi
