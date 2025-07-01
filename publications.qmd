@@ -6,7 +6,7 @@ listing:
   grid-columns: 1                         # tweak for your theme / screen
   sort: "date desc"
   date-format: "MMM, YYYY"
-  fields: [date, title, author]           # what appears on each card
+  fields: [date, title, author, journal]           # what appears on each card
   field-display-names:
     author: Authors
   filter-ui: [title, author]              # search box
