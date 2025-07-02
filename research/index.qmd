@@ -2,7 +2,7 @@
 title: "Research Overview"
 ---
 
-Our lab is leverages machine learning and high-performance computing simulations to accelerate the discovery of new materials. We are particularly focused on the following key research thrusts:
+Our lab leverages machine learning and high-performance computing simulations to accelerate the discovery of new materials. We are particularly focused on the following key research thrusts:
 
 ## Machine Learning and Electronic Structure Methods
 
