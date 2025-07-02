@@ -42,6 +42,8 @@ website:
         icon: globe
   page-footer:
     center: "© 2025 Attila Cangi · Built with [Quarto](https://quarto.org)"
+  resources:
+    - google97a5e9e571246cd6.html
 
 format:
   html:
