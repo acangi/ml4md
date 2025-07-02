@@ -6,9 +6,9 @@ about:
   image-shape: round
 ---
 
-The Machine Learning for Materials Design department leverages artificial intelligence and high-performance computing to tackle key challenges in materials science.
+Our lab leverages artificial intelligence and high-performance computing to tackle key challenges in materials science.
 We develop scalable machine learning methods that accelerate first-principles simulations of electronic and atomistic structures, with the overarching goal of discovering and designing novel materials.
 
 Accurately modeling the electronic structure is crucial, as it fundamentally determines material properties such as strength, conductivity, and magnetism.
 
-Our research group is a [research department](https://www.casus.science/?page_id=4660){target="_blank"} of the [Center for Advanced Systems Understanding](https://www.casus.science){target="_blank"} at the [Helmholtz-Zentrum Dresden-Rossendorf](https://www.hzdr.de){target="_blank"}.
+Our lab is a [research department](https://www.casus.science/?page_id=4660){target="_blank"} of the [Center for Advanced Systems Understanding](https://www.casus.science){target="_blank"} at the [Helmholtz-Zentrum Dresden-Rossendorf](https://www.hzdr.de){target="_blank"}.

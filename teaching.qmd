@@ -9,4 +9,4 @@ listing:
   image-height: 150px
 ---
 
-More detailed pages coming soon!
+More details coming soon!

@@ -9,22 +9,22 @@ Our lab is leverages machine learning and high-performance computing simulations
 We develop the **Materials Learning Algorithms (MALA)**, a physics-informed machine learning framework that aims to accelerate conventional density functional theory simulations. Using neural networks, MALA efficiently computes the electronic structure of matter, enabling accurate determination of energies and forces that are critical for atomistic simulations. MALA is a scalable method that balances accuracy and speed, overcoming the limitations of conventional density functional theory simulations. It combines the scalability of atomistic simulations with the high accuracy of first-principles methods, paving the way for electronic structure calculations at unprecedented length and time scales. This advancement in materials modeling opens up a broad range of potential applications.
 
 *   **Key Areas:** Density Functional Theory, Neural Networks, Atomistic Simulations, High-Performance Computing
-*   **Related Projects:** [Link to specific highlights in `highlights.qmd` or relevant publications]
-
-::: {layout-ncol=2}
-![](path/to/mala_diagram.png){width=80%}
-:::
+<> *   **Related Projects:** [Link to specific highlights in `highlights.qmd` or relevant publications]
+<> 
+<> ::: {layout-ncol=2}
+<> ![](path/to/mala_diagram.png){width=80%}
+<> :::
 
 ## Atomistic Molecular Spin Dynamics
 
 By combining first-principles data generation with machine learning models, we create interatomic potentials for high-performance molecular-spin dynamics simulations. This methodology allows us to simulate the dynamics of ions and of electronic spins simultaneously. We utilize this method for tackling a wide range of applications, including the analysis of material strength, the investigation of transport properties in nanoscale systems, and the simulation of magneto-structural phase transitions relevant for developing ultrafast magnetic storage devices.
 
 *   **Key Areas:** Molecular Dynamics, Spin Dynamics, Interatomic Potentials, Magnetic Materials
-*   **Related Projects:** [Link to specific highlights in `highlights.qmd` or relevant publications]
-
-::: {layout-ncol=2}
-![](path/to/spin_dynamics_image.png){width=80%}
-:::
+<> *   **Related Projects:** [Link to specific highlights in `highlights.qmd` or relevant publications]
+<> 
+<> ::: {layout-ncol=2}
+<> ![](path/to/spin_dynamics_image.png){width=80%}
+<> :::
 
 ## Explorative Artificial Intelligence for Materials Modeling
 
@@ -35,12 +35,12 @@ We apply neural operators to develop machine learning representations of electro
 We leverage generative and reinforcement learning techniques to design models that drive autonomous materials discovery.
 
 *   **Key Areas:** Time-Dependent Density Functional Theory, Exchange-Correlation Functional, AI for Materials Discovery
-*   **Related Projects:** [Link to specific highlights in `highlights.qmd` or relevant publications]
-
-::: {layout-ncol=2}
-![](path/to/ai_materials_image.png){width=80%}
-:::
+<> *   **Related Projects:** [Link to specific highlights in `highlights.qmd` or relevant publications]
+<> 
+<> ::: {layout-ncol=2}
+<> ![](path/to/ai_materials_image.png){width=80%}
+<> :::
 
 ---
 
-Our research is driven by a passion for fundamental discovery and a commitment to developing practical solutions for real-world materials challenges. We are always seeking talented individuals to join our team and collaborate on exciting new projects. Please explore our [Research Highlights](research/highlights.qmd) for more detailed information on our ongoing work, or visit our [Publications](../publications.qmd) page for a comprehensive list of our scientific contributions.
+Our research is driven by a passion for fundamental discovery and a commitment to developing practical solutions for real-world materials challenges. We are always seeking talented individuals to join our team and collaborate on exciting new projects. Please explore our [Research Highlights](research/highlights.qmd) for more detailed information on our ongoing work, or visit our [Publications](publications.qmd) page for a comprehensive list of our scientific contributions.

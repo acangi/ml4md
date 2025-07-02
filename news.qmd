@@ -9,4 +9,4 @@ listing:
   image-height: 150px
 ---
 
-Latest news from our department.
+Latest news from our lab.
