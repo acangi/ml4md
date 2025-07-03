@@ -37,6 +37,10 @@ jobs:
       - name: Harvest publications from OpenAlex
         run: python scripts/openalex_to_yaml.py
 
+      # Debug: List contents of styles directory
+      - name: List styles directory
+        run: ls -l styles/
+
       # 6 Render the Quarto site
       - name: Render site
         run: quarto render
