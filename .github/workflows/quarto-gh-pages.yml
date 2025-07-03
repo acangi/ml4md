@@ -41,6 +41,13 @@ jobs:
       - name: List styles directory
         run: ls -l styles/
 
+      # Install Node.js and Sass
+      - name: Install Node.js and Sass
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - run: npm install -g sass
+
       # 6 Render the Quarto site
       - name: Render site
         run: quarto render --verbose
