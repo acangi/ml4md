@@ -3,7 +3,7 @@ title: "oha! The adventure of science"
 #description: " "
 #author: " "
 date: "2022-07-12"
-image: lange_nacht_görlitz.png
+image: lange_nacht_goerlitz.png
 draft: false
 categories:
   - outreach

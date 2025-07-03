@@ -30,7 +30,7 @@ By combining first-principles data generation with machine learning models, we c
 
 ## Explorative Artificial Intelligence for Materials Modeling
 
-In this research thrust, we apply state-of-the-art machine learning methods to advance first-principles simulations and accelerate materials discovery. 
+We apply state-of-the-art machine learning methods to advance first-principles simulations and accelerate materials discovery. 
 For example:
 We use physics-informed neural networks and other autoregressive models to simulate how electrons in materials respond to optical laser light.
 We apply neural operators to develop machine learning representations of electron-electron interactions, specifically targeting the exchange-correlation energy.

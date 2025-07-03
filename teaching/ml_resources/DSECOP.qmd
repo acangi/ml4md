@@ -11,7 +11,7 @@ categories:
 
 ![](/teaching/ml_resources/DSECOP.png){.course-thumbnail}
 
-[Karan Shah](/people/current/karan_shah.qmd) developed teaching materials on machine learning for the undergraduate physics curriculum as part of his fellowship with the [Data Science Education Community of Practice](https://dsecop.org/){target="_blank"} (DSECOP) program of the American Physical Society (APS). His modules are provided below. Additional teaching modules developed by other DSECOP fellows are available in the [DSECOP GitHub repository]((https://github.com/GDS-Education-Community-of-Practice/DSECOP)){target="_blank"}.
+[Karan Shah](/people/current/karan_shah.qmd) developed teaching materials on machine learning for the undergraduate physics curriculum as part of his fellowship with the [Data Science Education Community of Practice](https://dsecop.org/){target="_blank"} (DSECOP) program of the American Physical Society (APS). His modules are provided below. Additional teaching modules developed by other DSECOP fellows are available in the [DSECOP GitHub repository](https://github.com/GDS-Education-Community-of-Practice/DSECOP){target="_blank"}.
 
 
 ### Course Modules
