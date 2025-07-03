@@ -41,10 +41,6 @@ jobs:
       - name: List styles directory
         run: ls -l styles/
 
-      # Install Sass for SCSS compilation
-      - name: Install Sass
-        run: sudo apt-get update && sudo apt-get install -y sass
-
       # 6 Render the Quarto site
       - name: Render site
         run: quarto render
