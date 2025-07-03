@@ -1,0 +1,22 @@
+---
+title: "Probing Iron in Earth’s Core with Molecular-Spin Dynamics"
+#author: "Attila Cangi"
+subtitle: Proc. Natl. Acad. Sci. 121, e2408897121 (2024)
+date: "2024-12-12"
+image: "2412_iron_pnas.png" # Using an existing image as a placeholder
+categories:
+  - Quantum Materials
+  - Molecular Dynamics
+  - Spin Dynamics
+  - Magnetic Materials
+  - Machine Learning
+---
+![](2412_iron_pnas.png){.course-thumbnail}
+
+
+Despite the importance of magnetism in numerous materials, magnetic effects have been absent in molecular-dynamics studies. Herein, we implement a molecular-spin dynamics methodology to accurately resolve, across large regions of phase-space, structural/magnetic transitions, and elastic/transport properties for iron. This endeavor is critically important for reconciling different theories of geodynamo operation, augmenting decades of deep experimental investigation. Our approach offers an explicit and scalable treatment for longitudinal spin fluctuations, which play a more pronounced role in BCC-iron, a phase hypothesized to exist near the melt transition at Earth-core pressures. Leveraging first-principal calculations to build an Fe molecular-spin dynamics model, we resolve the high-pressure BCC metastability (>240 GPa), while accurately recovering compressional wave-velocity, bulk moduli, viscosity, and electrical conductivity.
+
+Dynamic compression of iron to Earth-core conditions is one of the few ways to gather important elastic and transport properties needed to uncover key mechanisms surrounding the geodynamo effect. Herein, a machine-learned ab initio derived molecular-spin dynamics (MSD) methodology with explicit treatment for longitudinal spin-fluctuations is utilized to probe the dynamic phase-diagram of iron. This framework uniquely enables an accurate resolution of the phase-transition kinetics and Earth-core elastic properties, as highlighted by compressional wave velocity and adiabatic bulk moduli measurements. In addition, a unique coupling of MSD with time-dependent density functional theory enables gauging electronic transport properties, critically important for resolving geodynamo dynamics.
+
+ 
+[Read the full paper](https://doi.org/10.1073/pnas.2408897121){target="_blank"}

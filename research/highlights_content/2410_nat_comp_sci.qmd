@@ -1,0 +1,15 @@
+---
+title: "Bridging the Gap in Electronic Structure Calculations via Machine Learning"
+#author: "Attila Cangi"
+subtitle: Nat. Comput. Sci. 4, 729 (2024)
+date: "2024-10-10"
+image: "2410_nat_comp_sci.webp" # Using an existing image as a placeholder
+categories:
+  - Quantum Materials
+  - Electronic Structure Theory
+  - Machine Learning
+---
+![](2410_nat_comp_sci.webp){.course-thumbnail}
+
+
+[Read the perspective paper](https://doi.org/10.1038/s43588-024-00707-3){target="_blank"}

@@ -1,0 +1,17 @@
+---
+title: "Predicting Electronic Structures at Any Length Scale with Machine Learning"
+#author: "Attila Cangi"
+subtitle: npj Comput. Mater. 9, 115 (2023)
+date: "2023-06-27"
+image: "2306_npj_comput_mater.png" # Using an existing image as a placeholder
+categories:
+  - Quantum Materials
+  - Electronic Structure Theory
+  - Machine Learning
+---
+![](2306_npj_comput_mater.png){.course-thumbnail}
+
+The properties of electrons in matter are of fundamental importance. They give rise to virtually all material properties and determine the physics at play in objects ranging from semiconductor devices to the interior of giant gas planets. Modeling and simulation of such diverse applications rely primarily on density functional theory (DFT), which has become the principal method for predicting the electronic structure of matter. While DFT calculations have proven to be very useful, their computational scaling limits them to small systems. We have developed a machine learning framework for predicting the electronic structure on any length scale. It shows up to three orders of magnitude speedup on systems where DFT is tractable and, more importantly, enables predictions on scales where DFT calculations are infeasible. Our work demonstrates how machine learning circumvents a long-standing computational bottleneck and advances materials science to frontiers intractable with any current solutions.
+
+
+[Read the paper](https://doi.org/10.1038/s41524-023-01070-z){target="_blank"}
