@@ -39,7 +39,7 @@ jobs:
 
       # 6 Render the Quarto site
       - name: Render site
-        run: quarto render
+        run: quarto render --css styles/custom.scss
 
       # 7 Upload the built site as a Pages artifact
       - name: Upload GitHub Pages artifact
