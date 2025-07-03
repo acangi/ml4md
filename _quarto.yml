@@ -46,7 +46,7 @@ website:
 format:
   html:
     theme: cosmo
-    css: styles/custom.scss
+    css: styles/custom.scss?v=1
     toc: false
     include-in-header: _includes/head_meta.html
 
