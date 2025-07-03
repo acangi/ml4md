@@ -8,11 +8,19 @@
 */
 #listing-current .card-img,
 #listing-alumni .card-img,
-#listing-summer_2025 img.card-img,
-.course-thumbnail {
+#listing-summer_2025 img.card-img {
   display: block !important;
   width: 120px !important;
   height: 120px !important;
+  border-radius: 50% !important;
+  object-fit: cover !important;
+  margin: 1rem auto !important; /* 1rem top/bottom margin, auto left/right for centering */
+}
+
+.course-thumbnail {
+  display: block !important;
+  width: 240px !important;
+  height: 240px !important;
   border-radius: 50% !important;
   object-fit: cover !important;
   margin: 1rem auto !important; /* 1rem top/bottom margin, auto left/right for centering */
