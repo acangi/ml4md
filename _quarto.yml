@@ -3,6 +3,7 @@ project:
   pre-render:
     #- python scripts/bib_to_yaml.py
     - python scripts/openalex_to_yaml.py
+    - sass styles/custom.scss:_site/styles/custom.css
 
 jupyter:
   kernel: quarto-env
@@ -46,7 +47,7 @@ website:
 format:
   html:
     theme: cosmo
-    css: styles/custom.scss
+    css: styles/custom.css
     toc: false
     include-in-header: _includes/head_meta.html
 
