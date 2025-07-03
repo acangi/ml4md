@@ -1,0 +1,22 @@
+---
+title: "Nanostructured Materials"
+#subtitle: "An Introduction to Machine Learning"
+#author: "Attila Cangi"
+#date: "2025-07-03"
+image: NanoMat_thumb.png
+categories:
+  - Machine Learning
+  - Materials Science
+---
+
+I contributed to the course [Nanostructured Materials](https://bildungsportal.sachsen.de/opal/auth/RepositoryEntry/23056744454/CourseNode/101408088213533){target="_blank"} offered by the [Chair of Nanostructured Materials Engineering](https://tu-dresden.de/ing/maschinenwesen/ifww/wnm?set_language=en){target="_blank"} at Dresden University of Technology (TU Dresden).
+My contributions included delivering two lectures on machine learning and supervising scientific projects focused on AI-driven prediction of material properties. Lecture slides and project instructions are provided below.
+
+### Lectures
+
+*   Lecture 10: Machine Learning Basics ([PDF](NanoMat_Lecture10_ ML_Basics_16062025_AC.pdf){target="_blank"})
+*   Lecture 11: Artificial Neural Networks ([PDF](NanoMat_Lecture11_Artificial_Neural_Networks_24062025_AC.pdf){target="_blank"})
+
+### Scientific Project
+
+*   Scientific Projects: AI-Driven Prediction of Material Properties ([PDF](Scientific_Project_Descriptions.pdf){target="_blank"})

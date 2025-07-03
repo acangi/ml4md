@@ -1,0 +1,14 @@
+---
+title: "Test Listing Page"
+listing:
+  - id: test_summer_2025
+    contents: teaching/summer_2025/*.qmd
+    type: default
+    sort: "date desc"
+    categories: false
+---
+
+## Test Summer Semester 2025
+
+::: {#test_summer_2025}
+:::

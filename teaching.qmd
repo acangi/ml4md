@@ -2,11 +2,54 @@
 title: "Teaching"
 toc: true
 listing:
-  contents: "teaching/**/index.qmd"
-  sort: "date desc"
-  type: default
-  categories: false
-  image-height: 150px
+  - id: summer_2025
+    contents: teaching/summer_2025/*.qmd
+    type: grid
+    sort: "date desc"
+    categories: false
+  - id: winter_2024_2025
+    contents: teaching/winter_2024_2025/*.qmd
+    type: default
+    sort: "date desc"
+    categories: false
+  - id: previous_years
+    contents: teaching/previous_years/*.qmd
+    type: default
+    sort: "date desc"
+    categories: false
+  - id: summer_schools
+    contents: teaching/summer_schools/*.qmd
+    type: default
+    sort: "date desc"
+    categories: false
+  - id: ml_resources
+    contents: teaching/ml_resources/*.qmd
+    type: default
+    sort: "date desc"
+    categories: false
 ---
 
-More details coming soon!
+## Summer Semester 2025
+
+::: {#summer_2025}
+:::
+
+## Winter Semester 2024/2025
+
+::: {#winter_2024_2025}
+:::
+
+## Previous Years
+
+::: {#previous_years}
+:::
+
+## Summer Schools
+
+::: {#summer_schools}
+:::
+
+## ML Resources
+
+::: {#ml_resources}
+:::
