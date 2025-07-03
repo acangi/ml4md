@@ -1,17 +1,23 @@
 /*-- scss:rules --*/
 
 /*
-  This rule targets the profile images directly to ensure they are
-  uniform, circular, centered, and have vertical spacing.
-  - `display: block` allows `margin: auto` to work for centering.
-  - `!important` is used to override Quarto's default inline styles.
+  This rule targets the image directly within the listing items.
+  The !important flag is crucial to override Quarto's inline styles.
 */
-#listing-current .card-img,
-#listing-alumni .card-img {
-  display: block !important;
+.quarto-listing-item img {
   width: 120px !important;
   height: 120px !important;
   border-radius: 50% !important;
   object-fit: cover !important;
-  margin: 1rem auto !important; /* 1rem top/bottom margin, auto left/right for centering */
+  display: block !important; /* Ensure it behaves as a block element for margin: auto */
+  margin: 1rem auto !important; /* Center horizontally and add vertical margin */
+}
+
+/*
+  Additionally, ensure the parent <p> tag (card-img-top) doesn't interfere
+  with the image's centering or sizing. This might be redundant but adds robustness.
+*/
+.card-img-top {
+  padding: 0 !important; /* Remove any default padding */
+  text-align: center !important; /* Fallback for centering if display: block/margin: auto isn't enough */
 }
