@@ -1,25 +1,26 @@
 ---
 title: "People"
 toc: false
+css: styles/custom.scss
 listing:
   - id: current
     contents: "people/current/*.qmd"
-    type: table
+    type: grid
     sort-ui: false
     filter-ui: false
     sort: false
-    image-height: 100px
+
     fields: [image, title, subtitle]
     field-display-names: 
       title: "Name"
       subtitle: "Role"
   - id: alumni
     contents: "people/alumni/*.qmd"
-    type: table
+    type: grid
     sort-ui: false
     filter-ui: false
     sort: ended desc
-    image-height: 50px
+    
     fields: [image, title, subtitle, started, ended, lkp]
     field-display-names: 
       title: "Name"

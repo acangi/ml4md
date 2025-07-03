@@ -1,34 +1,17 @@
-.person-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
-  gap: 1.5rem;
-}
-.person-box {
-  text-align: center;
-  padding: 1rem;
-  border: 1px solid #e0e0e0;
-  border-radius: 0.5rem;
-}
-.person-img {
-  width: 100px; /* Match the image-height in people.qmd */
-  height: 100px; /* Match the image-height in people.qmd */
-  object-fit: cover;
-  border-radius: 50%;
-  margin-bottom: 0.5rem;
-}
+/*-- scss:rules --*/
 
-.quarto-listing-table .quarto-listing-image.alumni img {
-  width: 50px; /* Match the image-height in people.qmd for alumni */
-  height: 50px; /* Match the image-height in people.qmd for alumni */
-}
-.person-name {
-  margin: 0.5rem 0 0.25rem;
-}
-.person-subtitle {
-  font-style: italic;
-  margin-bottom: 0.5rem;
-}
-.person-contact a {
-  text-decoration: none;
-  font-size: 0.9rem;
+/*
+  This rule targets the profile images directly to ensure they are
+  uniform, circular, centered, and have vertical spacing.
+  - `display: block` allows `margin: auto` to work for centering.
+  - `!important` is used to override Quarto's default inline styles.
+*/
+#listing-current .card-img,
+#listing-alumni .card-img {
+  display: block !important;
+  width: 120px !important;
+  height: 120px !important;
+  border-radius: 50% !important;
+  object-fit: cover !important;
+  margin: 1rem auto !important; /* 1rem top/bottom margin, auto left/right for centering */
 }
