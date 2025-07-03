@@ -43,7 +43,3 @@ We leverage generative and reinforcement learning techniques to design models th
 ![](path/to/ai_materials_image.png){width=80%}
 :::
 -->
-
----
-
-Our research is driven by a passion for fundamental discovery and a commitment to developing practical solutions for real-world materials challenges. We are always seeking talented individuals to join our team and collaborate on exciting new projects. Please explore our [Research Highlights](research/highlights.qmd) for more detailed information on our ongoing work, or visit our [Publications](publications.qmd) page for a comprehensive list of our scientific contributions.

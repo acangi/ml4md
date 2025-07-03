@@ -1,0 +1,22 @@
+---
+title: "IMPRS Summer School 2024"
+subtitle: "Machine Learning and Many-Body Systems in or out of Equilibrium"
+#author: "Attila Cangi"
+#date: "2025-07-03"
+image: IMPRS_QDC_2024.png
+categories:
+  - Machine Learning
+  - Materials Science
+  - Many-Body Physics
+---
+
+![](/teaching/summer_schools/IMPRS_QDC_2024.png){.course-thumbnail}
+
+I contributed to the [IMPRS Summer School 2024](https://www.imprs-pks.mpg.de/events/schools-and-workshops){target="_blank"} of the [International Max Planck Research School for Quantum Dynamics and Control](https://www.imprs-pks.mpg.de/){target="_blank"}.
+
+My contributions included delivering two lectures introducing introductory and more advanced aspects of machine learning. The Lecture slides are provided below.
+
+### Lectures
+
+*   Lecture: Introduction to Deep Learning ([PDF](IMPRS_QDC_Summer_School_01.pdf){target="_blank"})
+*   Lecture: Solving Differential Equations with Machine Learning ([PDF](IMPRS_QDC_Summer_School_02.pdf){target="_blank"})

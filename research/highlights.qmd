@@ -1,5 +1,17 @@
 ---
 title: "Research Highlights"
+css: /styles/custom.scss
+listing:
+  - id: highlights-listing
+    contents: highlights_content/*.qmd
+    type: default
+    sort: "date desc"
+    categories: false
+    fields: [image, title, subtitle, date]
+    date-format: "MMM, YYYY"
 ---
 
-More details coming soon!
+<br></br>
+
+::: {#highlights-listing}
+:::

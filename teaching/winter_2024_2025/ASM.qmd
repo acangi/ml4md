@@ -1,0 +1,21 @@
+---
+title: "Atomistic Simulation Methods"
+#subtitle: "An Introduction to Machine Learning"
+#author: "Attila Cangi"
+#date: "2025-07-03"
+image: ASM.png
+categories:
+  - Machine Learning
+  - Materials Science
+---
+
+![](/teaching/winter_2024_2025/ASM.png){.course-thumbnail}
+
+I contributed to the course [Atomistic Simulation Methods](https://wwwdek.inf.tu-dresden.de/mole-web/catalogs/wise2425/modules/cms-ce-el1/courses){target="_blank"} offered by the [Faculty of Computer Science](https://tu-dresden.de/ing/informatik){target="_blank"} at [Dresden University of Technology](https://tu-dresden.de/){target="_blank"} (TU Dresden).
+
+My contributions included delivering two lectures on machine learning interatomic potentials. The Lecture slides are provided below.
+
+### Lectures
+
+*   Lecture (Week 3): Machine Learning Interatomic Potentials 1 ([PDF](Lecture_ASM_W03_2025.pdf){target="_blank"})
+*   Lecture (Week 4): Machine Learning Interatomic Potentials 2 ([PDF](Lecture_ASM_W04_2025.pdf){target="_blank"})

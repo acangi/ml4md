@@ -8,10 +8,23 @@
 */
 #listing-current .card-img,
 #listing-alumni .card-img,
-#listing-summer_2025 img.card-img {
+#listing-summer_2025 img.card-img,
+#listing-winter_2024_2025 img.card-img,
+#listing-previous_years img.card-img,
+#listing-summer_schools img.card-img,
+#listing-ml_resources img.card-img {
   display: block !important;
   width: 120px !important;
   height: 120px !important;
+  border-radius: 50% !important;
+  object-fit: cover !important;
+  margin: 1rem auto !important; /* 1rem top/bottom margin, auto left/right for centering */
+}
+
+#listing-highlights-listing div.thumbnail img.thumbnail-image {
+  display: block !important;
+  width: 180px !important;
+  height: 180px !important;
   border-radius: 50% !important;
   object-fit: cover !important;
   margin: 1rem auto !important; /* 1rem top/bottom margin, auto left/right for centering */

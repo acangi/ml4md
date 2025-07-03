@@ -10,22 +10,26 @@ listing:
     categories: false
   - id: winter_2024_2025
     contents: teaching/winter_2024_2025/*.qmd
-    type: default
+    type: grid
+    fields: [title, subtitle, date, image]
     sort: "date desc"
     categories: false
   - id: previous_years
     contents: teaching/previous_years/*.qmd
-    type: default
+    type: grid
+    fields: [title, subtitle, date, image]
     sort: "date desc"
     categories: false
   - id: summer_schools
     contents: teaching/summer_schools/*.qmd
-    type: default
+    type: grid
+    fields: [title, subtitle, date, image]
     sort: "date desc"
     categories: false
   - id: ml_resources
     contents: teaching/ml_resources/*.qmd
-    type: default
+    type: grid
+    fields: [title, subtitle, date, image]
     sort: "date desc"
     categories: false
 ---

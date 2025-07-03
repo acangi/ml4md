@@ -1,0 +1,21 @@
+---
+title: "Data Science Education Community of Practice Modules"
+#subtitle: " "
+#author: "Attila Cangi"
+#date: "2025-07-03"
+image: DSECOP.png
+categories:
+  - Machine Learning
+  - Physics
+---
+
+![](/teaching/ml_resources/DSECOP.png){.course-thumbnail}
+
+[Karan Shah](/people/current/karan_shah.qmd) developed teaching materials on machine learning for the undergraduate physics curriculum as part of his fellowship with the [Data Science Education Community of Practice](https://dsecop.org/){target="_blank"} (DSECOP) program of the American Physical Society (APS). His modules are provided below. Additional teaching modules developed by other DSECOP fellows are available in the [DSECOP GitHub repository]((https://github.com/GDS-Education-Community-of-Practice/DSECOP)){target="_blank"}.
+
+
+### Course Modules
+
+*   [DSECOP 280: Automated Object Detection](https://github.com/GDS-Education-Community-of-Practice/DSECOP/tree/main/Automated_Object_Detection){target="_blank"}
+*   [DSECOP 236: Gaussian Processes and the Schrödinger Equation](https://github.com/GDS-Education-Community-of-Practice/DSECOP/tree/main/Gaussian_Processes_and_Schrodinger_Equation){target="_blank"}
+*   [DSECOP 235: Learning the Schrödinger Equation](https://github.com/GDS-Education-Community-of-Practice/DSECOP/tree/main/Learning_the_Schrodinger_Equation){target="_blank"}
