@@ -5,6 +5,7 @@ listing:
   - id: summer_2025
     contents: teaching/summer_2025/*.qmd
     type: grid
+    fields: [title, subtitle, date, image]
     sort: "date desc"
     categories: false
   - id: winter_2024_2025

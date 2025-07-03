@@ -7,7 +7,9 @@
   - `!important` is used to override Quarto's default inline styles.
 */
 #listing-current .card-img,
-#listing-alumni .card-img {
+#listing-alumni .card-img,
+#listing-summer_2025 img.card-img,
+.course-thumbnail {
   display: block !important;
   width: 120px !important;
   height: 120px !important;
