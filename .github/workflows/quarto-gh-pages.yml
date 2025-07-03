@@ -37,28 +37,9 @@ jobs:
       - name: Harvest publications from OpenAlex
         run: python scripts/openalex_to_yaml.py
 
-      # Debug: List contents of styles directory
-      - name: List styles directory
-        run: ls -l styles/
-
-      # Install Node.js and Sass
-      - name: Install Node.js and Sass
-        uses: actions/setup-node@v4
-        with:
-          node-version: '20'
-      - run: npm install -g sass
-
       # 6 Render the Quarto site
       - name: Render site
-        run: quarto render --verbose
-
-      # Debug: List contents after render
-      - name: List contents after render
-        run: |
-          echo "Contents of current directory:"
-          ls -l
-          echo "Contents of _site directory:"
-          ls -l _site/
+        run: quarto render
 
       # 7 Upload the built site as a Pages artifact
       - name: Upload GitHub Pages artifact
