@@ -1,0 +1,25 @@
+---
+title: "New Simulation Method Sharpens Our View into the Earth’s Interior"
+meta:
+  - name: description
+    content: "News and updates from the Machine Learning for Materials Design (ML4MD) Lab: Materials Science Method Could Advance Neuromorphic Computing for Artificial Intelligence"
+  - name: keywords
+    content: "ML4MD Lab, News, Materials Science Method Could Advance Neuromorphic Computing for Artificial Intelligence"
+description: "Materials Science Method Could Advance Neuromorphic Computing for Artificial Intelligence"
+#author: "Attila Cangi"
+date: "2024-12-16"
+image: 2024-12-16_PNAS.webp # Ensure this image has appropriate alt text if used directly in content
+draft: false
+categories:
+  - visitor
+  - award
+format:
+  html:
+    page-layout: full
+    toc: false
+---
+![](2024-12-16_PNAS.webp){.news-thumbnail alt="Image for Materials Science Method Could Advance Neuromorphic Computing for Artificial Intelligence"}
+
+How does the Earth generate its magnetic field? While the basic mechanisms seem to be understood, many details remain unresolved. Together with our collaborators from Sandia National Laboratories and the French Alternative Energies and Atomic Energy Commission (CEA), we have introduced a simulation method that promises new insights into the Earth’s core. The method simulates not only the behavior of atoms, but also the magnetic properties of materials. The approach is significant for geophysics, but could also support the development of future technologies such as neuromorphic computing — an innovative approach to more efficient AI systems. We published this work [PNAS](https://doi.org/10.1073/pnas.2408897121){target="_blank"}.
+
+Read more about this in the [press release](https://www.hzdr.de/db/Cms?pOid=73573&pNid=0){target="_blank"}
