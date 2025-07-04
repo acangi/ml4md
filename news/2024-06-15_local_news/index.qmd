@@ -1,5 +1,10 @@
 ---
 title: "Featured on Welcome Görlitz"
+meta:
+  - name: description
+    content: "News and updates from the Machine Learning for Materials Design (ML4MD) Lab: Featured on Welcome Görlitz."
+  - name: keywords
+    content: "ML4MD Lab, News, Welcome Görlitz, Tim Callow, Bartosz Brzoza"
 description: "Tim Callow and Bartosz Brzoza featured on local news"
 #author: "Attila Cangi"
 date: "2024-06-14"

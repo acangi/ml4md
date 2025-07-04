@@ -1,5 +1,10 @@
 ---
 title: "Bartosz Brzoza"
+meta:
+  - name: description
+    content: "Profile of Bartosz Brzoza from the Machine Learning for Materials Design (ML4MD) Lab."
+  - name: keywords
+    content: "ML4MD Lab, People, Bartosz Brzoza"
 sortby: "Brzoza, Bartosz"
 subtitle: "PhD Student"
 image: bartosz_brzoza.png # Ensure this image has appropriate alt text if used directly in content

@@ -1,5 +1,10 @@
 ---
 title: "Niclas Schlünzen"
+meta:
+  - name: description
+    content: "Profile of Niclas Schlünzen from the Machine Learning for Materials Design (ML4MD) Lab."
+  - name: keywords
+    content: "ML4MD Lab, People, Niclas Schlünzen"
 sortby: "Schlünzen, Niclas"
 subtitle: "Postdoctoral Researcher"
 image: niclas_schlünzen.png # Ensure this image has appropriate alt text if used directly in content

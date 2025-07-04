@@ -1,5 +1,10 @@
 ---
 title: "Sruthil Lal Sumabalakrishnan"
+meta:
+  - name: description
+    content: "Profile of Sruthil Lal Sumabalakrishnan from the Machine Learning for Materials Design (ML4MD) Lab."
+  - name: keywords
+    content: "ML4MD Lab, People, Sruthil Lal Sumabalakrishnan"
 sortby: "Sumabalakrishnan, Sruthil Lal"
 subtitle: "Visiting PhD Student"
 image: sruthil_lal_sumabalakrishnan.webp # Ensure this image has appropriate alt text if used directly in content

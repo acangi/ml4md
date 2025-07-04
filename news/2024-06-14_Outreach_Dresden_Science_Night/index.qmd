@@ -1,5 +1,10 @@
 ---
 title: "We are at the Dresden Science Night 2024!"
+meta:
+  - name: description
+    content: "News and updates from the Machine Learning for Materials Design (ML4MD) Lab: We are at the Dresden Science Night 2024!"
+  - name: keywords
+    content: "ML4MD Lab, News, Dresden Science Night, Outreach"
 #description: ""
 #author: "Attila Cangi"
 date: "2024-06-14"

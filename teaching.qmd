@@ -1,5 +1,10 @@
 ---
 title: "Teaching"
+meta:
+  - name: description
+    content: "Official website of the Machine Learning for Materials Design (ML4MD) Lab, led by Attila Cangi. Teaching materials and resources for machine learning and materials science."
+  - name: keywords
+    content: "Machine Learning, Materials Design, AI, Artificial Intelligence, Cangi Lab, Teaching, Education, Resources"
 toc: true
 title-block-author: false
 title-block-keywords: false

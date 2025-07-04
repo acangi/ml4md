@@ -1,5 +1,10 @@
 ---
 title: "Probing Iron in Earth’s Core with Molecular-Spin Dynamics"
+meta:
+  - name: description
+    content: "Research highlight from the Machine Learning for Materials Design (ML4MD) Lab: Probing Iron in Earth’s Core with Molecular-Spin Dynamics."
+  - name: keywords
+    content: "ML4MD Lab, Research, Highlight, Iron, Earth's Core, Molecular-Spin Dynamics, Magnetic Materials"
 #author: "Attila Cangi"
 subtitle: Proc. Natl. Acad. Sci. 121, e2408897121 (2024)
 date: "2024-12-12"

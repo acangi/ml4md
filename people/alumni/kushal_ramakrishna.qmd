@@ -1,5 +1,10 @@
 ---
 title: "Kushal Ramakrishna"
+meta:
+  - name: description
+    content: "Profile of Kushal Ramakrishna from the Machine Learning for Materials Design (ML4MD) Lab."
+  - name: keywords
+    content: "ML4MD Lab, People, Kushal Ramakrishna"
 sortby: "Ramakrishna, Kushal"
 subtitle: "Postdoctoral Researcher"
 image: kushal_ramakrishna.png # Ensure this image has appropriate alt text if used directly in content

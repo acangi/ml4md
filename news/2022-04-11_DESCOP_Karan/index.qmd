@@ -1,5 +1,10 @@
 ---
 title: "Karan Shah receives for APS fellowship"
+meta:
+  - name: description
+    content: "News and updates from the Machine Learning for Materials Design (ML4MD) Lab: Karan Shah receives for APS fellowship."
+  - name: keywords
+    content: "ML4MD Lab, News, Karan Shah, APS fellowship, DSECOP"
 #description: "HIDA Trainee Network Funding for Johannes Wasmer"
 #author: "Attila Cangi"
 date: "2022-04-11"

@@ -1,5 +1,10 @@
 ---
 title: "News"
+meta:
+  - name: description
+    content: "Official website of the Machine Learning for Materials Design (ML4MD) Lab, led by Attila Cangi. News section."
+  - name: keywords
+    content: "Machine Learning, Materials Design, AI, Artificial Intelligence, Cangi Lab, News"
 toc: false
 listing:
   contents: "news/**/index.qmd"

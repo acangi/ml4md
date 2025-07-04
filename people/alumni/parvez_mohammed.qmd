@@ -1,5 +1,10 @@
 ---
 title: "Parvez Mohammed"
+meta:
+  - name: description
+    content: "Profile of Parvez Mohammed from the Machine Learning for Materials Design (ML4MD) Lab."
+  - name: keywords
+    content: "ML4MD Lab, People, Parvez Mohammed"
 sortby: "Mohammed, Parvez"
 subtitle: "Student Research Assistant"
 image: parvez_mohammed.png # Ensure this image has appropriate alt text if used directly in content

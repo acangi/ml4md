@@ -1,5 +1,10 @@
 ---
 title: "Congratulations Lenz!"
+meta:
+  - name: description
+    content: "News and updates from the Machine Learning for Materials Design (ML4MD) Lab: Congratulations Lenz!"
+  - name: keywords
+    content: "ML4MD Lab, News, Congratulations Lenz!, PhD Defense, Lenz Fiedler"
 #description: "Lenz Fiedler Defends his Ph.D."
 #author: "Attila Cangi"
 date: "2024-08-28"

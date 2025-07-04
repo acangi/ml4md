@@ -1,5 +1,10 @@
 ---
 title: "Materials Learning Algorithms (MALA): Scalable Machine Learning for Electronic Structure Calculations in Large-Scale Atomistic Simulations"
+meta:
+  - name: description
+    content: "Research highlight from the Machine Learning for Materials Design (ML4MD) Lab: Materials Learning Algorithms (MALA): Scalable Machine Learning for Electronic Structure Calculations in Large-Scale Atomistic Simulations."
+  - name: keywords
+    content: "ML4MD Lab, Research, Highlight, Materials Learning Algorithms, MALA, Electronic Structure, Atomistic Simulations"
 #author: "Attila Cangi"
 subtitle: Comput. Phys. Commun. 314, 109654 (2025)
 date: "2025-05-09"

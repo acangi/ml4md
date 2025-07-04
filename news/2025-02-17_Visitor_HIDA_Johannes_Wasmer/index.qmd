@@ -1,5 +1,10 @@
 ---
 title: "Welcome Johannes!"
+meta:
+  - name: description
+    content: "News and updates from the Machine Learning for Materials Design (ML4MD) Lab: Welcome Johannes!"
+  - name: keywords
+    content: "ML4MD Lab, News, Welcome Johannes!, HIDA Trainee Network, Johannes Wasmer"
 description: "HIDA Trainee Network funding for Johannes Wasmer"
 #author: "Attila Cangi"
 date: "2025-02-17"

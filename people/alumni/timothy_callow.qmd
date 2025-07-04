@@ -1,5 +1,10 @@
 ---
 title: "Timothy Callow"
+meta:
+  - name: description
+    content: "Profile of Timothy Callow from the Machine Learning for Materials Design (ML4MD) Lab."
+  - name: keywords
+    content: "ML4MD Lab, People, Timothy Callow"
 sortby: "Callow, Timothy"
 subtitle: "Postdoctoral Researcher"
 image: timothy_callow.png # Ensure this image has appropriate alt text if used directly in content

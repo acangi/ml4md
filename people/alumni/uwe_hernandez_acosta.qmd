@@ -1,5 +1,10 @@
 ---
 title: "Uwe Hernandez-Acosta"
+meta:
+  - name: description
+    content: "Profile of Uwe Hernandez-Acosta from the Machine Learning for Materials Design (ML4MD) Lab."
+  - name: keywords
+    content: "ML4MD Lab, People, Uwe Hernandez-Acosta"
 sortby: "Hernandez-Acosta, Uwe"
 subtitle: "Postdoctoral Researcher"
 image: uwe_hernandez_acosta.png # Ensure this image has appropriate alt text if used directly in content

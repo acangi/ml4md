@@ -1,5 +1,10 @@
 ---
 title: "Bridging the Gap in Electronic Structure Calculations via Machine Learning"
+meta:
+  - name: description
+    content: "Research highlight from the Machine Learning for Materials Design (ML4MD) Lab: Bridging the Gap in Electronic Structure Calculations via Machine Learning."
+  - name: keywords
+    content: "ML4MD Lab, Research, Highlight, Electronic Structure, Machine Learning"
 #author: "Attila Cangi"
 subtitle: Nat. Comput. Sci. 4, 729 (2024)
 date: "2024-10-10"

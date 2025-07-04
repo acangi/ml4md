@@ -1,5 +1,10 @@
 ---
 title: "Nils Hoffmann"
+meta:
+  - name: description
+    content: "Profile of Nils Hoffmann from the Machine Learning for Materials Design (ML4MD) Lab."
+  - name: keywords
+    content: "ML4MD Lab, People, Nils Hoffmann"
 sortby: "Hoffmann, Nils"
 subtitle: "Student Research Assistant"
 image: nils_hoffmann.webp # Ensure this image has appropriate alt text if used directly in content

@@ -1,5 +1,10 @@
 ---
 title: "Sneha Verma Prakash"
+meta:
+  - name: description
+    content: "Profile of Sneha Verma Prakash from the Machine Learning for Materials Design (ML4MD) Lab."
+  - name: keywords
+    content: "ML4MD Lab, People, Sneha Verma Prakash"
 sortby: "Prakash, Sneha Verma"
 subtitle: "Student Research Assistant"
 image: sneha_verma_prakash.png # Ensure this image has appropriate alt text if used directly in content

@@ -1,5 +1,10 @@
 ---
 title: "oha! The adventure of science"
+meta:
+  - name: description
+    content: "News and updates from the Machine Learning for Materials Design (ML4MD) Lab: oha! The adventure of science."
+  - name: keywords
+    content: "ML4MD Lab, News, oha! The adventure of science, Outreach"
 #description: " "
 #author: " "
 date: "2022-07-12"

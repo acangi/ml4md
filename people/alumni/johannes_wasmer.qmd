@@ -1,5 +1,10 @@
 ---
 title: "Johannes Wasmer"
+meta:
+  - name: description
+    content: "Profile of Johannes Wasmer from the Machine Learning for Materials Design (ML4MD) Lab."
+  - name: keywords
+    content: "ML4MD Lab, People, Johannes Wasmer"
 sortby: "Wasmer, Johannes"
 subtitle: "Visiting PhD Student"
 image: johannes_wasmer.webp # Ensure this image has appropriate alt text if used directly in content

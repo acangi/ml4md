@@ -1,5 +1,10 @@
 ---
 title: "People"
+meta:
+  - name: description
+    content: "Official website of the Machine Learning for Materials Design (ML4MD) Lab, led by Attila Cangi. People section, including current members and alumni."
+  - name: keywords
+    content: "Machine Learning, Materials Design, AI, Artificial Intelligence, Cangi Lab, People, Team, Alumni"
 toc: false
 css: styles/custom.scss
 listing:

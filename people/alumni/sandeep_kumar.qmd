@@ -1,5 +1,10 @@
 ---
 title: "Sandeep Kumar"
+meta:
+  - name: description
+    content: "Profile of Sandeep Kumar from the Machine Learning for Materials Design (ML4MD) Lab."
+  - name: keywords
+    content: "ML4MD Lab, People, Sandeep Kumar"
 sortby: "Kumar, Sandeep"
 subtitle: "Postdoctoral Researcher"
 image: sandeep_kumar.png # Ensure this image has appropriate alt text if used directly in content

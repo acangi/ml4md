@@ -1,5 +1,10 @@
 ---
 title: "Predicting Electronic Structures at Any Length Scale with Machine Learning"
+meta:
+  - name: description
+    content: "Research highlight from the Machine Learning for Materials Design (ML4MD) Lab: Predicting Electronic Structures at Any Length Scale with Machine Learning."
+  - name: keywords
+    content: "ML4MD Lab, Research, Highlight, Electronic Structures, Machine Learning"
 #author: "Attila Cangi"
 subtitle: npj Comput. Mater. 9, 115 (2023)
 date: "2023-06-27"

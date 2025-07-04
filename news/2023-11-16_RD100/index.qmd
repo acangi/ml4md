@@ -1,5 +1,10 @@
 ---
 title: "We received the R&D100 award"
+meta:
+  - name: description
+    content: "News and updates from the Machine Learning for Materials Design (ML4MD) Lab: We received the R&D100 award."
+  - name: keywords
+    content: "ML4MD Lab, News, R&D100 award, Materials Learning Algorithms"
 #description: "Tim Callow and Bartosz Brzoza featured on local news"
 #author: "Attila Cangi"
 date: "2023-11-16"

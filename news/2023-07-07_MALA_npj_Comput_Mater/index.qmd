@@ -1,5 +1,10 @@
 ---
 title: "Machine learning takes materials modeling into new era"
+meta:
+  - name: description
+    content: "News and updates from the Machine Learning for Materials Design (ML4MD) Lab: Machine learning takes materials modeling into new era."
+  - name: keywords
+    content: "ML4MD Lab, News, Machine Learning, Materials Modeling, MALA"
 #description: " "
 #author: " "
 date: "2023-07-07"

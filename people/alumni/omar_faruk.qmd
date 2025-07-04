@@ -1,5 +1,10 @@
 ---
 title: "Omar Faruk"
+meta:
+  - name: description
+    content: "Profile of Omar Faruk from the Machine Learning for Materials Design (ML4MD) Lab."
+  - name: keywords
+    content: "ML4MD Lab, People, Omar Faruk"
 sortby: "Faruk, Omar"
 subtitle: "Student Research Assistant"
 image: omar_faruk.webp # Ensure this image has appropriate alt text if used directly in content

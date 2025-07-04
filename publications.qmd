@@ -1,5 +1,10 @@
 ---
 title: "Publications"
+meta:
+  - name: description
+    content: "Official website of the Machine Learning for Materials Design (ML4MD) Lab, led by Attila Cangi. Publications section, listing scientific articles and contributions."
+  - name: keywords
+    content: "Machine Learning, Materials Design, AI, Artificial Intelligence, Cangi Lab, Publications, Research, Articles"
 listing:
   contents: "data/articles.yml"           # relative to this file
   type: table                             # card layout :contentReference[oaicite:2]{index=2}

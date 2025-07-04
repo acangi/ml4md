@@ -1,5 +1,10 @@
 ---
 title: "MALA Hackathon 2023"
+meta:
+  - name: description
+    content: "News and updates from the Machine Learning for Materials Design (ML4MD) Lab: MALA Hackathon 2023."
+  - name: keywords
+    content: "ML4MD Lab, News, MALA Hackathon, Materials Learning Algorithms, MALA"
 #description: " "
 #author: " "
 date: "2023-05-23"

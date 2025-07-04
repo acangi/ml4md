@@ -1,5 +1,10 @@
 ---
 title: "Atomistic Simulation Methods"
+meta:
+  - name: description
+    content: "Teaching materials and resources from the Machine Learning for Materials Design (ML4MD) Lab: Atomistic Simulation Methods."
+  - name: keywords
+    content: "ML4MD Lab, Teaching, Atomistic Simulation Methods, Machine Learning, Materials Science"
 #subtitle: "An Introduction to Machine Learning"
 #author: "Attila Cangi"
 #date: "2025-07-03"

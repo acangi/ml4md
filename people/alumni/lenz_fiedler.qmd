@@ -1,5 +1,10 @@
 ---
 title: "Lenz Fiedler"
+meta:
+  - name: description
+    content: "Profile of Lenz Fiedler from the Machine Learning for Materials Design (ML4MD) Lab."
+  - name: keywords
+    content: "ML4MD Lab, People, Lenz Fiedler"
 sortby: "Fiedler, Lenz"
 subtitle: "Postdoctoral Researcher / PhD Student"
 image: lenz_fiedler.png # Ensure this image has appropriate alt text if used directly in content

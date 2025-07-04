@@ -1,5 +1,10 @@
 ---
 title: "Deep Dive into Machine Learning Density Functional Theory for Materials Science and Chemistry"
+meta:
+  - name: description
+    content: "Research highlight from the Machine Learning for Materials Design (ML4MD) Lab: Deep Dive into Machine Learning Density Functional Theory for Materials Science and Chemistry."
+  - name: keywords
+    content: "ML4MD Lab, Research, Highlight, Machine Learning, Density Functional Theory, Materials Science, Chemistry"
 #author: "Attila Cangi"
 subtitle: Phys. Rev. Mater. 6, 040301 (2022)
 date: "2022-04-05"

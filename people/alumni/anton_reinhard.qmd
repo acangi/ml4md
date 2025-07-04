@@ -1,5 +1,10 @@
 ---
 title: "Anton Reinhard"
+meta:
+  - name: description
+    content: "Profile of Anton Reinhard from the Machine Learning for Materials Design (ML4MD) Lab."
+  - name: keywords
+    content: "ML4MD Lab, People, Anton Reinhard"
 sortby: "Reinhard, Anton"
 subtitle: "Student Research Assistant"
 image: anton_reinhard.webp # Ensure this image has appropriate alt text if used directly in content

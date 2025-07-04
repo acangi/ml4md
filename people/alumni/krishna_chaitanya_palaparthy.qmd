@@ -1,5 +1,10 @@
 ---
 title: "Krishna Chaitanya Palaparthy"
+meta:
+  - name: description
+    content: "Profile of Krishna Chaitanya Palaparthy from the Machine Learning for Materials Design (ML4MD) Lab."
+  - name: keywords
+    content: "ML4MD Lab, People, Krishna Chaitanya Palaparthy"
 sortby: "Palaparthy, Krishna Chaitanya"
 subtitle: "Student Research Assistant"
 image: krishna_chaitanya_palaparthy.png # Ensure this image has appropriate alt text if used directly in content

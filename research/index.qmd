@@ -1,5 +1,10 @@
 ---
 title: "Research Overview"
+meta:
+  - name: description
+    content: "Official website of the Machine Learning for Materials Design (ML4MD) Lab, led by Attila Cangi. Research overview section."
+  - name: keywords
+    content: "Machine Learning, Materials Design, AI, Artificial Intelligence, Cangi Lab, Research, Overview, Electronic Structure, Atomistic Simulations, MALA, Molecular Dynamics, Spin Dynamics, Explorative AI"
 ---
 
 Our lab leverages machine learning and high-performance computing simulations to accelerate the discovery of new materials. We are particularly focused on the following key research thrusts:

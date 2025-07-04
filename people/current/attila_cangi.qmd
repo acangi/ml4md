@@ -1,5 +1,10 @@
 ---
 title: "Attila Cangi"
+meta:
+  - name: description
+    content: "Profile of Attila Cangi, Head of the Machine Learning for Materials Design (ML4MD) Lab."
+  - name: keywords
+    content: "ML4MD Lab, People, Attila Cangi, Head of Department"
 sortby: "1"
 subtitle: "Head of Department"
 image: attila_cangi.webp # Ensure this image has appropriate alt text if used directly in content

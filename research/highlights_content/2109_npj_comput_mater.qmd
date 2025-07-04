@@ -1,5 +1,10 @@
 ---
 title: "Data-Driven Magneto-Elastic Predictions with Scalable Classical Spin-Lattice Dynamics"
+meta:
+  - name: description
+    content: "Research highlight from the Machine Learning for Materials Design (ML4MD) Lab: Data-Driven Magneto-Elastic Predictions with Scalable Classical Spin-Lattice Dynamics."
+  - name: keywords
+    content: "ML4MD Lab, Research, Highlight, Magneto-Elastic, Spin-Lattice Dynamics, Machine Learning"
 #author: "Attila Cangi"
 subtitle: npj Comput. Mater. 7, 153 (2021)
 date: "2021-09-28"

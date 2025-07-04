@@ -1,5 +1,10 @@
 ---
 title: "Maximilian Wenger"
+meta:
+  - name: description
+    content: "Profile of Maximilian Wenger from the Machine Learning for Materials Design (ML4MD) Lab."
+  - name: keywords
+    content: "ML4MD Lab, People, Maximilian Wenger"
 sortby: "Wenger, Maximilian"
 subtitle: "Student Research Assistant"
 image: maximilian_wenger.png # Ensure this image has appropriate alt text if used directly in content

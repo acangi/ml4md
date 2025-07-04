@@ -1,5 +1,10 @@
 ---
 title: "Jan Nikl"
+meta:
+  - name: description
+    content: "Profile of Jan Nikl from the Machine Learning for Materials Design (ML4MD) Lab."
+  - name: keywords
+    content: "ML4MD Lab, People, Jan Nikl"
 sortby: "Nikl, Jan"
 subtitle: "Postdoctoral Researcher"
 image: jan_nikl.webp # Ensure this image has appropriate alt text if used directly in content

@@ -1,5 +1,10 @@
 ---
 title: "Somashekhar Kulkarni"
+meta:
+  - name: description
+    content: "Profile of Somashekhar Kulkarni from the Machine Learning for Materials Design (ML4MD) Lab."
+  - name: keywords
+    content: "ML4MD Lab, People, Somashekhar Kulkarni"
 sortby: "Kulkarni, Somashekhar"
 subtitle: "Student Research Assistant"
 image: somashekhar_kulkarni.png # Ensure this image has appropriate alt text if used directly in content

@@ -1,5 +1,10 @@
 ---
 title: "Tamar Yovell"
+meta:
+  - name: description
+    content: "Profile of Tamar Yovell from the Machine Learning for Materials Design (ML4MD) Lab."
+  - name: keywords
+    content: "ML4MD Lab, People, Tamar Yovell"
 sortby: "Yovell, Tamar"
 subtitle: "Student Research Assistant"
 image: tamar_yovell.png # Ensure this image has appropriate alt text if used directly in content

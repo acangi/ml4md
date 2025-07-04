@@ -1,5 +1,10 @@
 ---
 title: "Funding from Helmholtz AI"
+meta:
+  - name: description
+    content: "News and updates from the Machine Learning for Materials Design (ML4MD) Lab: Funding from Helmholtz AI."
+  - name: keywords
+    content: "ML4MD Lab, News, Funding from Helmholtz AI, Helmholtz AI, SynRap"
 #description: "HIDA Trainee Network Funding for Johannes Wasmer"
 #author: "Attila Cangi"
 date: "2021-06-15"

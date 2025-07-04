@@ -1,5 +1,10 @@
 ---
 title: "Debanjan Konar"
+meta:
+  - name: description
+    content: "Profile of Debanjan Konar from the Machine Learning for Materials Design (ML4MD) Lab."
+  - name: keywords
+    content: "ML4MD Lab, People, Debanjan Konar"
 sortby: "Konar, Debanjan"
 subtitle: "Postdoctoral Researcher"
 image: debanjan_konar.png # Ensure this image has appropriate alt text if used directly in content

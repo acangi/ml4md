@@ -1,5 +1,10 @@
 ---
 title: "Fulbright-Nehru fellowship awarded to Debanjan Konar"
+meta:
+  - name: description
+    content: "News and updates from the Machine Learning for Materials Design (ML4MD) Lab: Fulbright-Nehru fellowship awarded to Debanjan Konar."
+  - name: keywords
+    content: "ML4MD Lab, News, Fulbright-Nehru fellowship, Debanjan Konar, Quantum Machine Learning"
 #description: " "
 #author: " "
 date: "2022-12-22"

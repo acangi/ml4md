@@ -1,5 +1,10 @@
 ---
 title: "Ekaterina Tsvetoslavova Stankulova"
+meta:
+  - name: description
+    content: "Profile of Ekaterina Tsvetoslavova Stankulova from the Machine Learning for Materials Design (ML4MD) Lab."
+  - name: keywords
+    content: "ML4MD Lab, People, Ekaterina Tsvetoslavova Stankulova"
 sortby: "Tsvetoslavova Stankulova, Ekaterina"
 subtitle: "Student Research Assistant"
 image: ekaterina_tsvetoslavova_stankulova.png # Ensure this image has appropriate alt text if used directly in content # Ensure this image has appropriate alt text if used directly in content
