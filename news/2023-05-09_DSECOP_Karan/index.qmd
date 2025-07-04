@@ -17,6 +17,7 @@ format:
     page-layout: full
     toc: false
 ---
+![](karan_aps_2023.webp){.news-thumbnail alt="Image for Karan Shah reselected for APS fellowship"}
 
 Congratulations, Karan, for being accepted into the program for the second time! 
 

@@ -17,5 +17,6 @@ format:
     page-layout: full
     toc: false
 ---
+![](MALA_hackathon_2023.webp){.news-thumbnail alt="Image for MALA Hackathon 2023"}
 
 Our second hackathon aimed to refine the [Materials Learning Algorithms](https://github.com/mala-project){target="_blank"} (MALA) into a production-grade code, enabling efficient computations on both central processing units (CPU) and graphical processing units (GPU).

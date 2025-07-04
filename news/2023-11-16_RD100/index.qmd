@@ -17,6 +17,8 @@ format:
     page-layout: full
     toc: false
 ---
+![](RD100_2023_Winner.webp){.news-thumbnail alt="Image for We received the R&D100 award"}
+
 We are excited to share that we have received the [R&D100 award](https://www.rdworldonline.com/2023-rd-100-award-winners/){target="_blank"} for our [Materials Learning Algorithms](https://github.com/mala-project){target="_blank"} package. Congratulations to the team and our collaborators!
 
 Read more about this in this [press release](https://www.hzdr.de/db/Cms?pOid=70759&pNid=3438){target="_blank"}.

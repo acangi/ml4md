@@ -17,5 +17,6 @@ format:
     page-layout: full
     toc: false
 ---
+![](lange_nacht_goerlitz.webp){.news-thumbnail alt="Image for oha! The adventure of science"}
 
 We are excited to join the outreach activities ["oha! Abenteuer Wissenschaft"](https://www.hszg.de/en/research/transfer/events/events-1/oha-abenteuer-wissenschaft){target="_blank"} in Görlitz with a virtual reality installation showcasing our work on accelerating atomistic simulations with machine learning to the broad public.

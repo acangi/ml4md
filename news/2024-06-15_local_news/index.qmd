@@ -17,6 +17,7 @@ format:
     page-layout: full
     toc: false
 ---
+![](Tim_Bartek.webp){.news-thumbnail alt="Image for Tim Callow and Bartosz Brzoza featured on local news"}
 
 Tim Callow and Bartosz Brzoza gave an interview explaining how they came to Görlitz and what they like about working and living in the heart of Europe.
 

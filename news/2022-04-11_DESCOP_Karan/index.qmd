@@ -17,5 +17,6 @@ format:
     page-layout: full
     toc: false
 ---
+![](karan_aps_2022.webp){.news-thumbnail alt="Image for Karan Shah receives for APS fellowship"}
 
 Congratulations, Karan, for being selected as a fellow of the [Data Science Education Community of Practice (DSECOP)](https://dsecop.org/){target="_blank"} program of the American Physical Society (APS). The DSECOP program aims at developing teaching materials that integrate artificial intelligence and machine learning into the undergraduate physics curriculum. Instead of a separate course for machine learning, the modules will be focused on data science applications in the context of physics problems and be taught as a part of existing standard undergraduate physics courses. 

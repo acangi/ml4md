@@ -17,6 +17,8 @@ format:
     page-layout: full
     toc: false
 ---
+![](debanjan_fulbright_2022.webp){.news-thumbnail alt="Image for Fulbright-Nehru fellowship awarded to Debanjan Konar"}
+
 
 Congratulations, Debanjan, for receiving the [Fulbright-Nehru fellowship](https://www.usief.org.in/scholar-profile/scholarprofiledetails.aspx?fellowid=12716){target="_blank"}! 
 

@@ -6,7 +6,9 @@ meta:
   - name: keywords
     content: "Machine Learning, Materials Design, AI, Artificial Intelligence, Cangi Lab, News"
 toc: false
+css: /styles/custom.scss
 listing:
+  id: news-listing
   contents: "news/**/index.qmd"
   sort: "date desc"
   type: default
@@ -15,3 +17,8 @@ listing:
 ---
 
 Latest news from our lab.
+
+<br></br>
+
+::: {#news-listing}
+:::

@@ -16,6 +16,8 @@ format:
     page-layout: full
     toc: false
 ---
+![](discovered_cover_2023.webp){.news-thumbnail alt="Image for Featured in the discovered magazine"}
+
 Glad to see that our work on artificial intelligence and materials science being featured in the [discovered magazine](https://www.hzdr.de/db/Cms?pNid=2931){target="_blank"} of Helmholtz-Zentrum Dresden-Rossendorf. 
 
 You can browse the content [online](https://www.hzdr.de/HZDR/epaper/entdeckt_1_2023_EN/#0){target="_blank"}.

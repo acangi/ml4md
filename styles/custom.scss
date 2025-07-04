@@ -42,11 +42,21 @@
   margin: 1rem auto !important; /* 1rem top/bottom margin, auto left/right for centering */
 }
 
+#listing-news-listing div.thumbnail img.thumbnail-image, 
 .course-thumbnail {
   display: block !important;
-  width: 240px !important;
-  height: 240px !important;
-  border-radius: 50% !important;
+  width: 250px !important; /* Matches image-height in news.qmd */
+  height: 150px !important; /* Matches image-height in news.qmd */
+  border-radius: 10% !important;
+  object-fit: cover !important;
+  margin: 1rem auto !important; /* 1rem top/bottom margin, auto left/right for centering */
+}
+
+.news-thumbnail {
+  display: block !important;
+  width: 600px !important; /* Matches image-height in news.qmd */
+  height: 300px !important; /* Matches image-height in news.qmd */
+  border-radius: 10% !important;
   object-fit: cover !important;
   margin: 1rem auto !important; /* 1rem top/bottom margin, auto left/right for centering */
 }

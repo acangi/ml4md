@@ -17,6 +17,7 @@ format:
     page-layout: full
     toc: false
 ---
+![](Defense_Lenz.webp){.news-thumbnail alt="Image for Lenz Fiedler Defends his Ph.D."}
 
 Lenz Fiedler successfully defended his Ph.D. at the Technische Universität Dresden this week. He is the first graduate to conduct his research at our department. His thesis focused on the development of a machine learning model to replace conventional Density Functional Theory calculations with the goal of accelerating HPC simulations in materials science. During his Ph.D. Lenz became one of the main developers of our software package [Materials Learning Algorithms](https://github.com/mala-project/mala){target="_blank"} and published several research papers. 
 
