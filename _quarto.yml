@@ -40,7 +40,7 @@ website:
         icon: mortarboard
       - href: contact.qmd
         text: Contact
-        icon: globe
+        icon: envelope
   page-footer:
     center: "© 2025 Attila Cangi · Built with [Quarto](https://quarto.org)"
 
