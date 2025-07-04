@@ -2,7 +2,7 @@
 title: "Tom Jungnickel"
 sortby: "Jungnickel, Tom"
 subtitle: "Student Research Assistant"
-image: tom_jungnickel.png
+image: tom_jungnickel.png # Ensure this image has appropriate alt text if used directly in content
 toc: false
 #resources: 
 started: "2023"

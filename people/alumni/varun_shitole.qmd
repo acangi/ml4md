@@ -2,7 +2,7 @@
 title: "Varun Shitole"
 sortby: "Shitole, Varun"
 subtitle: "Student Research Assistant"
-image: varun_shitole.png
+image: varun_shitole.png # Ensure this image has appropriate alt text if used directly in content
 toc: false
 #resources: 
 started: "2020"

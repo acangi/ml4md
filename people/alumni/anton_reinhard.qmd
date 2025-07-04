@@ -2,7 +2,7 @@
 title: "Anton Reinhard"
 sortby: "Reinhard, Anton"
 subtitle: "Student Research Assistant"
-image: anton_reinhard.jpg
+image: anton_reinhard.webp # Ensure this image has appropriate alt text if used directly in content
 toc: false
 #resources: 
 started: "2023"

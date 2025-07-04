@@ -2,7 +2,7 @@
 title: "Maximilian Wenger"
 sortby: "Wenger, Maximilian"
 subtitle: "Student Research Assistant"
-image: maximilian_wenger.png
+image: maximilian_wenger.png # Ensure this image has appropriate alt text if used directly in content
 toc: false
 #resources: 
 started: "2022"

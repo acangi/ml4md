@@ -2,7 +2,7 @@
 title: "Omar Faruk"
 sortby: "Faruk, Omar"
 subtitle: "Student Research Assistant"
-image: omar_faruk.jpeg
+image: omar_faruk.webp # Ensure this image has appropriate alt text if used directly in content
 toc: false
 #resources: 
 started: "2021"

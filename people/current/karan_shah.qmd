@@ -2,7 +2,7 @@
 title: "Karan Shah"
 sortby: "Shah, Karan"
 subtitle: "PhD Student"
-image: karan_shah.png
+image: karan_shah.png # Ensure this image has appropriate alt text if used directly in content
 toc: false
 #resources: 
 #  - "cv_karan_shah.pdf"

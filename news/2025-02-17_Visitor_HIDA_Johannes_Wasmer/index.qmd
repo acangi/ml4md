@@ -3,7 +3,7 @@ title: "Welcome Johannes!"
 description: "HIDA Trainee Network funding for Johannes Wasmer"
 #author: "Attila Cangi"
 date: "2025-02-17"
-image: HIDA_Trainee_Network.png
+image: HIDA_Trainee_Network.png # Ensure this image has appropriate alt text if used directly in content
 draft: false
 categories:
   - visitor
@@ -18,4 +18,4 @@ Johannes Wasmer has joined us as a visiting Ph.D. student. He comes from the [Pe
 
 Welcome Johannes!
 
-![](Johannes_Wasmer.webp)
+![](Johannes_Wasmer.webp){alt="Johannes Wasmer"}

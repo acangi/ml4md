@@ -3,7 +3,7 @@ title: "ICML 2024"
 description: "Karan Shah presents recent work at the ICML Workshop AI for Science: Scaling in AI for Scientific Discovery "
 #author: "Attila Cangi"
 date: "2024-07-24"
-image: ICML_Karan.png
+image: ICML_Karan.webp # Ensure this image has appropriate alt text if used directly in content
 draft: false
 categories:
   - conference

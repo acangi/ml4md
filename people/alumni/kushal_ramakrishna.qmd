@@ -2,7 +2,7 @@
 title: "Kushal Ramakrishna"
 sortby: "Ramakrishna, Kushal"
 subtitle: "Postdoctoral Researcher"
-image: kushal_ramakrishna.png
+image: kushal_ramakrishna.png # Ensure this image has appropriate alt text if used directly in content
 toc: false
 #resources: 
 #  - "cv_bartosz_brzoza.pdf"

@@ -3,7 +3,7 @@ title: "Funding from Helmholtz AI"
 #description: "HIDA Trainee Network Funding for Johannes Wasmer"
 #author: "Attila Cangi"
 date: "2021-06-15"
-image: Synrap_2021.png
+image: Synrap_2021.webp # Ensure this image has appropriate alt text if used directly in content
 draft: false
 categories:
   - funding

@@ -2,7 +2,7 @@
 title: "Ekaterina Tsvetoslavova Stankulova"
 sortby: "Tsvetoslavova Stankulova, Ekaterina"
 subtitle: "Student Research Assistant"
-image: ekaterina_tsvetoslavova_stankulova.png
+image: ekaterina_tsvetoslavova_stankulova.png # Ensure this image has appropriate alt text if used directly in content # Ensure this image has appropriate alt text if used directly in content
 toc: false
 #resources: 
 started: "2021"

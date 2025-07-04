@@ -3,7 +3,7 @@ title: "Karan Shah receives for APS fellowship"
 #description: "HIDA Trainee Network Funding for Johannes Wasmer"
 #author: "Attila Cangi"
 date: "2022-04-11"
-image: karan_aps_2022.png
+image: karan_aps_2022.webp # Ensure this image has appropriate alt text if used directly in content
 draft: false
 categories:
   - award

@@ -2,7 +2,7 @@
 title: "Johannes Wasmer"
 sortby: "Wasmer, Johannes"
 subtitle: "Visiting PhD Student"
-image: johannes_wasmer.webp
+image: johannes_wasmer.webp # Ensure this image has appropriate alt text if used directly in content
 toc: false
 #resources: 
 #  - "cv_bartosz_brzoza.pdf"

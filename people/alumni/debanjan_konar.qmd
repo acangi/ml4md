@@ -2,7 +2,7 @@
 title: "Debanjan Konar"
 sortby: "Konar, Debanjan"
 subtitle: "Postdoctoral Researcher"
-image: debanjan_konar.png
+image: debanjan_konar.png # Ensure this image has appropriate alt text if used directly in content
 toc: false
 #resources: 
 started: "2021"

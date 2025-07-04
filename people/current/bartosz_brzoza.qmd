@@ -2,7 +2,7 @@
 title: "Bartosz Brzoza"
 sortby: "Brzoza, Bartosz"
 subtitle: "PhD Student"
-image: bartosz_brzoza.png
+image: bartosz_brzoza.png # Ensure this image has appropriate alt text if used directly in content
 toc: false
 resources: 
   - "cv_bartosz_brzoza.pdf"

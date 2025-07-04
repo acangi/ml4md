@@ -2,7 +2,7 @@
 title: "Somashekhar Kulkarni"
 sortby: "Kulkarni, Somashekhar"
 subtitle: "Student Research Assistant"
-image: somashekhar_kulkarni.png
+image: somashekhar_kulkarni.png # Ensure this image has appropriate alt text if used directly in content
 toc: false
 #resources: 
 started: "2023"

@@ -9,7 +9,7 @@ categories:
   - Electronic Structure Theory
   - Machine Learning
 ---
-![](2410_nat_comp_sci.webp){.course-thumbnail}
+![](2410_nat_comp_sci.webp){.course-thumbnail alt="Abstract image for Bridging the Gap in Electronic Structure Calculations via Machine Learning"}
 
 
 [Read the perspective paper](https://doi.org/10.1038/s43588-024-00707-3){target="_blank"}

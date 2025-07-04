@@ -2,7 +2,7 @@
 title: "Nils Hoffmann"
 sortby: "Hoffmann, Nils"
 subtitle: "Student Research Assistant"
-image: nils_hoffmann.jpg
+image: nils_hoffmann.webp # Ensure this image has appropriate alt text if used directly in content
 toc: false
 #resources: 
 started: "2021"

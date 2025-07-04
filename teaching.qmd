@@ -1,6 +1,9 @@
 ---
 title: "Teaching"
 toc: true
+title-block-author: false
+title-block-keywords: false
+title-block-description: false
 listing:
   - id: summer_2025
     contents: teaching/summer_2025/*.qmd

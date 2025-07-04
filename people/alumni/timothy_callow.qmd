@@ -2,7 +2,7 @@
 title: "Timothy Callow"
 sortby: "Callow, Timothy"
 subtitle: "Postdoctoral Researcher"
-image: timothy_callow.png
+image: timothy_callow.png # Ensure this image has appropriate alt text if used directly in content
 toc: false
 #resources: 
 started: "2020"

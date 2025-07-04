@@ -2,7 +2,7 @@
 title: "Sandeep Kumar"
 sortby: "Kumar, Sandeep"
 subtitle: "Postdoctoral Researcher"
-image: sandeep_kumar.png
+image: sandeep_kumar.png # Ensure this image has appropriate alt text if used directly in content
 toc: false
 #resources: 
 started: "2021"

@@ -3,7 +3,7 @@ title: "oha! The adventure of science"
 #description: " "
 #author: " "
 date: "2022-07-12"
-image: lange_nacht_goerlitz.png
+image: lange_nacht_goerlitz.webp # Ensure this image has appropriate alt text if used directly in content
 draft: false
 categories:
   - outreach

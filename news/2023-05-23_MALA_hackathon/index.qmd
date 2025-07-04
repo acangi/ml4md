@@ -3,7 +3,7 @@ title: "MALA Hackathon 2023"
 #description: " "
 #author: " "
 date: "2023-05-23"
-image: MALA_hackathon_2023.png
+image: MALA_hackathon_2023.webp # Ensure this image has appropriate alt text if used directly in content
 draft: false
 categories:
   - hackathon

@@ -2,7 +2,7 @@
 title: "Parvez Mohammed"
 sortby: "Mohammed, Parvez"
 subtitle: "Student Research Assistant"
-image: parvez_mohammed.png
+image: parvez_mohammed.png # Ensure this image has appropriate alt text if used directly in content
 toc: false
 #resources: 
 started: "2021"

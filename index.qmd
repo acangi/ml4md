@@ -1,9 +1,12 @@
 ---
 title: "Machine Learning for Materials Design"
-image: logo.png
+image: logo.webp
 about: 
   template: solana #marquee #trestles #broadside #jolla
   image-shape: round
+title-block-author: false
+title-block-keywords: false
+title-block-description: false
 ---
 
 Our lab leverages artificial intelligence and high-performance computing to tackle key challenges in materials science.

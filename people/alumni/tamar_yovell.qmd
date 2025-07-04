@@ -2,7 +2,7 @@
 title: "Tamar Yovell"
 sortby: "Yovell, Tamar"
 subtitle: "Student Research Assistant"
-image: tamar_yovell.png
+image: tamar_yovell.png # Ensure this image has appropriate alt text if used directly in content
 toc: false
 #resources: 
 started: "2021"

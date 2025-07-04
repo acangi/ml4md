@@ -2,7 +2,7 @@
 title: "Attila Cangi"
 sortby: "1"
 subtitle: "Head of Department"
-image: attila_cangi.jpg
+image: attila_cangi.webp # Ensure this image has appropriate alt text if used directly in content
 started: "May 2020"
 toc: false
 resources: 

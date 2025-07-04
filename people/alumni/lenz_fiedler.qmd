@@ -2,7 +2,7 @@
 title: "Lenz Fiedler"
 sortby: "Fiedler, Lenz"
 subtitle: "Postdoctoral Researcher / PhD Student"
-image: lenz_fiedler.png
+image: lenz_fiedler.png # Ensure this image has appropriate alt text if used directly in content
 toc: false
 #resources: 
 #  - "cv_bartosz_brzoza.pdf"

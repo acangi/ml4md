@@ -3,7 +3,7 @@ title: "We are at the Dresden Science Night 2024!"
 #description: ""
 #author: "Attila Cangi"
 date: "2024-06-14"
-image: Dresden_Science_Night.png
+image: Dresden_Science_Night.webp # Ensure this image has appropriate alt text if used directly in content
 draft: false
 categories:
   - outreach

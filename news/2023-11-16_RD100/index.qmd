@@ -3,7 +3,7 @@ title: "We received the R&D100 award"
 #description: "Tim Callow and Bartosz Brzoza featured on local news"
 #author: "Attila Cangi"
 date: "2023-11-16"
-image: RD100_2023_Winner.jpg
+image: RD100_2023_Winner.webp # Ensure this image has appropriate alt text if used directly in content
 draft: false
 categories:
   - award

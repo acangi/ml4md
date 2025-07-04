@@ -2,7 +2,7 @@
 title: "Sruthil Lal Sumabalakrishnan"
 sortby: "Sumabalakrishnan, Sruthil Lal"
 subtitle: "Visiting PhD Student"
-image: sruthil_lal_sumabalakrishnan.jpg
+image: sruthil_lal_sumabalakrishnan.webp # Ensure this image has appropriate alt text if used directly in content
 toc: false
 started: "2023"
 ended: "2023"

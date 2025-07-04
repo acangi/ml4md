@@ -3,13 +3,13 @@ title: "Atomistic Simulation Methods"
 #subtitle: "An Introduction to Machine Learning"
 #author: "Attila Cangi"
 #date: "2025-07-03"
-image: ASM.png
+image: ASM.webp
 categories:
   - Machine Learning
   - Materials Science
 ---
 
-![](/teaching/winter_2024_2025/ASM.png){.course-thumbnail}
+![](ASM.webp){.course-thumbnail alt="Image for Atomistic Simulation Methods course"}
 
 I contributed to the course [Atomistic Simulation Methods](https://wwwdek.inf.tu-dresden.de/mole-web/catalogs/wise2425/modules/cms-ce-el1/courses){target="_blank"} offered by the [Faculty of Computer Science](https://tu-dresden.de/ing/informatik){target="_blank"} at [Dresden University of Technology](https://tu-dresden.de/){target="_blank"} (TU Dresden).
 

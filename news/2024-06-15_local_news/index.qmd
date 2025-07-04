@@ -3,7 +3,7 @@ title: "Featured on Welcome Görlitz"
 description: "Tim Callow and Bartosz Brzoza featured on local news"
 #author: "Attila Cangi"
 date: "2024-06-14"
-image: Tim_Bartek.png
+image: Tim_Bartek.webp # Ensure this image has appropriate alt text if used directly in content
 draft: false
 categories:
   - outreach

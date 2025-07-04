@@ -2,7 +2,7 @@
 title: "Uwe Hernandez-Acosta"
 sortby: "Hernandez-Acosta, Uwe"
 subtitle: "Postdoctoral Researcher"
-image: uwe_hernandez_acosta.png
+image: uwe_hernandez_acosta.png # Ensure this image has appropriate alt text if used directly in content
 toc: false
 #resources: 
 started: "2020"

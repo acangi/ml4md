@@ -3,7 +3,7 @@ title: "Fulbright-Nehru fellowship awarded to Debanjan Konar"
 #description: " "
 #author: " "
 date: "2022-12-22"
-image: debanjan_fulbright_2022.png
+image: debanjan_fulbright_2022.webp # Ensure this image has appropriate alt text if used directly in content
 draft: false
 categories:
   - award

@@ -9,6 +9,9 @@ listing:
     categories: false
     fields: [image, title, subtitle, date]
     date-format: "MMM, YYYY"
+title-block-author: false
+title-block-keywords: false
+title-block-description: false
 ---
 
 <br></br>

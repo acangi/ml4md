@@ -2,7 +2,7 @@
 title: "Hossein Tahmasbi"
 sortby: "Tahmasbi, Hossein"
 subtitle: "Postdoctoral Researcher"
-image: hossein_tahmasbi.png
+image: hossein_tahmasbi.png # Ensure this image has appropriate alt text if used directly in content
 toc: false
 #resources: 
 started: "2021"
