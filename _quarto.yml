@@ -10,7 +10,7 @@ jupyter:
 
 website:
   title: "Machine Learning for Materials Design<br>(Cangi Lab)"
-  site-url: "https://acangi.github.io/ml4md"
+  site-url: "https://www.ml4md.de"
   description: "Official website of the Machine Learning for Materials Design (ML4MD) Lab, led by Attila Cangi. Research focuses on artificial intelligence, machine learning, neural networks, electronic structure, density functional theory and atomistic simulations for materials science."
   page-navigation: true
   open-graph: true                          # social cards
