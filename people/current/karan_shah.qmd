@@ -16,10 +16,10 @@ ended: "Current"
 about:
   id: person-profile
   template: jolla
-  links:
-    - icon: file-earmark-text
-      text: CV
-      href: ./people/phd_students/cv_karan_shah.pdf
+  #links:
+  #  - icon: file-earmark-text
+  #    text: CV
+  #    href: ./people/current/cv_karan_shah.pdf
 ---
 
 :::{#person-profile}

@@ -19,7 +19,7 @@ about:
      # link-external-newwindow: true
     - icon: file-earmark-text
       text: CV
-      href: ./people/pi/CV_Attila_Cangi.pdf
+      href: ./people/current/CV_Attila_Cangi.pdf
     - icon: mortarboard
       #text: scholar
       href: https://scholar.google.com/citations?user=M84yoJgAAAAJ&hl=en
