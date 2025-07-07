@@ -7,7 +7,7 @@ meta:
     content: "ML4MD Lab, People, Nathan Rahat"
 sortby: "Rahat, Nathan"
 subtitle: "Student Research Assistant"
-image: nathan_rahat.webp # Ensure this image has appropriate alt text if used directly in content
+image: ../person-circle.svg # Ensure this image has appropriate alt text if used directly in content
 toc: false
 #resources: 
 started: "2022"

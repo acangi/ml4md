@@ -7,7 +7,7 @@ meta:
     content: "ML4MD Lab, People, Sruthil Lal Sumabalakrishnan"
 sortby: "Sumabalakrishnan, Sruthil Lal"
 subtitle: "Visiting PhD Student"
-image: sruthil_lal_sumabalakrishnan.webp # Ensure this image has appropriate alt text if used directly in content
+image: ../person-circle.svg # Ensure this image has appropriate alt text if used directly in content
 toc: false
 started: "2023"
 ended: "2023"

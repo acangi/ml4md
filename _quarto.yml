@@ -20,7 +20,7 @@ website:
       #  text: Home
       - href: news.qmd
         text: News
-        icon: chat-left-text
+        icon: chat-left-text                # Icons from https://icons.getbootstrap.com/
       - text: Research
         menu:
           - href: research/index.qmd

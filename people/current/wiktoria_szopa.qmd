@@ -1,0 +1,32 @@
+---
+title: "Wiktoria Szopa"
+meta:
+  - name: description
+    content: "Profile of Wiktoria Szopa from the Machine Learning for Materials Design (ML4MD) Lab."
+  - name: keywords
+    content: "ML4MD Lab, People, Wiktoria Szopa"
+sortby: "Szopa, Wiktoria"
+subtitle: "Student Research Assistant (Scultestus Early Career Fellow)"
+image: ../person-circle.svg # Ensure this image has appropriate alt text if used directly in content
+toc: false
+resources: 
+  - "cv_wiktoria_szopa.pdf"
+started: "2025"
+ended: "Current"
+about:
+  id: person-profile
+  template: jolla
+  #links:
+  #  - icon: file-earmark-text
+  #    text: CV
+  #    href: ./people/current/cv_wiktoria_szopa.pdf
+---
+
+:::{#person-profile}
+:::
+
+<!---
+## Biography
+## Experience
+## Education
+-->
