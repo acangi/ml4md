@@ -21,4 +21,4 @@ categories:
 A data-driven framework is presented for building magneto-elastic machine-learning interatomic potentials (ML-IAPs) for large-scale spin-lattice dynamics simulations. The magneto-elastic ML-IAPs are constructed by coupling a collective atomic spin model with an ML-IAP. Together they represent a potential energy surface from which the mechanical forces on the atoms and the precession dynamics of the atomic spins are computed. Both the atomic spin model and the ML-IAP are parametrized on data from first-principles calculations. We demonstrate the efficacy of our data-driven framework across magneto-structural phase transitions by generating a magneto-elastic ML-IAP for α-iron. The combined potential energy surface yields excellent agreement with first-principles magneto-elastic calculations and quantitative predictions of diverse materials properties including bulk modulus, magnetization, and specific heat across the ferromagnetic–paramagnetic phase transition.
 
 
-[Read the paper](https://doi.org/10.1038/s41524-021-00617-2){target="_blank"}
+[Read the full paper](https://doi.org/10.1038/s41524-021-00617-2){target="_blank"}

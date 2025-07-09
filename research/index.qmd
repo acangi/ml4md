@@ -7,44 +7,33 @@ meta:
     content: "Machine Learning, Materials Design, AI, Artificial Intelligence, Cangi Lab, Research, Overview, Electronic Structure, Atomistic Simulations, MALA, Molecular Dynamics, Spin Dynamics, Explorative AI"
 ---
 
-Our lab leverages machine learning and high-performance computing simulations to accelerate the discovery of new materials. We are particularly focused on the following key research thrusts:
+Our lab leverages machine learning and high-performance computing simulations to accelerate the discovery and understanding of new materials. We focus on the following key research thrusts:
+
 
 ## Machine Learning and Electronic Structure Methods
 
-We develop the **Materials Learning Algorithms (MALA)**, a physics-informed machine learning framework that aims to accelerate conventional density functional theory simulations. Using neural networks, MALA efficiently computes the electronic structure of matter, enabling accurate determination of energies and forces that are critical for atomistic simulations. MALA is a scalable method that balances accuracy and speed, overcoming the limitations of conventional density functional theory simulations. It combines the scalability of atomistic simulations with the high accuracy of first-principles methods, paving the way for electronic structure calculations at unprecedented length and time scales. This advancement in materials modeling opens up a broad range of potential applications.
+We develop the **Materials Learning Algorithms (MALA)**, a physics-informed machine learning framework designed to accelerate conventional density functional theory simulations. MALA employs neural network architectures to accurately predict electronic structures across different parameter spaces. Our scalable approach overcomes the limitations of conventional density functional theory simulations, paving the way for electronic structure calculations at unprecedented length and time scales.
 
 *   **Key Areas:** Density Functional Theory, Neural Networks, Atomistic Simulations, High-Performance Computing
-<!-- *   **Related Projects:** [Link to specific highlights in `highlights.qmd` or relevant publications]
+*   **Related Projects:**
+    * [Materials Learning Algorithms (MALA): Scalable Machine Learning for Electronic Structure Calculations in Large-Scale Atomistic Simulations](highlights_content/2509_comp_phys_commun.qmd)
+    * [Predicting Electronic Structures at Any Length Scale with Machine Learning](highlights_content/2306_npj_comput_mater.qmd)
+    * [Deep Dive into Machine Learning Density Functional Theory for Materials Science and Chemistry](highlights_content/2204_phys_rev_mater.qmd)
 
-::: {layout-ncol=2}
-![](path/to/mala_diagram.png){width=80%}
-:::
--->
 
 ## Atomistic Molecular Spin Dynamics
 
-By combining first-principles data generation with machine learning models, we create interatomic potentials for high-performance molecular-spin dynamics simulations. This methodology allows us to simulate the dynamics of ions and of electronic spins simultaneously. We utilize this method for tackling a wide range of applications, including the analysis of material strength, the investigation of transport properties in nanoscale systems, and the simulation of magneto-structural phase transitions relevant for developing ultrafast magnetic storage devices.
+We combine first-principles calculations with machine learning models to generate accurate interatomic potentials for high-performance molecular-spin dynamics simulations. Our computational framework allow simultaneous simulations of ionic and spin dynamics, enabling detailed analyses of structural stability, transport phenomena, and magneto-structural phase transitions. This approach holds promise for developing next-generation magnetic materials and ultrafast magnetic storage technologies.
 
 *   **Key Areas:** Molecular Dynamics, Spin Dynamics, Interatomic Potentials, Magnetic Materials
-<!-- *   **Related Projects:** [Link to specific highlights in `highlights.qmd` or relevant publications]
+*   **Related Projects:**
+    * [Probing Iron in Earth’s Core with Molecular-Spin Dynamics](highlights_content/2412_iron_pnas.qmd)
+    * [Data-Driven Magneto-Elastic Predictions with Scalable Classical Spin-Lattice Dynamics](highlights_content/2109_npj_comput_mater.qmd)
 
-::: {layout-ncol=2}
-![](path/to/spin_dynamics_image.png){width=80%}
-:::
--->
 
 ## Explorative Artificial Intelligence for Materials Modeling
 
-We apply state-of-the-art machine learning methods to advance first-principles simulations and accelerate materials discovery. 
-For example:
-We use physics-informed neural networks and other autoregressive models to simulate how electrons in materials respond to optical laser light.
-We apply neural operators to develop machine learning representations of electron-electron interactions, specifically targeting the exchange-correlation energy.
-We leverage generative and reinforcement learning techniques to design models that drive autonomous materials discovery.
+We leverage state-of-the-art machine learning techniques to advance and automate first-principles simulations, paving the way for rapid and targeted materials discovery. We employ physics-informed neural networks for inverting fundamental quantum mechanical equations, neural operators for modeling electron dynamics, and generative models for materials discovery.
 
-*   **Key Areas:** Time-Dependent Density Functional Theory, Exchange-Correlation Functional, AI for Materials Discovery
-<!-- *   **Related Projects:** [Link to specific highlights in `highlights.qmd` or relevant publications]
-
-::: {layout-ncol=2}
-![](path/to/ai_materials_image.png){width=80%}
-:::
--->
+*   **Key Areas:** Time-Dependent Density Functional Theory, Exchange-Correlation Functionals, Neural Operators, Physics-Informed Neural Networks, AI for Materials Discovery
+ 
