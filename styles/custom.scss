@@ -70,3 +70,12 @@
  │           centering */
 }
 
+.overview {
+  width: 500px !important;
+  height: 500px !important;
+  border-radius: 10% !important;
+  object-fit: contain !important;
+  margin: 1rem auto !important; /* 1rem top/bottom margin, auto left/right for     │
+ │           centering */
+}
+

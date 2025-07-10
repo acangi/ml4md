@@ -15,7 +15,7 @@ categories:
   - Electronic Structure Theory
   - Machine Learning
 ---
-![](2403_mach_learn_sci_technol.webp){.overview-thumbnail alt="Abstract image for Inverting the Kohn–Sham Equations with Physics-Informed Machine Learning" width="35%"}
+![](2403_mach_learn_sci_technol.webp){.overview alt="Abstract image for Inverting the Kohn–Sham Equations with Physics-Informed Machine Learning" width="35%"}
 
 Electronic structure theory calculations offer an understanding of matter at the quantum level, complementing experimental studies in materials science and chemistry. One of the most widely used methods, density functional theory, maps a set of real interacting electrons to a set of fictitious non-interacting electrons that share the same probability density. Ensuring that the density remains the same depends on the exchange-correlation (XC) energy and, by a derivative, the XC potential. Inversions provide a method to obtain exact XC potentials from target electronic densities, in hopes of gaining insights into accuracy-boosting approximations. Neural networks provide a new avenue to perform inversions by learning the mapping from density to potential. In this work, we learn this mapping using physics-informed machine learning methods, namely physics informed neural networks and Fourier neural operators. We demonstrate the capabilities of these two methods on a dataset of one-dimensional atomic and molecular models. The capabilities of each approach are discussed in conjunction with this proof-of-concept presentation. The primary finding of our investigation is that the combination of both approaches has the greatest potential for inverting the Kohn–Sham equations at scale.
 
