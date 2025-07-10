@@ -4,10 +4,9 @@
   display: none !important;
 }
 
-/* Hide author and keywords on specific pages */
-.quarto-title-meta-contents p,
-.keywords {
-  display: none !important;
+/* Remove underline from links within panel-tabset */
+.panel-tabset a {
+  text-decoration: none !important;
 }
 
 /*-- scss:rules --*/
@@ -63,8 +62,10 @@
 
 .overview-thumbnail {
   display: block !important;
+  width: 400px !important;
+  height: 250px !important;
   border-radius: 10% !important;
-  object-fit: cover !important;
+  object-fit: contain !important;
   margin: 1rem auto !important; /* 1rem top/bottom margin, auto left/right for centering */
 }
 

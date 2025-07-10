@@ -36,20 +36,51 @@ We develop the **Materials Learning Algorithms (MALA)**, a physics-informed mach
 
 :::
 
+**Key Areas:** Neural Networks, Electronic Structure Theory, Density Functional Theory, Atomistic Simulations
+
 
 ## Atomistic Molecular Spin Dynamics
 
 We combine first-principles calculations with machine learning models to generate accurate interatomic potentials for high-performance molecular-spin dynamics simulations. Our computational framework allow simultaneous simulations of ionic and spin dynamics, enabling detailed analyses of structural stability, transport phenomena, and magneto-structural phase transitions. This approach holds promise for developing next-generation magnetic materials and ultrafast magnetic storage technologies.
 
-*   **Key Areas:** Molecular Dynamics, Spin Dynamics, Interatomic Potentials, Magnetic Materials
-*   **Related Projects:**
-    * [Probing Iron in Earth’s Core with Molecular-Spin Dynamics](highlights_content/2412_iron_pnas.qmd)
-    * [Data-Driven Magneto-Elastic Predictions with Scalable Classical Spin-Lattice Dynamics](highlights_content/2109_npj_comput_mater.qmd)
+::: {.panel-tabset}
+
+### Proc. Natl. Acad. Sci. 121, e2408897121 (2024)
+
+| |
+|:---|:---|
+| <a href="highlights_content/2412_iron_pnas.qmd"><img src="highlights_content/2412_iron_pnas.webp" class="overview-thumbnail" alt="Molecular-spin dynamics highlight" width="50%"></a> | <a href="highlights_content/2412_iron_pnas.qmd"><strong>Probing Iron in Earth’s Core with Molecular-Spin Dynamics</strong></a> |
+
+### npj Comput. Mater. 7, 153 (2021)
+
+| |
+|:---|:---|
+| <a href="highlights_content/2109_npj_comput_mater.qmd"><img src="highlights_content/2109_npj_comput_mater.webp" class="overview-thumbnail" alt="Molecular-spin dynamics highlight" width="50%"></a> | <a href="highlights_content/2109_npj_comput_mater.qmd"><strong>Data-Driven Magneto-Elastic Predictions with Scalable Classical Spin-Lattice Dynamics</strong></a> |
+
+:::
+
+**Key Areas:** Machine Learning Interatomic Potentials, Atomistic Simulations, Molecular Dynamics, Spin Dynamics, Magnetic Materials
 
 
 ## Explorative Artificial Intelligence for Materials Modeling
 
 We leverage state-of-the-art machine learning techniques to advance and automate first-principles simulations, paving the way for rapid and targeted materials discovery. We employ physics-informed neural networks for inverting fundamental quantum mechanical equations, neural operators for modeling electron dynamics, and generative models for materials discovery.
 
-*   **Key Areas:** Time-Dependent Density Functional Theory, Exchange-Correlation Functionals, Neural Operators, Physics-Informed Neural Networks, AI for Materials Discovery
+::: {.panel-tabset}
+
+### Nat. Comput. Sci. 4, 729 (2024)
+
+| |
+|:---|:---|
+| <a href="highlights_content/2410_nat_comp_sci.qmd"><img src="highlights_content/2410_nat_comp_sci.webp" class="overview-thumbnail" alt="Bridging the Gap in Electronic Structure Calculations via Machine Learning highlight" width="50%"></a> | <a href="highlights_content/2410_nat_comp_sci.qmd"><strong>Bridging the Gap in Electronic Structure Calculations via Machine Learning</strong></a> |
+
+### Mach. Learn. Sci. Technol. 5 015050 (2024)
+
+| |
+|:---|:---|
+| <a href="highlights_content/2403_mach_learn_sci_technol.qmd"><img src="highlights_content/2403_mach_learn_sci_technol.webp" class="overview-thumbnail" alt="Inverting the Kohn–Sham Equations with Physics-Informed Machine Learning highlight" width="50%"></a> | <a href="highlights_content/2403_mach_learn_sci_technol.qmd"><strong>Inverting the Kohn–Sham Equations with Physics-Informed Machine Learning</strong></a> |
+
+:::
+
+**Key Areas:** Physics-Informed Neural Networks, Neural Operators, Time-Dependent Density Functional Theory, Exchange-Correlation Functionals, AI for Materials Discovery
  

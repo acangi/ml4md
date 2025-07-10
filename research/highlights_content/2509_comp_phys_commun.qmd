@@ -8,6 +8,7 @@ meta:
 #author: "Attila Cangi"
 subtitle: Comput. Phys. Commun. 314, 109654 (2025)
 date: "2025-05-09"
+date-format: " "
 image: "2509_comp_phys_commun.webp" # Using an existing image as a placeholder
 categories:
   - Quantum Materials

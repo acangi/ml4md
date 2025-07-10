@@ -8,6 +8,7 @@ meta:
 #author: "Attila Cangi"
 subtitle: Nat. Comput. Sci. 4, 729 (2024)
 date: "2024-10-10"
+date-format: " "
 image: "2410_nat_comp_sci.webp" # Using an existing image as a placeholder
 categories:
   - Quantum Materials
@@ -16,5 +17,6 @@ categories:
 ---
 ![](2410_nat_comp_sci.webp){.overview-thumbnail alt="Abstract image for Bridging the Gap in Electronic Structure Calculations via Machine Learning" width="35%"}
 
+Read our News & Views articles about machine learning for electronic structure calculations. News & Views articles inform readers about the latest advances in computational science, as reported in recently published papers or at scientific meetings.
 
 [Read the perspective paper](https://doi.org/10.1038/s43588-024-00707-3){target="_blank"}

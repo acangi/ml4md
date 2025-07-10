@@ -8,6 +8,7 @@ meta:
 #author: "Attila Cangi"
 subtitle: Phys. Rev. Mater. 6, 040301 (2022)
 date: "2022-04-05"
+date-format: " "
 image: "2204_phys_rev_mater.webp" # Using an existing image as a placeholder
 categories:
   - Quantum Materials

@@ -8,6 +8,7 @@ meta:
 #author: "Attila Cangi"
 subtitle: Proc. Natl. Acad. Sci. 121, e2408897121 (2024)
 date: "2024-12-12"
+date-format: " "
 image: "2412_iron_pnas.webp" # Using an existing image as a placeholder
 categories:
   - Quantum Materials

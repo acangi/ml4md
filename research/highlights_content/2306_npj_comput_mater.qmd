@@ -8,6 +8,7 @@ meta:
 #author: "Attila Cangi"
 subtitle: npj Comput. Mater. 9, 115 (2023)
 date: "2023-06-27"
+date-format: " "
 image: "2306_npj_comput_mater.webp" # Using an existing image as a placeholder
 categories:
   - Quantum Materials
