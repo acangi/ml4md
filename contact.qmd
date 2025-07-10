@@ -6,13 +6,15 @@ meta:
   - name: keywords
     content: "Machine Learning, Materials Design, AI, Artificial Intelligence, Cangi Lab, Contact"
 ---
-Feel free to get in touch with us. Whether you’re interested in collaborations, prospective student projects, or just want to learn more about our work, we are interested to hear from you. We are always looking for talented individuals to join our team and contribute to exciting new projects.
+
+We’d be happy to hear from you. Whether you're interested in collaborating, joining our team as a postdoctoral researcher, PhD student, or student research assistant, or simply learning more about our work, feel free to get in touch. We are always looking for motivated and talented individuals to contribute to our research and take part in exciting new projects.
 
 
 ### General Inquiries
 
-[Attila Cangi](https://www.hzdr.de/db/!ContMan.Visi.Card?pUser=139621&pNid=1227&pLang=en){target="_blank"} \
+For inquiries, feel free to contact us.
 
+[Attila Cangi](https://www.hzdr.de/db/!ContMan.Visi.Card?pUser=139621&pNid=1227&pLang=en){target="_blank"} \
 Email: a.cangi@hzdr.de \
 Phone: +49 3581 375 23 52 
 
@@ -24,5 +26,3 @@ D-02826 Görlitz
 ### Find Us
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2502.4633107893223!2d14.974382076604273!3d51.15524733636819!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4708dd50d7252c41%3A0x2b8364884b1f8926!2sCASUS%20-%20Center%20for%20Advanced%20Systems%20Understanding%20am%20HZDR!5e0!3m2!1sen!2sde!4v1751294459296!5m2!1sen!2sde" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-
-### [Legal Disclaimer](disclaimer.qmd)

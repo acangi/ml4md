@@ -41,7 +41,7 @@ website:
         text: Contact
         icon: envelope
   page-footer:
-    center: "© 2025 Attila Cangi · Built with [Quarto](https://quarto.org)"
+    center: "© 2025 [Attila Cangi](https://www.hzdr.de/db/!ContMan.Visi.Card?pUser=139621&pNid=1227&pLang=en) · [Impressum](disclaimer.qmd) · Built with [Quarto](https://quarto.org)"
 
 format:
   html:
