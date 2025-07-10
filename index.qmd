@@ -9,9 +9,9 @@ title-block-keywords: false
 title-block-description: false
 meta:
   - name: description
-    content: "Official website of the Machine Learning for Materials Design (ML4MD) Lab, led by Attila Cangi. Research focuses on artificial intelligence, machine learning, neural networks, electronic structure, density functional theory and atomistic simulations for materials science."
+    content: "Official website of Attila Cangi and the Machine Learning for Materials Design (ML4MD) Lab. Research focuses on artificial intelligence, machine learning, neural networks, electronic structure, density functional theory and atomistic simulations for materials science."
   - name: keywords
-    content: "Machine Learning, Materials Design, AI, Artificial Intelligence, Cangi Lab, Electronic Structure, DFT, Atomistic Simulations, Novel Materials"
+    content: "Attila Cangi, Machine Learning, Materials Design, AI, Artificial Intelligence, Cangi Lab, Electronic Structure, DFT, Atomistic Simulations, Novel Materials"
 ---
 Our lab leverages artificial intelligence and high-performance computing to accelerate the discovery and design of advanced materials. We focus on developing machine learning methods that advance first-principles simulations of electronic and atomistic structures, enabling unprecedented accuracy and efficiency in materials modeling.
 

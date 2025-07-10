@@ -2,9 +2,9 @@
 title: "Attila Cangi"
 meta:
   - name: description
-    content: "Profile of Attila Cangi, Head of the Machine Learning for Materials Design (ML4MD) Lab."
+    content: "Profile of Attila Cangi, a leading researcher in machine learning for materials design and head of the ML4MD Lab. Discover his work on AI, electronic structure, and atomistic simulations."
   - name: keywords
-    content: "ML4MD Lab, People, Attila Cangi, Head of Department"
+    content: "Attila Cangi, ML4MD Lab, People, Head of Department, Machine Learning, Materials Design, AI, Electronic Structure, DFT, Atomistic Simulations"
 sortby: "1"
 subtitle: "Head of Department"
 image: attila_cangi.webp # Ensure this image has appropriate alt text if used directly in content
@@ -37,8 +37,13 @@ about:
 :::{#person-profile}
 :::
 
-<!---
 ## Biography
+
+Attila Cangi is head of the Department of Machine Learning for Materials Design at the Center for Advanced Systems Understanding, Helmholtz-Zentrum Dresden-Rossendorf. With his team, he conducts research on the application of artificial intelligence and machine learning to computational materials modeling. His main goal is to develop AI-based solutions for sustainable materials, focusing on areas such as thermoelectric materials, spintronics, neuromorphic devices, and advanced semiconductor modeling. He received his Ph.D. in chemistry from the University of California, Irvine, and previously worked as a postdoctoral fellow at the Max Planck Institute of Microstructure Physics and as a staff member at Sandia National Laboratories.
+
+
+
+<!---
 ## Experience
 ## Education
 -->
