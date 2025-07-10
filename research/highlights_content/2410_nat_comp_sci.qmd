@@ -15,7 +15,7 @@ categories:
   - Electronic Structure Theory
   - Machine Learning
 ---
-![](2410_nat_comp_sci.webp){.overview alt="Abstract image for Bridging the Gap in Electronic Structure Calculations via Machine Learning" width="35%"}
+![](2410_nat_comp_sci.webp){.overview alt="Abstract image for Bridging the Gap in Electronic Structure Calculations via Machine Learning"}
 
 Read our News & Views articles about machine learning for electronic structure calculations. News & Views articles inform readers about the latest advances in computational science, as reported in recently published papers or at scientific meetings.
 

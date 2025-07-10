@@ -17,7 +17,7 @@ categories:
   - Magnetic Materials
   - Machine Learning
 ---
-![](2412_iron_pnas.webp){.overview alt="Abstract image for Probing Iron in Earth’s Core with Molecular-Spin Dynamics" width="35%"}
+![](2412_iron_pnas.webp){.overview alt="Abstract image for Probing Iron in Earth’s Core with Molecular-Spin Dynamics"}
 
 
 Despite the importance of magnetism in numerous materials, magnetic effects have been absent in molecular-dynamics studies. Herein, we implement a molecular-spin dynamics methodology to accurately resolve, across large regions of phase-space, structural/magnetic transitions, and elastic/transport properties for iron. This endeavor is critically important for reconciling different theories of geodynamo operation, augmenting decades of deep experimental investigation. Our approach offers an explicit and scalable treatment for longitudinal spin fluctuations, which play a more pronounced role in BCC-iron, a phase hypothesized to exist near the melt transition at Earth-core pressures. Leveraging first-principal calculations to build an Fe molecular-spin dynamics model, we resolve the high-pressure BCC metastability (>240 GPa), while accurately recovering compressional wave-velocity, bulk moduli, viscosity, and electrical conductivity.

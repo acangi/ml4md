@@ -15,7 +15,7 @@ categories:
   - Electronic Structure Theory
   - Machine Learning
 ---
-![](2306_npj_comput_mater.webp){.overview alt="Abstract image for Predicting Electronic Structures at Any Length Scale with Machine Learning" width="35%"}
+![](2306_npj_comput_mater.webp){.overview alt="Abstract image for Predicting Electronic Structures at Any Length Scale with Machine Learning"}
 
 The properties of electrons in matter are of fundamental importance. They give rise to virtually all material properties and determine the physics at play in objects ranging from semiconductor devices to the interior of giant gas planets. Modeling and simulation of such diverse applications rely primarily on density functional theory (DFT), which has become the principal method for predicting the electronic structure of matter. While DFT calculations have proven to be very useful, their computational scaling limits them to small systems. We have developed a machine learning framework for predicting the electronic structure on any length scale. It shows up to three orders of magnitude speedup on systems where DFT is tractable and, more importantly, enables predictions on scales where DFT calculations are infeasible. Our work demonstrates how machine learning circumvents a long-standing computational bottleneck and advances materials science to frontiers intractable with any current solutions.
 
