@@ -7,6 +7,7 @@
 /* Remove underline from links within panel-tabset */
 .panel-tabset a {
   text-decoration: none !important;
+  display: block;
 }
 
 /*-- scss:rules --*/
@@ -61,22 +62,11 @@
 }
 
 .overview-thumbnail {
-  display: block !important;
-  width: 400px !important;
-  height: 250px !important;
+  max-width: 300px !important;
+  max-height: 300px !important;
   border-radius: 10% !important;
   object-fit: contain !important;
-  margin: 1rem auto !important; /* 1rem top/bottom margin, auto left/right for centering */
+  margin: 1rem auto !important; /* 1rem top/bottom margin, auto left/right for     │
+ │           centering */
 }
 
-.panel-tabset table {
-  border: none !important;
-}
-
-.panel-tabset table tr {
-  border: none !important;
-}
-
-.panel-tabset table td {
-  border: none !important;
-}

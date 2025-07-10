@@ -18,21 +18,36 @@ We develop the **Materials Learning Algorithms (MALA)**, a physics-informed mach
 
 ### Comput. Phys. Commun. 314, 109654 (2025)
 
-| |
-|:---|:---|
-| <a href="highlights_content/2509_comp_phys_commun.qmd"><img src="highlights_content/2509_comp_phys_commun.webp" class="overview-thumbnail" alt="MALA highlight" width="50%"></a> | <a href="highlights_content/2509_comp_phys_commun.qmd"><strong>Materials Learning Algorithms (MALA): Scalable Machine Learning for Electronic Structure Calculations in Large-Scale Atomistic Simulations</strong></a> |
+<div>
+  <a href="highlights_content/2509_comp_phys_commun.qmd">
+    <strong>Materials Learning Algorithms (MALA): Scalable Machine Learning for Electronic Structure Calculations in Large-Scale Atomistic Simulations</strong>
+  </a>
+  <a href="highlights_content/2509_comp_phys_commun.qmd">
+    <img src="highlights_content/2509_comp_phys_commun.webp" class="overview-thumbnail" alt="MALA highlight">
+  </a>
+</div>
 
 ### npj Comput. Mater. 9, 115 (2023)
 
-| |
-|:---|:---|
-| <a href="highlights_content/2306_npj_comput_mater.qmd"><img src="highlights_content/2306_npj_comput_mater.webp" class="overview-thumbnail" alt="Predicting electronic structures highlight" width="50%"></a> | <a href="highlights_content/2306_npj_comput_mater.qmd"><strong>Predicting Electronic Structures at Any Length Scale with Machine Learning</strong></a> |
+<div>
+  <a href="highlights_content/2306_npj_comput_mater.qmd">
+    <strong>Predicting Electronic Structures at Any Length Scale with Machine Learning</strong>
+  </a>
+  <a href="highlights_content/2306_npj_comput_mater.qmd">
+    <img src="highlights_content/2306_npj_comput_mater.webp" class="overview-thumbnail" alt="Predicting electronic structures highlight">
+  </a>
+</div>
 
 ### Phys. Rev. Mater. 6, 040301 (2022)
 
-| |
-|:---|:---|
-| <a href="highlights_content/2204_phys_rev_mater.qmd"><img src="highlights_content/2204_phys_rev_mater.webp" class="overview-thumbnail" alt="Deep dive into ML for DFT highlight" width="50%"></a> | <a href="highlights_content/2204_phys_rev_mater.qmd"><strong>Deep Dive into Machine Learning Density Functional Theory for Materials Science and Chemistry</strong></a> |
+<div>
+  <a href="highlights_content/2204_phys_rev_mater.qmd">
+    <strong>Deep Dive into Machine Learning Density Functional Theory for Materials Science and Chemistry</strong>
+  </a>
+  <a href="highlights_content/2204_phys_rev_mater.qmd">
+    <img src="highlights_content/2204_phys_rev_mater.webp" class="overview-thumbnail" alt="Deep dive into ML for DFT highlight">
+  </a>
+</div>
 
 :::
 
@@ -47,15 +62,25 @@ We combine first-principles calculations with machine learning models to generat
 
 ### Proc. Natl. Acad. Sci. 121, e2408897121 (2024)
 
-| |
-|:---|:---|
-| <a href="highlights_content/2412_iron_pnas.qmd"><img src="highlights_content/2412_iron_pnas.webp" class="overview-thumbnail" alt="Molecular-spin dynamics highlight" width="50%"></a> | <a href="highlights_content/2412_iron_pnas.qmd"><strong>Probing Iron in Earth’s Core with Molecular-Spin Dynamics</strong></a> |
+<div>
+  <a href="highlights_content/2412_iron_pnas.qmd">
+    <strong>Probing Iron in Earth’s Core with Molecular-Spin Dynamics</strong>
+  </a>
+  <a href="highlights_content/2412_iron_pnas.qmd">
+    <img src="highlights_content/2412_iron_pnas.webp" class="overview-thumbnail" alt="Molecular-spin dynamics highlight">
+  </a>
+</div>
 
 ### npj Comput. Mater. 7, 153 (2021)
 
-| |
-|:---|:---|
-| <a href="highlights_content/2109_npj_comput_mater.qmd"><img src="highlights_content/2109_npj_comput_mater.webp" class="overview-thumbnail" alt="Molecular-spin dynamics highlight" width="50%"></a> | <a href="highlights_content/2109_npj_comput_mater.qmd"><strong>Data-Driven Magneto-Elastic Predictions with Scalable Classical Spin-Lattice Dynamics</strong></a> |
+<div>
+  <a href="highlights_content/2109_npj_comput_mater.qmd">
+    <strong>Data-Driven Magneto-Elastic Predictions with Scalable Classical Spin-Lattice Dynamics</strong>
+  </a>
+  <a href="highlights_content/2109_npj_comput_mater.qmd">
+    <img src="highlights_content/2109_npj_comput_mater.webp" class="overview-thumbnail" alt="Molecular-spin dynamics highlight">
+  </a>
+</div>
 
 :::
 
@@ -70,15 +95,25 @@ We leverage state-of-the-art machine learning techniques to advance and automate
 
 ### Nat. Comput. Sci. 4, 729 (2024)
 
-| |
-|:---|:---|
-| <a href="highlights_content/2410_nat_comp_sci.qmd"><img src="highlights_content/2410_nat_comp_sci.webp" class="overview-thumbnail" alt="Bridging the Gap in Electronic Structure Calculations via Machine Learning highlight" width="50%"></a> | <a href="highlights_content/2410_nat_comp_sci.qmd"><strong>Bridging the Gap in Electronic Structure Calculations via Machine Learning</strong></a> |
+<div>
+  <a href="highlights_content/2410_nat_comp_sci.qmd">
+    <strong>Bridging the Gap in Electronic Structure Calculations via Machine Learning</strong>
+  </a>
+  <a href="highlights_content/2410_nat_comp_sci.qmd">
+    <img src="highlights_content/2410_nat_comp_sci.webp" class="overview-thumbnail" alt="Bridging the Gap in Electronic Structure Calculations via Machine Learning highlight">
+  </a>
+</div>
 
 ### Mach. Learn. Sci. Technol. 5 015050 (2024)
 
-| |
-|:---|:---|
-| <a href="highlights_content/2403_mach_learn_sci_technol.qmd"><img src="highlights_content/2403_mach_learn_sci_technol.webp" class="overview-thumbnail" alt="Inverting the Kohn–Sham Equations with Physics-Informed Machine Learning highlight" width="50%"></a> | <a href="highlights_content/2403_mach_learn_sci_technol.qmd"><strong>Inverting the Kohn–Sham Equations with Physics-Informed Machine Learning</strong></a> |
+<div>
+  <a href="highlights_content/2403_mach_learn_sci_technol.qmd">
+    <strong>Inverting the Kohn–Sham Equations with Physics-Informed Machine Learning</strong>
+  </a>
+  <a href="highlights_content/2403_mach_learn_sci_technol.qmd">
+    <img src="highlights_content/2403_mach_learn_sci_technol.webp" class="overview-thumbnail" alt="Inverting the Kohn–Sham Equations with Physics-Informed Machine Learning highlight">
+  </a>
+</div>
 
 :::
 
