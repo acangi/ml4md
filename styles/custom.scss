@@ -77,6 +77,10 @@
   margin: 1rem auto !important;
 }
 
+.slider .slide a {
+  text-decoration: none !important;
+}
+
 .slick-prev:before, .slick-next:before {
     color: black;
 }
