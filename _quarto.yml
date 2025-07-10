@@ -22,11 +22,12 @@ website:
         text: News
         icon: chat-left-text                # Icons from https://icons.getbootstrap.com/
       - text: Research
-        menu:
-          - href: research/index.qmd
-            text: Overview
-          - href: research/highlights.qmd
-            text: Research Highlights
+        href: research/index.qmd
+        #menu:
+        #  - href: research/index.qmd
+        #    text: Overview
+        #  - href: research/highlights.qmd
+        #    text: Research Highlights
         icon: rocket-takeoff
       - href: people.qmd
         text: People

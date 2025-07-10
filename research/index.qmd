@@ -83,4 +83,6 @@ We leverage state-of-the-art machine learning techniques to advance and automate
 :::
 
 **Key Areas:** Physics-Informed Neural Networks, Neural Operators, Time-Dependent Density Functional Theory, Exchange-Correlation Functionals, AI for Materials Discovery
- 
+
+
+### [More Research Highlights](highlights.qmd)
