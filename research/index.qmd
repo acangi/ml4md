@@ -14,11 +14,9 @@ Our lab leverages machine learning and high-performance computing simulations to
 
 We develop the **Materials Learning Algorithms (MALA)**, a physics-informed machine learning framework designed to accelerate conventional density functional theory simulations. MALA employs neural network architectures to accurately predict electronic structures across different parameter spaces. Our scalable approach overcomes the limitations of conventional density functional theory simulations, paving the way for electronic structure calculations at unprecedented length and time scales.
 
-::: {.panel-tabset}
+::: {.slider}
 
-### Comput. Phys. Commun. 314, 109654 (2025)
-
-<div>
+<div class="slide">
   <a href="highlights_content/2509_comp_phys_commun.qmd">
     <strong>Materials Learning Algorithms (MALA): Scalable Machine Learning for Electronic Structure Calculations in Large-Scale Atomistic Simulations</strong>
   </a>
@@ -27,9 +25,7 @@ We develop the **Materials Learning Algorithms (MALA)**, a physics-informed mach
   </a>
 </div>
 
-### npj Comput. Mater. 9, 115 (2023)
-
-<div>
+<div class="slide">
   <a href="highlights_content/2306_npj_comput_mater.qmd">
     <strong>Predicting Electronic Structures at Any Length Scale with Machine Learning</strong>
   </a>
@@ -38,9 +34,7 @@ We develop the **Materials Learning Algorithms (MALA)**, a physics-informed mach
   </a>
 </div>
 
-### Phys. Rev. Mater. 6, 040301 (2022)
-
-<div>
+<div class="slide">
   <a href="highlights_content/2204_phys_rev_mater.qmd">
     <strong>Deep Dive into Machine Learning Density Functional Theory for Materials Science and Chemistry</strong>
   </a>
@@ -56,13 +50,11 @@ We develop the **Materials Learning Algorithms (MALA)**, a physics-informed mach
 
 ## Atomistic Molecular Spin Dynamics
 
-We combine first-principles calculations with machine learning models to generate accurate interatomic potentials for high-performance molecular-spin dynamics simulations. Our computational framework allow simultaneous simulations of ionic and spin dynamics, enabling detailed analyses of structural stability, transport phenomena, and magneto-structural phase transitions. This approach holds promise for developing next-generation magnetic materials and ultrafast magnetic storage technologies.
+We combine first-principles calculations with machine learning models to generate interatomic potentials for high-performance molecular-spin dynamics simulations. Our computational framework allow simultaneous simulations of ionic and spin dynamics, enabling detailed analyses of structural stability, transport phenomena, and magneto-structural phase transitions. This approach holds promise for developing next-generation magnetic materials and ultrafast magnetic storage technologies.
 
-::: {.panel-tabset}
+::: {.slider}
 
-### Proc. Natl. Acad. Sci. 121, e2408897121 (2024)
-
-<div>
+<div class="slide">
   <a href="highlights_content/2412_iron_pnas.qmd">
     <strong>Probing Iron in Earth’s Core with Molecular-Spin Dynamics</strong>
   </a>
@@ -71,9 +63,7 @@ We combine first-principles calculations with machine learning models to generat
   </a>
 </div>
 
-### npj Comput. Mater. 7, 153 (2021)
-
-<div>
+<div class="slide">
   <a href="highlights_content/2109_npj_comput_mater.qmd">
     <strong>Data-Driven Magneto-Elastic Predictions with Scalable Classical Spin-Lattice Dynamics</strong>
   </a>
@@ -91,11 +81,9 @@ We combine first-principles calculations with machine learning models to generat
 
 We leverage state-of-the-art machine learning techniques to advance and automate first-principles simulations, paving the way for rapid and targeted materials discovery. We employ physics-informed neural networks for inverting fundamental quantum mechanical equations, neural operators for modeling electron dynamics, and generative models for materials discovery.
 
-::: {.panel-tabset}
+::: {.slider}
 
-### Nat. Comput. Sci. 4, 729 (2024)
-
-<div>
+<div class="slide">
   <a href="highlights_content/2410_nat_comp_sci.qmd">
     <strong>Bridging the Gap in Electronic Structure Calculations via Machine Learning</strong>
   </a>
@@ -104,9 +92,7 @@ We leverage state-of-the-art machine learning techniques to advance and automate
   </a>
 </div>
 
-### Mach. Learn. Sci. Technol. 5 015050 (2024)
-
-<div>
+<div class="slide">
   <a href="highlights_content/2403_mach_learn_sci_technol.qmd">
     <strong>Inverting the Kohn–Sham Equations with Physics-Informed Machine Learning</strong>
   </a>
@@ -121,3 +107,18 @@ We leverage state-of-the-art machine learning techniques to advance and automate
 
 
 ### [More Research Highlights](highlights.qmd)
+
+<script>
+$(document).ready(function(){
+  $('.slider').slick({
+    dots: true,
+    infinite: true,
+    speed: 300,
+    slidesToShow: 1,
+    centerMode: false,
+    variableWidth: false,
+    adaptiveHeight: true,
+    arrows: true
+  });
+});
+</script>
