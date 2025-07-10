@@ -60,3 +60,22 @@
   object-fit: cover !important;
   margin: 1rem auto !important; /* 1rem top/bottom margin, auto left/right for centering */
 }
+
+.overview-thumbnail {
+  display: block !important;
+  border-radius: 10% !important;
+  object-fit: cover !important;
+  margin: 1rem auto !important; /* 1rem top/bottom margin, auto left/right for centering */
+}
+
+.panel-tabset table {
+  border: none !important;
+}
+
+.panel-tabset table tr {
+  border: none !important;
+}
+
+.panel-tabset table td {
+  border: none !important;
+}

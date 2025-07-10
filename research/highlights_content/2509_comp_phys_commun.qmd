@@ -14,7 +14,7 @@ categories:
   - Electronic Structure Theory
   - Machine Learning
 ---
-![](2509_comp_phys_commun.webp){.course-thumbnail alt="Abstract image for Materials Learning Algorithms (MALA): Scalable Machine Learning for Electronic Structure Calculations in Large-Scale Atomistic Simulations"}
+![](2509_comp_phys_commun.webp){.overview-thumbnail width="35%" alt="Abstract image for Materials Learning Algorithms (MALA): Scalable Machine Learning for Electronic Structure Calculations in Large-Scale Atomistic Simulations"}
 
 We present the Materials Learning Algorithms (MALA) package, a scalable machine learning framework designed to accelerate density functional theory (DFT) calculations suitable for large-scale atomistic simulations. Using local descriptors of the atomic environment, MALA models efficiently predict key electronic observables, including local density of states, electronic density, density of states, and total energy. The package integrates data sampling, model training and scalable inference into a unified library, while ensuring compatibility with standard DFT and molecular dynamics codes. We demonstrate MALA’s capabilities with examples including boron clusters, aluminum across its solid-liquid phase boundary, and predicting the electronic structure of a stacking fault in a large beryllium slab. Scaling analyses reveal MALA’s computational efficiency and identify bottlenecks for future optimization. With its ability to model electronic structures at scales far beyond standard DFT, MALA is well suited for modeling complex material systems, making it a versatile tool for advanced materials research.
 

@@ -14,11 +14,27 @@ Our lab leverages machine learning and high-performance computing simulations to
 
 We develop the **Materials Learning Algorithms (MALA)**, a physics-informed machine learning framework designed to accelerate conventional density functional theory simulations. MALA employs neural network architectures to accurately predict electronic structures across different parameter spaces. Our scalable approach overcomes the limitations of conventional density functional theory simulations, paving the way for electronic structure calculations at unprecedented length and time scales.
 
-*   **Key Areas:** Density Functional Theory, Neural Networks, Atomistic Simulations, High-Performance Computing
-*   **Related Projects:**
-    * [Materials Learning Algorithms (MALA): Scalable Machine Learning for Electronic Structure Calculations in Large-Scale Atomistic Simulations](highlights_content/2509_comp_phys_commun.qmd)
-    * [Predicting Electronic Structures at Any Length Scale with Machine Learning](highlights_content/2306_npj_comput_mater.qmd)
-    * [Deep Dive into Machine Learning Density Functional Theory for Materials Science and Chemistry](highlights_content/2204_phys_rev_mater.qmd)
+::: {.panel-tabset}
+
+### Comput. Phys. Commun. 314, 109654 (2025)
+
+| |
+|:---|:---|
+| <a href="highlights_content/2509_comp_phys_commun.qmd"><img src="highlights_content/2509_comp_phys_commun.webp" class="overview-thumbnail" alt="MALA highlight" width="50%"></a> | <a href="highlights_content/2509_comp_phys_commun.qmd"><strong>Materials Learning Algorithms (MALA): Scalable Machine Learning for Electronic Structure Calculations in Large-Scale Atomistic Simulations</strong></a> |
+
+### npj Comput. Mater. 9, 115 (2023)
+
+| |
+|:---|:---|
+| <a href="highlights_content/2306_npj_comput_mater.qmd"><img src="highlights_content/2306_npj_comput_mater.webp" class="overview-thumbnail" alt="Predicting electronic structures highlight" width="50%"></a> | <a href="highlights_content/2306_npj_comput_mater.qmd"><strong>Predicting Electronic Structures at Any Length Scale with Machine Learning</strong></a> |
+
+### Phys. Rev. Mater. 6, 040301 (2022)
+
+| |
+|:---|:---|
+| <a href="highlights_content/2204_phys_rev_mater.qmd"><img src="highlights_content/2204_phys_rev_mater.webp" class="overview-thumbnail" alt="Deep dive into ML for DFT highlight" width="50%"></a> | <a href="highlights_content/2204_phys_rev_mater.qmd"><strong>Deep Dive into Machine Learning Density Functional Theory for Materials Science and Chemistry</strong></a> |
+
+:::
 
 
 ## Atomistic Molecular Spin Dynamics
