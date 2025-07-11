@@ -50,7 +50,7 @@ We develop the **Materials Learning Algorithms (MALA)**, a physics-informed mach
 
 ## Atomistic Molecular Spin Dynamics
 
-We combine first-principles calculations with machine learning models to generate interatomic potentials for high-performance molecular-spin dynamics simulations. Our computational framework allow simultaneous simulations of ionic and spin dynamics, enabling detailed analyses of structural stability, transport phenomena, and magneto-structural phase transitions. This approach holds promise for developing next-generation magnetic materials and ultrafast magnetic storage technologies.
+We use a combination of first-principles calculations and machine learning models to generate interatomic potentials for high-performance molecular-spin dynamics simulations. This allows us to simulate ionic and spin dynamics simultaneously, enabling detailed analyses of structural stability, transport phenomena, and magneto-structural phase transitions. This approach shows promise in advancing next-generation magnetic materials and ultrafast magnetic storage technologies.
 
 ::: {.slider}
 
