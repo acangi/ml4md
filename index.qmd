@@ -19,7 +19,7 @@ Our lab leverages artificial intelligence and high-performance computing to acce
 
 Driven by a passion for fundamental discovery, our research bridges theoretical research with developing practical solutions to address critical challenges in materials science.
 
-To learn more about our work, read the latest [News](news.qmd) from our lab, explore our [Research Highlights](research/highlights.qmd) for detailed insights into ongoing projects, and get to know the [People](people.qmd) behind our research. Visit our [Publications](publications.qmd) page for a comprehensive overview of our scientific contributions, and find educational resources on machine learning and materials science under [Teaching](teaching.qmd).
+To learn more about our work, read the latest [News](news.qmd) from our lab, explore [Research](research/index.qmd) for detailed insights into ongoing projects, and get to know the [People](people.qmd) behind our research. Visit our [Publications](publications.qmd) page for a comprehensive overview of our scientific contributions, and find educational resources on machine learning and materials science under [Teaching](teaching.qmd).
 
 ---
 

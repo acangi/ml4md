@@ -113,7 +113,8 @@ $(document).ready(function(){
   $('.slider').slick({
     dots: true,
     infinite: true,
-    speed: 300,
+    autoplay: true,
+    speed: 500,
     slidesToShow: 1,
     centerMode: false,
     variableWidth: false,
