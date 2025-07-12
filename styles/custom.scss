@@ -54,16 +54,16 @@
 
 .news-thumbnail {
   display: block !important;
-  max-width: 800px !important; /* Matches image-height in news.qmd */
-  max-height: 600px !important; /* Matches image-height in news.qmd */
+  max-width: 400px !important; /* Matches image-height in news.qmd */
+  max-height: 400px !important; /* Matches image-height in news.qmd */
   border-radius: 10% !important;
   object-fit: cover !important;
   margin: 1rem auto !important; /* 1rem top/bottom margin, auto left/right for centering */
 }
 
 .overview-thumbnail {
-  width: 300px !important;
-  height: 300px !important;
+  max-width: 300px !important;
+  max-height: 300px !important;
   border-radius: 10% !important;
   object-fit: contain !important;
   margin: 1rem auto !important;
