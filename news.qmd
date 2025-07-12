@@ -11,14 +11,54 @@ listing:
   id: news-listing
   contents: "news/**/index.qmd"
   sort: "date desc"
-  type: default
+  type: custom
+  template: "_includes/_news-slider-item.qmd"
   categories: false
   image-height: 150px
 ---
 
-Latest news from our lab.
+<script>
+$(document).ready(function(){
+  console.log('DEBUG: DOM ready. Starting polling for .slide elements.');
 
-<br></br>
+  let attempts = 0;
+  const maxAttempts = 100; // Increased attempts for more robustness (10 seconds total)
 
-::: {#news-listing}
-:::
+  const checkSlidesInterval = setInterval(function() {
+    attempts++;
+    const slides = $('.slide');
+    console.log(`Polling attempt ${attempts}: Found ${slides.length} .slide elements.`);
+
+    if (slides.length > 0) {
+      clearInterval(checkSlidesInterval);
+      console.log('Slides found. Attempting to find parent and initialize slick.');
+
+      // Find the common parent of the slides, which should be the #news-listing div
+      const newsListingContainer = slides.first().parent();
+
+      if (newsListingContainer.length > 0 && typeof $.fn.slick === 'function') {
+        newsListingContainer.slick({
+          dots: true,
+          infinite: false,
+          autoplay: true,
+          speed: 1000,
+          vertical: true,
+        verticalSwiping: true,
+        slidesToShow: 3,
+        slidesToScroll: 2,
+        centerMode: true,
+        variableWidth: false,
+        adaptiveHeight: false,
+        arrows: false
+        });
+        console.log('Slick slider initialized on parent container.');
+      } else {
+        console.error('Slick initialization failed: Parent container not found or slick.js not loaded.');
+      }
+    } else if (attempts >= maxAttempts) {
+      clearInterval(checkSlidesInterval);
+      console.error('Slick slider initialization timed out: No .slide elements found.');
+    }
+  }, 50); // Check every 50ms
+});
+</script>

@@ -1,0 +1,11 @@
+<% for (const item of items) { %>
+<div class="slide">
+  <a href="<%= item.path %>">
+    <strong><%= item.title %></strong>
+  </a>
+  <p><%= item.date %></p>
+  <a href="<%= item.path %>">
+    <img src="<%= item.image %>" class="overview-thumbnail" alt="<%= item.title %>">
+  </a>
+</div>
+<% } %>

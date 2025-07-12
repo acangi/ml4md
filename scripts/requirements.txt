@@ -1,3 +1,4 @@
 requests
 PyYAML
 pyiso4
+beautifulsoup4

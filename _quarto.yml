@@ -53,6 +53,7 @@ format:
     css: /styles/custom.css
     toc: false
     include-in-header: _includes/head_meta.html
+    
 
 markdown_extensions:
   - attr_list
