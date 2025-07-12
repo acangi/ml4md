@@ -33,6 +33,8 @@ listing:
       started: "Started"
       ended: "Ended"
       lkp: "Last known position"
+
+title-block-banner: false
 ---
 
 :::{#current}

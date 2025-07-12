@@ -5,6 +5,7 @@ meta:
     content: "Official website of the Machine Learning for Materials Design (ML4MD) Lab, led by Attila Cangi. Contact information section."
   - name: keywords
     content: "Machine Learning, Materials Design, AI, Artificial Intelligence, Cangi Lab, Contact"
+title-block-banner: true
 ---
 
 We’d be happy to hear from you. Whether you're interested in collaborating, joining our team as a postdoctoral researcher, PhD student, or student research assistant, or simply learning more about our work, feel free to get in touch. We are always looking for motivated and talented individuals to contribute to our research and take part in exciting new projects.

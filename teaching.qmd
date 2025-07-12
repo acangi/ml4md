@@ -40,6 +40,7 @@ listing:
     fields: [title, subtitle, date, image]
     sort: "date desc"
     categories: false
+title-block-banner: false
 ---
 
 ## Summer Semester 2025

@@ -17,6 +17,7 @@ listing:
   filter-ui: [title, author]              # search box
   #categories: true                       # auto side‑bar filters
   page-size: 10                           # pagination
+title-block-banner: false
 ---
 
 ```{=markdown}

@@ -18,7 +18,7 @@ website:
     left:
       #- href: index.qmd
       #  text: Home
-      - href: news.qmd
+      - href: news-archive.qmd
         text: News
         icon: chat-left-text                # Icons from https://icons.getbootstrap.com/
       - text: Research
@@ -50,7 +50,7 @@ website:
 format:
   html:
     theme: cosmo
-    css: /styles/custom.css
+    css: _site/styles/custom.css
     toc: false
     include-in-header: _includes/head_meta.html
     

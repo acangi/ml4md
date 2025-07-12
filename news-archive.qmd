@@ -1,0 +1,16 @@
+---
+title: "News Archive"
+listing:
+  contents: "news/**/index.qmd"
+  sort: "date desc"
+  type: grid
+  categories: false
+  sort-ui: false
+  filter-ui: false
+page-layout: full
+css: /styles/custom.scss
+title-block-banner: false
+---
+
+:::{#news-archive-listing}
+:::
