@@ -6,6 +6,7 @@ meta:
   - name: keywords
     content: "ML4MD Lab, News, Discovered Magazine, Helmholtz-Zentrum Dresden-Rossendorf"
 date: "2023-11-01"
+date-format: " "
 image: discovered_cover_2023.webp # Ensure this image has appropriate alt text if used directly in content
 draft: false
 categories:

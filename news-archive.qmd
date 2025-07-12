@@ -5,6 +5,8 @@ listing:
   sort: "date desc"
   type: grid
   categories: false
+  image-height: 150px
+  date-format: "MMMM DD, YYYY"
   sort-ui: false
   filter-ui: false
 page-layout: full

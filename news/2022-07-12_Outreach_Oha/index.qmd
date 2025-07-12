@@ -8,6 +8,7 @@ meta:
 #description: " "
 #author: " "
 date: "2022-07-12"
+date-format: " " 
 image: lange_nacht_goerlitz.webp # Ensure this image has appropriate alt text if used directly in content
 draft: false
 categories:

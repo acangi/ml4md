@@ -6,6 +6,7 @@ meta:
   - name: keywords
     content: "ML4MD Lab, News, Funding from Helmholtz AI, Helmholtz AI, SynRap"
 date: "2021-06-15"
+date-format: " " 
 image: Synrap_2021.webp # Ensure this image has appropriate alt text if used directly in content
 draft: false
 categories:

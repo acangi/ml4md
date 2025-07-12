@@ -8,6 +8,7 @@ meta:
 #description: " "
 #author: " "
 date: "2023-07-07"
+date-format: " "
 image: MALA_npj_2023.webp # Ensure this image has appropriate alt text if used directly in content
 draft: false
 categories:

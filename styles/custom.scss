@@ -45,7 +45,7 @@
 #listing-news-archive-listing div.thumbnail img.thumbnail-image, 
 .course-thumbnail {
   display: block !important;
-  width: 600px !important; /* Matches image-height in news.qmd */
+  width: 500px !important; /* Matches image-height in news.qmd */
   height: 300px !important; /* Matches image-height in news.qmd */
   border-radius: 10% !important;
   object-fit: cover !important;
@@ -54,16 +54,16 @@
 
 .news-thumbnail {
   display: block !important;
-  width: 600px !important; /* Matches image-height in news.qmd */
-  height: 300px !important; /* Matches image-height in news.qmd */
+  max-width: 800px !important; /* Matches image-height in news.qmd */
+  max-height: 600px !important; /* Matches image-height in news.qmd */
   border-radius: 10% !important;
   object-fit: cover !important;
   margin: 1rem auto !important; /* 1rem top/bottom margin, auto left/right for centering */
 }
 
 .overview-thumbnail {
-  max-width: 300px !important;
-  max-height: 200px !important;
+  width: 300px !important;
+  height: 300px !important;
   border-radius: 10% !important;
   object-fit: contain !important;
   margin: 1rem auto !important;
@@ -74,8 +74,8 @@
 }
 
 .overview {
-  width: 500px !important;
-  height: 500px !important;
+  width: 400px !important;
+  height: 400px !important;
   border-radius: 10% !important;
   object-fit: contain !important;
   margin: 1rem auto !important;
@@ -140,13 +140,4 @@
 .news-grid-description {
   font-size: 1em;
   color: #555;
-}
-
-.quarto-listing-item img.img-fluid {
-  display: block !important;
-  width: 100px !important;
-  height: 300px !important;
-  border-radius: 10% !important;
-  object-fit: cover !important;
-  margin: 1rem auto !important;
 }

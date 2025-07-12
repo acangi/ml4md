@@ -8,6 +8,7 @@ meta:
 #description: "Tim Callow and Bartosz Brzoza featured on local news"
 #author: "Attila Cangi"
 date: "2023-11-16"
+date-format: " "
 image: RD100_2023_Winner.webp # Ensure this image has appropriate alt text if used directly in content
 draft: false
 categories:

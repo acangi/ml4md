@@ -8,6 +8,7 @@ meta:
 #description: "Lenz Fiedler Defends his Ph.D."
 #author: "Attila Cangi"
 date: "2024-08-28"
+date-format: " "
 image: Defense_Lenz.webp # Ensure this image has appropriate alt text if used directly in content
 draft: false
 categories:

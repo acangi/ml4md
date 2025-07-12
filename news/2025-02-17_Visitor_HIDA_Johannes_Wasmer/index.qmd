@@ -8,6 +8,7 @@ meta:
 description: "HIDA Trainee Network funding for Johannes Wasmer"
 #author: "Attila Cangi"
 date: "2025-02-17"
+date-format: " "
 image: HIDA_Trainee_Network.png # Ensure this image has appropriate alt text if used directly in content
 draft: false
 categories:

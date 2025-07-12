@@ -8,6 +8,7 @@ meta:
 description: "Materials Science Method Could Advance Neuromorphic Computing for Artificial Intelligence"
 #author: "Attila Cangi"
 date: "2024-12-16"
+date-format: " "
 image: 2024-12-16_PNAS.webp # Ensure this image has appropriate alt text if used directly in content
 draft: false
 categories:
