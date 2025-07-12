@@ -45,7 +45,7 @@ $(document).ready(function(){
           vertical: true,
         verticalSwiping: true,
         slidesToShow: 5,
-        slidesToScroll: 3,
+        slidesToScroll: 5,
         centerMode: true,
         variableWidth: false,
         adaptiveHeight: false,
