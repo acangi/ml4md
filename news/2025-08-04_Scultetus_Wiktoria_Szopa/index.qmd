@@ -1,0 +1,30 @@
+---
+title: "Welcome Wiktoria!"
+meta:
+  - name: description
+    content: "News and updates from the Machine Learning for Materials Design (ML4MD) Lab: Welcome Wiktoria!"
+  - name: keywords
+    content: "ML4MD Lab, News, Wiktoria Szopa joins our group as a Scultetus Early Career Fellow, Welcome Wiktoria!"
+description: "Wiktoria Szopa joins our group as a Scultetus Early Career Fellow"
+#author: "Attila Cangi"
+date: "2025-08-04"
+date-format: " "
+image: wiktoria_szopa_vertical.png # Ensure this image has appropriate alt text if used directly in content
+draft: false
+categories:
+  - visitor
+  - award
+format:
+  html:
+    page-layout: full
+    toc: false
+---
+![](wiktoria_szopa.jpeg){.news-thumbnail alt="Image for Scultetus Early Career Fellowship for Wiktoria Szopa"}
+
+We are pleased to welcome Wiktoria Szopa as a student research assistant, funded by a Scultetus Early Career Fellowship. Wiktoria is currently pursuing her master’s degree in applied physics at the Warsaw University of Technology in Poland. The fellowship supports her six-month research stay in our group, during which she will conduct research for her master’s thesis.
+
+Wiktoria is working on modeling memristors using first-principles and atomistic simulations combined with machine learning. Memristors are nanoscale electronic components whose resistance varies depending on the history of the current that has passed through them. This property makes them highly promising for neuromorphic computing, which seeks to emulate the structure and function of the human brain.
+
+The Scultetus Early Career Fellowship promotes early scientific independence, international visibility, and encourages young researchers to tackle exciting research questions. Find out more about the [Scultetus Early Career Fellowship](https://www.casus.science/?page_id=3969){target="_blank"}. 
+
+Congratulations and welcome, Wiktoria!

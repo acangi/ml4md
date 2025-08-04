@@ -2,7 +2,7 @@
 - title: Strong geometry dependence of the X-ray Thomson Scattering Spectrum in single
     crystal silicon
   author: Thomas Gawne; Zhandos A. Moldabekov; Oliver Humphries; Karen Appel; Carsten
-    Bähtz; Victorien Bouffetier; E. Brambrink; Attila Cangi; Céline Crépisson; Sebastian
+    Bähtz; V. Bouffetier; E. Brambrink; Attila Cangi; Céline Crépisson; Sebastian
     Göde; Zuzana Konôpková; Mikako Makita; Mikhail Mishchenko; M. Nakatsutsumi; Lisa
     Randolph; Sebastian Schwalbe; Jan Vorberger; U. Zastrau; Tobias Dornheim; Thomas
     R. Preston
@@ -28,10 +28,10 @@
 - title: Ultrahigh resolution x-ray Thomson scattering measurements at the European
     X-ray Free Electron Laser
   author: Thomas Gawne; Zhandos A. Moldabekov; Oliver Humphries; Karen Appel; Carsten
-    Baehtz; Victorien Bouffetier; E. Brambrink; Attila Cangi; Sebastian Göde; Zuzana
-    Konôpková; Mikako Makita; Mikhail Mishchenko; M. Nakatsutsumi; Kushal Ramakrishna;
-    Lisa Randolph; Sebastian Schwalbe; Jan Vorberger; L. Wollenweber; U. Zastrau;
-    Tobias Dornheim; Thomas R. Preston
+    Baehtz; V. Bouffetier; E. Brambrink; Attila Cangi; Sebastian Göde; Zuzana Konôpková;
+    Mikako Makita; Mikhail Mishchenko; M. Nakatsutsumi; Kushal Ramakrishna; Lisa Randolph;
+    Sebastian Schwalbe; Jan Vorberger; L. Wollenweber; U. Zastrau; Tobias Dornheim;
+    Thomas R. Preston
   year: 2024
   date: '2024-06-12'
   journal: Phys. Rev. B
@@ -42,13 +42,13 @@
 - title: Effects of mosaic crystal instrument functions on x-ray Thomson scattering
     diagnostics
   author: Thomas Gawne; Hannah Bellenbaum; L. B. Fletcher; Karen Appel; Carsten Baehtz;
-    Victorien Bouffetier; E. Brambrink; D. B. Brown; Attila Cangi; Adrien Descamps;
-    Sebastian Goede; N. J. Hartley; M. Herbert; P. Hesselbach; Hauke Höppner; Oliver
-    Humphries; Zuzana Konôpková; Alejandro Laso García; Björn Lindqvist; J. Lütgert;
-    M. J. MacDonald; Mikako Makita; W. J. Martin; Mikhail Mishchenko; Zhandos A. Moldabekov;
-    M. Nakatsutsumi; Jean-Paul Naedler; P. Neumayer; A. Pełka; Chongbing Qu; Lisa
-    Randolph; J. Rips; T. Toncian; Jan Vorberger; L. Wollenweber; U. Zastrau; D. Kraus;
-    Thomas R. Preston; Tobias Dornheim
+    V. Bouffetier; E. Brambrink; D. B. Brown; Attila Cangi; Adrien Descamps; Sebastian
+    Goede; N. J. Hartley; M. Herbert; P. Hesselbach; Hauke Höppner; Oliver Humphries;
+    Zuzana Konôpková; Alejandro Laso García; Björn Lindqvist; J. Lütgert; M. J. MacDonald;
+    Mikako Makita; W. J. Martin; Mikhail Mishchenko; Zhandos A. Moldabekov; M. Nakatsutsumi;
+    Jean-Paul Naedler; P. Neumayer; A. Pełka; Chongbing Qu; Lisa Randolph; J. Rips;
+    T. Toncian; Jan Vorberger; L. Wollenweber; U. Zastrau; D. Kraus; Thomas R. Preston;
+    Tobias Dornheim
   year: 2024
   date: '2024-09-09'
   journal: J. Appl. Phys.
@@ -65,15 +65,6 @@
   href: https://doi.org/10.1088/2632-2153/ad3159
   path: https://doi.org/10.1088/2632-2153/ad3159
   kind: article
-- title: Machine learning-driven structure prediction for iron hydrides
-  author: Hossein Tahmasbi; Kushal Ramakrishna; Mani Lokamani; Attila Cangi
-  year: 2024
-  date: '2024-03-21'
-  journal: Phys. Rev. Mater.
-  doi: https://doi.org/10.1103/physrevmaterials.8.033803
-  href: https://doi.org/10.1103/physrevmaterials.8.033803
-  path: https://doi.org/10.1103/physrevmaterials.8.033803
-  kind: article
 - title: Bridging the gap in electronic structure calculations via machine learning
   author: Attila Cangi
   year: 2024
@@ -82,6 +73,15 @@
   doi: https://doi.org/10.1038/s43588-024-00707-3
   href: https://doi.org/10.1038/s43588-024-00707-3
   path: https://doi.org/10.1038/s43588-024-00707-3
+  kind: article
+- title: Machine learning-driven structure prediction for iron hydrides
+  author: Hossein Tahmasbi; Kushal Ramakrishna; Mani Lokamani; Attila Cangi
+  year: 2024
+  date: '2024-03-21'
+  journal: Phys. Rev. Mater.
+  doi: https://doi.org/10.1103/physrevmaterials.8.033803
+  href: https://doi.org/10.1103/physrevmaterials.8.033803
+  path: https://doi.org/10.1103/physrevmaterials.8.033803
   kind: article
 - title: Electrical conductivity of warm dense hydrogen from Ohm’s law and time-dependent
     density functional theory
@@ -359,17 +359,6 @@
   href: https://doi.org/10.1103/physrevresearch.4.023055
   path: https://doi.org/10.1103/physrevresearch.4.023055
   kind: article
-- title: 'Dissociating the phononic, magnetic and electronic contributions to thermal
-    conductivity: a computational study in alpha-iron'
-  author: Svetoslav Nikolov; Julien Tranchida; Kushal Ramakrishna; Mani Lokamani;
-    Attila Cangi; Mitchell Wood
-  year: 2022
-  date: '2022-02-03'
-  journal: J. Mater. Sci.
-  doi: https://doi.org/10.1007/s10853-021-06865-3
-  href: https://doi.org/10.1007/s10853-021-06865-3
-  path: https://doi.org/10.1007/s10853-021-06865-3
-  kind: article
 - title: Training-free hyperparameter optimization of neural networks for electronic
     structures in matter
   author: Lenz Fiedler; Nils Hoffmann; Parvez Mohammed; Gabriel A. Popoola; Tamar
@@ -380,6 +369,17 @@
   doi: https://doi.org/10.1088/2632-2153/ac9956
   href: https://doi.org/10.1088/2632-2153/ac9956
   path: https://doi.org/10.1088/2632-2153/ac9956
+  kind: article
+- title: 'Dissociating the phononic, magnetic and electronic contributions to thermal
+    conductivity: a computational study in alpha-iron'
+  author: Svetoslav Nikolov; Julien Tranchida; Kushal Ramakrishna; Mani Lokamani;
+    Attila Cangi; Mitchell Wood
+  year: 2022
+  date: '2022-02-03'
+  journal: J. Mater. Sci.
+  doi: https://doi.org/10.1007/s10853-021-06865-3
+  href: https://doi.org/10.1007/s10853-021-06865-3
+  path: https://doi.org/10.1007/s10853-021-06865-3
   kind: article
 - title: 'atoMEC: An open-source average-atom Python code'
   author: Timothy J. Callow; Daniel Kotik; Eli Kraisler; Attila Cangi

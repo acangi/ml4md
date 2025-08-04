@@ -7,7 +7,7 @@ meta:
     content: "ML4MD Lab, People, Wiktoria Szopa"
 sortby: "Szopa, Wiktoria"
 subtitle: "Student Research Assistant (Scultestus Early Career Fellow)"
-image: ../person-circle.svg # Ensure this image has appropriate alt text if used directly in content
+image: wiktoria_szopa.png # Ensure this image has appropriate alt text if used directly in content
 toc: false
 resources: 
   - "cv_wiktoria_szopa.pdf"
