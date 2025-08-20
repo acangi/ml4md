@@ -9,15 +9,6 @@
   href: https://doi.org/10.1002/ctpp.202390007
   path: https://doi.org/10.1002/ctpp.202390007
   kind: paratext
-- title: Machine-Learning for Static and Dynamic Electronic Structure Theory
-  author: Lenz Fiedler; Karan Shah; Attila Cangi
-  year: 2023
-  date: '2023-01-01'
-  journal: Chall. adv. comput. chem. phys.
-  doi: https://doi.org/10.1007/978-3-031-37196-7_5
-  href: https://doi.org/10.1007/978-3-031-37196-7_5
-  path: https://doi.org/10.1007/978-3-031-37196-7_5
-  kind: chapter
 - title: Examining the Alpha-Epsilon Transition in Iron Using Molecular-spin Dynamics
   author: Svetoslav Nikolov; Julien Tranchida; Aidan P. Thompson; Attila Cangi; Kushal
     Ramakrishna; Andrew Rohskopf; Mitchell Wood
@@ -39,6 +30,15 @@
   href: https://doi.org/10.2172/2430436
   path: https://doi.org/10.2172/2430436
   kind: talk
+- title: Machine-Learning for Static and Dynamic Electronic Structure Theory
+  author: Lenz Fiedler; Karan Shah; Attila Cangi
+  year: 2023
+  date: '2023-01-01'
+  journal: Chall. adv. comput. chem. phys.
+  doi: https://doi.org/10.1007/978-3-031-37196-7_5
+  href: https://doi.org/10.1007/978-3-031-37196-7_5
+  path: https://doi.org/10.1007/978-3-031-37196-7_5
+  kind: chapter
 - title: Improving Predictive Capability in REHEDS Simulations with Fast, Accurate,
     and Consistent Non-Equilibrium Material Properties
   author: Stephanie B. Hansen; Andrew Baczewski; Thomas Gomez; Thomas Hentschel; Christopher

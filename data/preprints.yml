@@ -44,16 +44,6 @@
   href: https://doi.org/10.48550/arxiv.2406.03301
   path: https://doi.org/10.48550/arxiv.2406.03301
   kind: preprint
-- title: "Accelerating Electron Dynamics Simulations through Machine Learned Time\n\
-    \  Propagators"
-  author: Karan Shah; Attila Cangi
-  year: 2024
-  date: '2024-07-12'
-  journal: arXiv (Cornell Univ.)
-  doi: https://doi.org/10.48550/arxiv.2407.09628
-  href: https://doi.org/10.48550/arxiv.2407.09628
-  path: https://doi.org/10.48550/arxiv.2407.09628
-  kind: preprint
 - title: "Electrical Conductivity of Warm Dense Hydrogen from Ohm's Law and\n  Time-Dependent\
     \ Density Functional Theory"
   author: Kushal Ramakrishna; Mani Lokamani; Attila Cangi
@@ -63,6 +53,16 @@
   doi: https://doi.org/10.48550/arxiv.2409.15160
   href: https://doi.org/10.48550/arxiv.2409.15160
   path: https://doi.org/10.48550/arxiv.2409.15160
+  kind: preprint
+- title: "Accelerating Electron Dynamics Simulations through Machine Learned Time\n\
+    \  Propagators"
+  author: Karan Shah; Attila Cangi
+  year: 2024
+  date: '2024-07-12'
+  journal: arXiv (Cornell Univ.)
+  doi: https://doi.org/10.48550/arxiv.2407.09628
+  href: https://doi.org/10.48550/arxiv.2407.09628
+  path: https://doi.org/10.48550/arxiv.2407.09628
   kind: preprint
 - title: "Materials Learning Algorithms (MALA): Scalable Machine Learning for\n  Electronic\
     \ Structure Calculations in Large-Scale Atomistic Simulations"

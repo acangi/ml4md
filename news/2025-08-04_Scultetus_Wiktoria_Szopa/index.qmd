@@ -19,7 +19,7 @@ format:
     page-layout: full
     toc: false
 ---
-![](wiktoria_szopa.jpeg){.news-thumbnail alt="Image for Scultetus Early Career Fellowship for Wiktoria Szopa"}
+![](wiktoria_szopa_vertical.png){.news-thumbnail alt="Image for Scultetus Early Career Fellowship for Wiktoria Szopa"}
 
 We are pleased to welcome Wiktoria Szopa as a student research assistant, funded by a Scultetus Early Career Fellowship. Wiktoria is currently pursuing her master’s degree in applied physics at the Warsaw University of Technology in Poland. The fellowship supports her six-month research stay in our group, during which she will conduct research for her master’s thesis.
 
