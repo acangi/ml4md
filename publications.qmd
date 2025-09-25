@@ -6,7 +6,9 @@ meta:
   - name: keywords
     content: "Machine Learning, Materials Design, AI, Artificial Intelligence, Cangi Lab, Publications, Research, Articles"
 listing:
-  contents: "data/articles.yml"           # relative to this file
+  contents:
+    - "data/articles.yml"                 # relative to this file
+    - "data/preprints-unpublished.yml"
   type: table                             # card layout :contentReference[oaicite:2]{index=2}
   grid-columns: 1                         # tweak for your theme / screen
   sort: "date desc"
@@ -19,5 +21,3 @@ listing:
   page-size: 10                           # pagination
 title-block-banner: false
 ---
-
-```{=markdown}
